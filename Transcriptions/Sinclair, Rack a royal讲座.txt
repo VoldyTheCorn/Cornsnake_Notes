@@ -1,0 +1,248 @@
+{Sinclair}{Reptiles and Research, What it Means to Rack a Royal: a Talk on Breaking the Cycle, 2023}{https://www.youtube.com/watch?v=PSOwCDUKMlA}{}{}{3}
+
+
+---
+【】【本段未整理】【】
+
+
+
+ | Full Talk
+
+Role: assistant
+English Version:
+What it means to rack a royal, as explained by Ellie Hills and me, is not about the snakes, it's about us. This is something I'm going to repeat throughout this talk, it's not about the snakes, it's about us. My name is Liam Sinclair and I have a Bachelor's degree in Animal Management, as does Ellie, who also has a Master's degree. We started Reptiles and Research to combat the misinformation we see in the reptile hobby and to rectify it with evidence-based scientific information. Before we delve deeper, does anyone here keep snakes in racks? Okay, so no one will be terrified of what I'm about to say.
+
+Chinese Version:
+关于王蟒的养护，我和艾丽·希尔斯要讲的并不是关于蛇，而是关于我们自己。我将在整个讲话中重复这个观点，这不是关于蛇，而是关于我们。我叫利亚姆·辛克莱尔，我和艾丽都拥有动物管理的学士学位，艾丽还有一个硕士学位。我们创立了“爬行动物与研究”项目，目的是对抗爬行动物爱好者中的误导信息，并用基于证据的科学信息进行纠正。在我们深入讨论之前，我想问一下，这里有人用架子养蛇吗？好的，那么没有人会对我接下来要说的话感到恐惧。
+
+English Version:
+Before we go into the depths of the topic, we need to preface this with an understanding of the micro and macro aspects of how animals learn. At a macro level, learning is essentially an action that has a consequence; whether it is beneficial or detrimental to the animal determines whether they repeat it or avoid it. The micro aspect involves neurons, which are specialized cells in our brains that communicate with electronic and chemical signals from the brain to the central nervous system. The synapses are the connection points between neurons, allowing the signals to cross over.
+
+Chinese Version:
+在深入主题之前，我们需要先了解动物学习的微观和宏观层面。在宏观层面，学习本质上是一个行为，这个行为有一个结果；这个结果对动物是否有益或有害，决定了它们是重复还是避免这个行为。微观层面涉及到神经元，这是我们大脑中的专门细胞，它们通过电子和化学信号从大脑传达到中枢神经系统。突触是神经元之间的连接点，允许信号跨越过去。
+
+English Version:
+Neuroplasticity is the ability of the brain to modify its shape and size in relation to experiences, making the brain malleable and easily adaptable to learning. When neurons fire consistently together, creating a neural pathway, and do so over multiple repetitions, they become stronger and more efficient at conducting the action. This is why the more you practice a task, the better you get at it. It's the neurons in your brain that allow you to repeat it at a more efficient rate, forming the basis of learning. When we stop practicing, the reverse happens and our neural pathways can atrophy. The brain's structure can change in response to stimulus or lack thereof, meaning it can go either way.
+
+Chinese Version:
+神经可塑性是大脑根据经验改变其形状和大小的能力，使大脑变得易于塑造和适应学习。当神经元一起连续发火，形成神经通路，并在多次重复中这样做，它们在执行动作时会变得更强、更高效。这就是为什么你越多地练习一个任务，你就会越擅长它。这是你大脑中的神经元让你能以更高效的速度重复它，形成学习的基础。当我们停止练习时，反向的情况会发生，我们的神经通路可能会萎缩。大脑的结构可以根据刺激或缺乏刺激而改变，这意味着它可以走向任何一方。
+
+English Version:
+Neuroplasticity is not exclusive to highly intelligent animals. It has been observed in honeybees, sea slugs, fish, and many mammals, including lab rats. It has also been observed in rattlesnakes, so we know it occurs in the brains of snakes. Learning and adapting in snakes is supported by neuroplasticity, and this has been demonstrated in numerous studies. In one study with corn snakes, a minimal enclosure and an enriched enclosure were provided with a hole in between, allowing the snakes to choose between the two. The corn snakes consistently chose the enriched enclosure, indicating that their neurons were firing in response to the stimuli provided in the enriched enclosure and thus learning.
+
+Chinese Version:
+神经可塑性并不仅限于高智商的动物。它已经在蜜蜂、海蛞蝓、鱼和许多哺乳动物中被观察到，包括实验室的大鼠。它也在响尾蛇中被观察到，所以我们知道它发生在蛇的大脑中。蛇的学习和适应能力得到了神经可塑性的支持，这在许多研究中都得到了证明。在一项关于玉米蛇的研究中，提供了一个最小的爬箱和一个丰富的爬箱，并在中间留了一个洞，让蛇可以在两者之间选择。玉米蛇一致选择了丰富的爬箱，这表明他们的神经元在对丰富的爬箱提供的刺激做出反应，从而学习。
+
+English Version:
+In another study, black rat snakes were shown to have superior learning capabilities when housed in enriched environments. They were quicker at learning trials compared to those kept in minimalist enclosures. This suggests that their neural pathways were firing more efficiently, with more neurons active, making them more adept at the tasks they were learning. This is why they demonstrated superior learning capabilities. Different parts of the brain were active, meaning they were more complex, more efficient, and were being used more, thus enabling them to do more.
+
+Chinese Version:
+在另一项研究中，黑鼠蛇在丰富的环境中表现出更高的学习能力。与那些被养在最简单的爬箱中的蛇相比，他们在学习试验中的反应更快。这表明他们的神经通路更高效地发火，有更多的神经元活跃，使他们在学习的任务中更加熟练。这就是为什么他们表现出优越的学习能力。大脑的不同部分都在活动，这意味着它们更复杂，更高效，并且被更多地使用，因此能做更多的事情。
+
+English Version:
+In a study involving Burmese pythons, the snakes were trained to press a lit-up button for a food reward. This is a clear example of a snake, from the same genus as royal pythons, being trained using operant conditioning. The action led to a positive consequence, which meant the action was repeated. The neural pathway fired in response to the understanding that pressing the button led to food. This is a non-natural action, yet they have the learning capabilities to do it. The same happened with Madagascar giant hognoses; when they were placed in a rich environment, their behavioral diversity increased. They could do more, and more neural pathways were created in relation to different experiences. More behaviors were expressed because they could do more.
+
+Chinese Version:
+在一项涉及缅甸蟒的研究中，蛇被训练按下一个亮起的按钮以获得食物奖励。这是一个清晰的例子，表明一个与王蟒同属的蛇能够通过操作性条件反射进行训练。行动带来了积极的结果，这意味着行动被重复。神经通路对按下按钮可以得到食物的理解做出反应。这是一个非自然的行为，然而它们有学习的能力去做到这一点。同样的事情也发生在马达加斯加巨型鼻蛇身上；当它们被放在一个丰富的环境中时，它们的行为多样性增加。它们能做更多的事情，与不同经验相关的更多神经通路被创建。因为它们能做更多的事情，所以表现出更多的行为。
+
+English Version:
+So what does all this have to do with royals? The point I'm trying to make is that royals are not the dumb, inactive "pet rocks" that people think they are. It's not them, it's what we're doing to them. It's not them, it's us. Now, what can happen to a royal's brain in a rack when it's kept in a situation with a lack of stimulation, complete darkness, and little to no opportunities for interaction? The potential outcomes include low adaptability to change, reduced resiliency, reduced cognitive ability as seen in other studies, limited ability to cope with stress, and more, which we'll discuss in the next part of the talk.
+
+Chinese Version:
+那么，这一切和王蟒有什么关系呢？我想要表达的观点是，王蟒并不是人们认为的那种愚蠢、不活跃的“宠物石头”。这不是它们，而是我们对它们所做的。这不是它们，而是我们。那么，当王蟒在一个缺乏刺激、完全黑暗、几乎没有互动机会的环境中被养在架子上时，可能会发生什么呢？可能的结果包括对变化的适应能力低、恢复力减弱、认知能力下降（如在其他研究中看到的那样）、应对压力的能力有限等等，我们将在下一部分的讲话中讨论。
+
+Role: assistant
+English Version:
+As seen in other studies, there is a limited ability to cope with stress. This is a big part of what's going to be discussed in this presentation. There's inhibited problem-solving and a lower cognitive ability. This is associated with specific parts of the brain that we'll go over shortly. There's an increase in generalized fear and an increased likelihood of stereotypical responses when exposed to fearful stimuli. This is especially true when these are the majority of their experiences, with little else in terms of problem-solving.
+
+Chinese Version:
+从其他研究中，我们可以看到应对压力的能力有限。这是我们这次讨论的一个重要部分。问题解决能力受到抑制，认知能力也较低。这与我们稍后将要讨论的大脑的特定部分有关。当暴露于恐惧刺激时，会出现普遍的恐惧增加和更大的可能性产生刻板反应。特别是当这些恐惧刺激占他们经历的大部分，而在问题解决方面几乎没有其他经验时，就更是如此。
+
+English Version:
+You've got brain structures that are associated with fear responses, like the amygdala. They'll have more neurons firing and more neural pathways engaging. It's like muscles; if you go to the gym, your muscles get bigger. If you don't use them, they atrophy. It's the same with the brain. Certain structures in the brain will get larger than others. Areas associated with fear or problem-solving, like the hippocampus, can be diminished if they're not used in the context of fear. This is because the hippocampus allows them to understand the context of said fear and then decide what to do about it. A skewing of the size of the structures in the brain can occur, leaning towards generalized fearfulness.
+
+Chinese Version:
+你的大脑结构中有一些与恐惧反应相关，如杏仁体。他们会有更多的神经元发射和更多的神经通路参与。这就像肌肉；如果你去健身房，你的肌肉会变大。如果你不使用它们，它们就会萎缩。大脑也是如此。大脑的某些结构会比其他结构大。与恐惧或问题解决相关的区域，如海马体，如果它们不在恐惧的情境中使用，就可能会减小。这是因为海马体能让他们理解所说的恐惧的情境，然后决定如何应对它。大脑结构的大小可能会发生偏斜，倾向于普遍的恐惧感。
+
+English Version:
+This example of complete darkness, no opportunities, and no stimulation is a pure example of sensory deprivation. Culturally, we're often putting them in a rack. Some of them are experiencing neural pathway atrophy and diminished cognitive ability because of the deprived environment. These parts of their brain that allow them to do complex things aren't being used, but the fearful parts are. Then we put them in a vivarium, and breeders regard this as a test. They put their adult breeders in a Vivarium and then put an animal that's been conditioned for a deprived environment into a complex environment.
+
+Chinese Version:
+这个关于完全黑暗、没有机会和没有刺激的例子是感官剥夺的纯粹例子。从文化上来看，我们经常把他们放在一个架子上。其中一些人因为贫瘠的环境而经历神经通路的萎缩和认知能力的降低。他们的大脑中允许他们做复杂事情的部分没有被使用，但是恐惧的部分正在被使用。然后我们把他们放在一个爬箱中，繁殖者把这看作是一个测试。他们把他们的成年繁殖者放在一个爬箱中，然后把一个已经适应了贫瘠环境的动物放进一个复杂的环境中。
+
+Role: assistant
+English version:
+The way breeders operate is entirely different. Breeder one, for instance, pulls out the water bowl, shuts the rack, cleans it, and then puts it back in. On the other hand, Breeder two opens the rack, pulls out the water bowl, cleans it, and leaves it open. He goes about his tasks, cleaning and whatnot, before returning the bowl to the rack. During this time, the snake may observe what's happening. If you've ever used racks, you've seen this where the snake comes forward, watching you. You have to coax the snake to go back in to shut the rack.
+
+Chinese version:
+养殖者的操作方式完全不同。例如，养殖者一会取出水碗，关闭爬箱，清洁它，然后放回去。另一方面，养殖者二会打开爬箱，取出水碗，清洁它并保持开放。他做他的任务，清洁等等，然后再把碗放回爬箱。在此期间，蛇可能在观察发生的事情。如果你曾经使用过爬箱，你已经看到过这样的情况，蛇向前来，看着你。你必须劝诱蛇回去才能关闭爬箱。
+
+English version:
+When they're doing a full service of the tray, Breeder one opens it, takes the snake, puts it in an empty rack drawer, and then cleans the enclosure. Breeder two takes the snake out, puts it on a table where he has things like dustpans, spray bottles, and different equipment, and then leaves the snake as he cleans the enclosure and the rack. The snake is exposed to new items, tastes, smells, and textures, which is a form of enrichment for them. The time they get to explore the table depends on how long it takes to clean the rack. Breeder one works in silence, while Breeder two plays music.
+
+Chinese version:
+当他们对托盘进行全面服务时，养殖者一打开它，取出蛇，将其放入空的爬箱抽屉，然后清洁围栏。养殖者二取出蛇，将其放在桌子上，那里有像簸箕，喷瓶和不同的设备，然后在清洁围栏和爬箱的同时离开蛇。蛇会接触到新的物品，品尝，气味和纹理，这对它们来说是一种丰富的体验。他们探索桌子的时间取决于清洁爬箱需要多长时间。养殖者一在寂静中工作，而养殖者二则播放音乐。
+
+English version:
+Recently, studies have shown that snakes can hear airborne noises. Breeder one pulls the tray out and closes it when he's done. Sometimes, they get so engaged in what they're doing that they just go about their tasks. Breeder one opens the water slowly, without sloshing, and closes it slowly. From this example, it's clear that even though their methods of keeping the racks are similar, the way they operate is entirely different. The amount of information and learning opportunities these snakes are exposed to is vastly different. The neural pathways that are strengthened and made more efficient in response to different stimuli will vary greatly between the two breeders.
+
+Chinese version:
+最近的研究表明，蛇可以听到空气中的噪音。养殖者一完成时会拉出托盘并关闭它。有时，他们在做的事情中如此投入，以至于他们只是去做他们的任务。养殖者一慢慢地打开水，没有溅出来，然后慢慢地关闭它。从这个例子中，很明显，即使他们保持爬箱的方法相似，他们的操作方式却完全不同。这些蛇接触到的信息量和学习机会大相径庭。在不同刺激下加强和提高效率的神经通路在两个养殖者之间将有很大的差异。
+
+English version:
+When we make this more extreme and say that one breeder keeps the snake in a translucent tray rather than an opaque one, we can see how many variables come into play. There are so many different factors that affect the number of learning experiences a snake can have, even though everyone says they keep them in racks. Again, it's not about the snakes, it's about us and our ability to interpret the situation.
+
+Chinese version:
+当我们使这个更极端，并说一个养殖者将蛇放在半透明的托盘中而不是不透明的托盘中，我们可以看到有多少变量起作用。有很多不同的因素影响蛇可以有多少学习经验，即使每个人都说他们把它们放在爬箱里。再说一次，这不是关于蛇，而是关于我们以及我们解释情况的能力。
+
+English version:
+Age also has an effect on neuroplasticity. It is greatest at a younger age when an organism needs to rapidly learn and adopt life skills. This is something you'll see when, for example, a human finds it easier to learn languages at a young age compared to as an adult. Also, the snake's history and experience with the rack might be a variable. Consider a snake that was in a rack for three months and you've had it for six years. Now flip that and imagine the animal has been in that rack for six years and you've had it for only three months. You can see why one might struggle more than the other. The snake with less learning experiences and greater plasticity might adapt more readily to new environments.
+
+Chinese version:
+年龄也会影响神经可塑性。当生物需要快速学习和采用生活技能时，神经可塑性在年轻时最大。例如，你会发现一个人在年轻时学习语言比成年时更容易。此外，蛇与爬箱的历史和经验可能也是一个变量。考虑一个在爬箱中待了三个月，你养了它六年的蛇。现在反过来想象一下，动物已经在那个爬箱中待了六年，你只养了它三个月。你可以看到为什么一个可能比另一个更艰难。学习经验较少，神经可塑性较大的蛇可能更容易适应新环境。
+
+English version:
+Then, when you couple that with poorly executed vivariums, it becomes even more challenging. Many pillars of the breeding community claim they're going to test their snakes in vivariums, but the vivariums they set up are lackluster at best. They might even go further and put one hide at one end and another hide at the other end, leaving an open space in the middle. When you have a snake that may have a skewed brain structure and lacks the neural pathways related to complexity, problem-solving, and spatial mapping, and then you set up a poor environment, what chance does that snake have?
+
+Chinese version:
+然后，当你将这个与执行不佳的活体展示箱结合起来，这就更具挑战性了。许多养殖社区的支柱声称他们将在活体展示箱中测试他们的蛇，但他们设置的活体展示箱充其量也就一般。他们甚至可能走得更远，把一个藏身的地方放在一端，另一个藏身的地方放在另一端，中间留出一个开放的空间。当你有一条可能具有偏斜的大脑结构并缺乏与复杂性，问题解决和空间映射相关的神经通路的蛇，然后你设置一个差的环境，那么这条蛇有什么机会呢？
+
+English version:
+So, what happens when they've studied this? When they've put snakes in racks and then in vivariums? Well, a study in Germany showed that 35 snakes exhibited a greater range of behaviors in the vivarium than in the rack. They also expressed stress behaviors in the rack. For instance, they frequently pushed their mouth against the barrier, which happened more often in the rack than in the vivarium, and it happened between the hours of 4 PM and 11 PM. In an opaque rack, you can't see in, and the only time you see in an opaque rack is when you open it.
+
+Chinese version:
+那么，当他们研究这个问题时会发生什么呢？当他们把蛇放在爬箱里，然后放在活体展示箱里呢？嗯，德国的一项研究显示，35条蛇在活体展示箱中表现出的行为范围比在爬箱中更广泛。他们还在爬箱中表现出压力行为。例如，他们经常用嘴巴推挤障碍物，这在爬箱中比在活体展示箱中更常见，而且这种情况发生在下午4点到晚上11点之间。
+
+Role: assistant
+English Version:
+In the rack, more activity was observed than in the vivarium, specifically between the hours of 4 P.M. and 11 P.M. The rack, being opaque, does not allow you to see inside. The only time you can see inside is when you open it. However, opening the rack interrupts the snake's activity. If the snake is at the front and you open the rack, it assumes that it's feeding time. This makes it hard to observe the snake's natural behavior, as opening the rack to observe it disrupts its activity.
+
+Chinese Version:
+由于蛇柜是不透明的，你无法看到里面。你只有在打开抽屉的时候才能看到里面。然而，打开抽屉会打断蛇的活动。如果蛇在前面，你打开抽屉，它会认为是喂食时间。这使得很难观察蛇的自然行为，因为打开蛇柜来观察它会打断它的活动。
+
+English Version:
+When the snakes were moved to the vivarium, they showed a significant increase in activity, suggesting they have more cognitive abilities than previously thought. More parts of their brains were firing, indicating that they were doing more than they could in the rack. The rack setup used in this study was more enriched than the standard in the hobby, even including a hide, which is more than some hobbyists provide.
+
+Chinese Version:
+当蛇被移动到爬箱时，它们显示出显著的活动增加，这表明它们的认知能力比之前认为的要多。它们的大脑的更多部分在发火，表明它们在抽屉中所能做的比在爬箱中要多。这个研究中使用的抽屉设置比爱好者的标准更丰富，甚至包括一个隐藏处，这比一些爱好者提供的还要多。
+
+English Version:
+It's common for people to generalize animals, like the royal python, and think they can be housed in any way we see fit. However, taking away their choice and agency to do what they want at any given time can be incredibly stressful for them. Removing enrichment and valuable resources can lead to feelings of learned helplessness and depression-like states. This isn't just a finding from human studies, it's also observed in animals.
+
+Chinese Version:
+人们常常将动物，如缅甸蟒，一概而论，认为它们可以以我们认为合适的任何方式来饲养。然而，剥夺它们随时做想做的事情的选择和能动性可能对它们造成极大的压力。去除丰富性和有价值的资源可能会导致学习无助感和类似抑郁的状态。这不仅仅是来自人类研究的发现，也在动物中观察到。
+
+English Version:
+Interestingly, when rats were induced into a depression-like state, they ate more. People often claim that racks are good for making the snakes eat more. This hasn't been studied in snakes, but it's something to think about. What happens when you take an animal that has developed neural pathways for various activities and then put it in a state of sensory deprivation with nothing to do?
+
+Chinese Version:
+有趣的是，当老鼠被诱导进入类似抑郁的状态时，它们会吃得更多。人们经常声称抽屉适合让蛇吃得更多。这在蛇中还没有被研究过，但这是值得思考的。当你把一个已经为各种活动发展出神经通路的动物放入一个没有任何事情可以做的感官剥夺状态时，会发生什么？
+
+English Version:
+You often hear people say that the snake just needs time to settle down. However, this isn't the snake settling down. What's happening is that the snake eventually succumbs to a state of learned helplessness. It learns that its actions have no effect on the outcome, so it gives up and becomes apathetic. This is often interpreted by the keeper as the snake being content, creating a feedback loop of misunderstanding.
+
+Chinese Version:
+你经常听到人们说蛇只需要时间来安定下来。然而，这并不是蛇在安定下来。实际上，蛇最终陷入了一种学习无助的状态。它学会了自己的行动对结果没有影响，所以它放弃了，变得冷漠。这通常被饲养者解读为蛇满足了，从而形成了一种误解的反馈循环。
+
+English Version:
+So, how should we transition a royal python from a rack to a vivarium? There are two methods: a soft transition and a hard transition. A hard transition is like trapping the snake directly in the vivarium, which is essentially a roll of the dice. A soft transition, on the other hand, involves learning as much as possible about how the breeder previously kept the snake and trying to replicate that for the animal.
+
+Chinese Version:
+那么，我们应该如何将缅甸蟒从抽屉转移到爬箱呢？有两种方法：软过渡和硬过渡。硬过渡就像直接把蛇困在爬箱里，这基本上就像掷骰子一样。另一方面，软过渡涉及尽可能多地了解饲养者以前是如何饲养蛇的，然后试图为动物复制那种环境。
+
+English Version:
+The most important part of this is that we, as the keepers, have no expectations of the snake. Many of us have expectations of the snake, such as wanting to hold it or wanting it to be outgoing. However, it's crucial that we let the snake be and do what it's going to do. If it hits the ground running, that's great. If not, you put a contingency in place.
+
+Chinese Version:
+这其中最重要的部分是，我们作为饲养者，对蛇没有期望。我们中的许多人对蛇有期望，比如想要抱着它或希望它外向。然而，让蛇自由行动，做它要做的事情是至关重要的。如果它一开始就做得很好，那就太好了。如果没有，你就需要制定一个应急计划。
+
+English Version:
+The snake's coping style of stress also comes into play. If it has a bold and proactive coping style of stress, it may succeed in a hard transition. If it has a withdrawn and passive style, it's very likely that the hard transition will fail, and you'll need to try a soft transition instead.
+
+Chinese Version:
+蛇的应对压力的方式也起到了作用。如果它有一种大胆和积极的应对压力的方式，它可能会在硬过渡中成功。如果它有一种内向和被动的方式，那么硬过渡很可能会失败，你需要尝试软过渡。
+
+English Version:
+So, how do we fix this? By breaking the cycle of education. We need to get to a point where we understand what's happening and educate others on a larger scale. Once we stop misinterpreting the rack as the best thing for the snake, we can move forward.
+
+Chinese Version:
+那么，我们怎么解决这个问题呢？通过打破教育的循环。我们需要达到一个我们理解发生了什么并在更大的范围内教育别人的地步。一旦我们停止误解抽屉是蛇的最好选择，我们就可以向前发展。
+==============OPENAI End===========
+
+Role: assistant
+English Version:
+Currently, it's an endless debate with everyone making good points about enrichment and welfare. However, since no one fully understands the situation, we're stuck in a stalemate. Once we break this cycle, the conversation will open up.
+
+Chinese Version:
+目前，这是一个无休止的辩论，每个人都在关于丰富和福利的问题上提出了很好的观点。然而，由于没有人完全理解这种情况，我们陷入了僵局。一旦打破这个循环，对话就会开放起来。
+
+English Version:
+"Is it possible to rebuild neural pathways as they age? Yes, it's possible, but it may be a struggle. Young animals have a greater rate of neuroplasticity, so they can probably recover easily. Older animals, especially those that have spent years or even decades in a rack system, may struggle a lot.
+
+Chinese Version:
+"它们年纪大了之后，是否有可能重建神经通路？是的，这是可能的，但可能会很困难。年轻的动物有更高的神经可塑性，所以他们可能很容易恢复。然而，那些在架子系统中度过了多年甚至几十年的老年动物，可能会有很大的困难。
+
+English Version:
+"Take for instance, a royal python that spent weeks learning how to use a hide. Or consider another example of a royal python that couldn't even perceive an open door in front of them. These are examples of how deprived they are in captivity. It's going to take work to help them, but it's not impossible.
+
+Chinese Version:
+"以一只需要花费几周时间学习如何使用隐藏处的王蟒为例。或者考虑另一个例子，一只王蟒甚至无法感知到它们面前的开门。这些都是他们在圈养中被剥夺的例子。帮助他们需要付出努力，但并非不可能。
+
+English Version:
+"There are myths about their ecology. Some people still believe they live in termite mounds, which is not entirely accurate. In the wild, they spend a lot of their time in places like burrows or termite mounds, but they're also active hunters. For example, they're known to raid bird nests and eat parrot juveniles.
+
+Chinese Version:
+"关于它们的生态学存在着一些误解。有些人仍然相信它们生活在白蚁堆中，这并不完全准确。在野外，它们大部分时间都在像洞穴或白蚁堆这样的地方度过，但它们也是活跃的猎食者。例如，它们被发现会袭击鸟巢，吃掉鹦鹉幼崽。
+
+English Version:
+"Moreover, they're able to eat birds up to about two feet long. They also eat mammals like bats and bush babies, as well as rats. They're not just waiting in a hole for their prey to come to them. They go out and hunt.
+
+Chinese Version:
+"此外，它们能够吃掉长达两英尺的鸟类。它们也吃像蝙蝠和灌木宝宝这样的哺乳动物，以及老鼠。它们不仅仅是在洞里等待猎物来到它们身边。它们会外出猎食。
+
+English Version:
+"Lastly, the size of the enclosure matters. An animal that was able to hug itself and the walls in a tight space may struggle if moved to a larger tub. This change could affect the animal's ability to self-soothe, a behavior known as positive thigmotaxis.
+
+Chinese Version:
+"最后，围栏的大小很重要。一个能在狭窄的空间里抱住自己和墙壁的动物，如果被移动到一个更大的浴缸中，可能会有困难。这种变化可能会影响动物自我安抚的能力，这种行为被称为积极的触觉趋性。
+
+Role: assistant
+English Version: The left side needs to open up and not maintain the positive aspect of my taxes from hugging yourself. Therefore, you've altered the entire situation where the snake could have tightly hugged and then hugged by the walls in a confined space. It's no longer a confined space because it's not being touched all around. You know what would rectify this? A hide. I suggested it and explained the whole concept, and her response was, "The rack is the hide." So, I gave her a possible solution. But due to the indoctrination and dogmatic information that has narrowed down her thinking, she couldn't even perceive that she needed a hide.
+
+Chinese Version: 左侧需要打开，不能保持我税收中的积极方面来拥抱自己。因此，你改变了整个情况，那里的蛇本可以紧紧地拥抱然后被墙壁在一个狭窄的空间中拥抱。现在它不再是一个狭窄的空间，因为它没有被四周触摸。你知道什么可以纠正这个问题吗？一个藏身之处。我建议了这个并解释了整个概念，她的回应是，“挡板就是藏身之处。”所以，我给了她一个可能的解决方案。但是由于教条主义和狗matic信息将她的思维范围缩小了，她甚至无法意识到她需要一个藏身之处。
+
+English Version: We've reached a point where people have been so indoctrinated and filled with dogmatic information that they can't even think sensibly about it. We're dealing with so much indoctrination and dogmatic information that people are now trapped in these narrow lanes of thought. They can't even think outside the box, and the idea of providing a hide isn't really that far-fetched, is it?
+
+Chinese Version: 我们已经达到了一个地步，人们被如此灌输和充斥着教条主义的信息，以至于他们甚至无法理性地思考。我们正在处理如此多的教条主义和教条主义信息，以至于人们现在被困在这些狭窄的思维道路上。他们甚至无法跳出框架去思考，而提供一个藏身之处的想法真的不是那么离谱，不是吗？
+
+English Version: If I keep almost negative racks and I listen to it, I would say that's great. What would be a set of tangible steps to start moving things out of racks? Because I'm not going to go back. So, if you know in yourself that you're basically a breeder, just put in steps to complete the way of working and allow them to think and have experiences. That's free and just in your routine.
+
+Chinese Version: 如果我几乎保持负面的架子并听取它，我会说那很好。开始将物品从架子上移出的一系列切实可行的步骤是什么？因为我不会回去。所以，如果你知道你自己基本上是一个育种者，只需按步骤完成工作方式，让他们思考和拥有经验。那是免费的，只在你的日常生活中。
+
+English Version: First, you can adapt your routine. You can get things like pop-up playpens for puppies, which are big hexagonal items with mesh. You can set that up somewhere and put things inside. If you're a rack keeper and you want to, you could put UV over this tent. As you do things, you could put things in this tent so they can experience that.
+
+Chinese Version: 首先，你可以适应你的日常生活。你可以得到像弹出式的小狗游戏围栏，它们是带有网格的大六角形物品。你可以在某个地方设置，然后将东西放在里面。如果你是一个架子保管员，你想的话，你可以在这个帐篷上放上紫外线。当你做事情的时候，你可以把东西放在这个帐篷里，让他们可以体验到。
+
+English Version: If you are a breeder and you've got these animals that are so far unable to cope with new experiences, you'll have to slowly get them to that stage with small transitions. But there's no reason why we can't think logically about what our next step can be.
+
+Chinese Version: 如果你是一个育种者，你有的这些动物到目前为止无法应对新的经验，你将不得不通过小的转变慢慢地让他们达到那个阶段。但是我们没有理由不能逻辑地思考我们的下一步应该是什么。
+
+English Version: Many people clean with kitchen paper and have a lure at the end. Put the lure in the tub. Everyone thinks that it means nothing because it's not fancy or it's not cork. But it's new and novel, and they've never experienced it before. There are scents on there, tastes on that. They can put their head through it, and they can do things for about five minutes. That's new and novel.
+
+Chinese Version: 许多人用厨房纸清洁，并在最后有一个诱饵。把诱饵放在浴缸里。每个人都认为这没有意义，因为它不是花哨的，也不是软木的。但它是新的和新颖的，他们以前从未经历过。那上面有气味，那上面有味道。他们可以把头伸进去，他们可以做大约五分钟的事情。那是新的和新颖的。
+
+English Version: To be honest, I was quite surprised by how long some snakes, like Kelly King, spent obsessing over it. You can do little things to get them to engage and build problem-solving skills and understand things. Then, you can transition to larger areas. Transitioning to translucent racks with hides would be a big step because they can look outside and have information coming in.
+
+Chinese Version: 老实说，我对一些蛇，比如Kelly King，花费了多长时间对此痴迷感到非常惊讶。你可以做一些小事情来让他们参与进来，建立解决问题的技能并理解事物。然后，你可以过渡到更大的区域。过渡到带有藏身处的透明架子将是一个大步骤，因为他们可以看到外面并且有信息进来。
+
+English Version: Where do you start with training a Burmese python? I've only done target training and stuff, but with operant conditioning, you'll do something and then pair that with a reward or a stimulus to build the association. Then, you work with incremental steps to get there. If something happens by accident, you can latch onto that and get it to work.
+
+Chinese Version: 你从哪里开始训练缅甸蟒？我只做过目标训练和一些东西，但是通过操作性条件反射，你会做一些事情，然后将其与奖励或刺激配对以建立关联。然后，你通过逐步的步骤来达到那里。如果某事意外发生，你可以抓住它并使其工作。
+
+English Version: I trained my bearded dragon to target train to a target. I wanted it to tongue flick and lick it, but it did that and looked at it right away. So, I capitalized upon that and did it a second time. They learn faster than you think, depending on the type of snake. If it's been through that process, it may be a bit slower, but it's doable. There are plenty of people that do it on YouTube. Laurie Torini has an entire YouTube channel dedicated to training snakes.
+
+Chinese Version: 我训练我的鬃狮蜥以目标训练为目标。我希望它用舌头轻弹并舔它，但是它做了那个并立即看了它。所以，我利用了这一点并做了第二次。他们学得比你想象的要快，这取决于蛇的类型。如果它经历过那个过程，可能会慢一点，但是可以做到。有很多人在YouTube上做这个。Laurie Torini有一个整个YouTube频道专门用于训练蛇。
+
+English Version: She's got 115 snakes, so it's not like it's not well tested.
+
+Chinese Version: 她有115条蛇，所以这并不是说它没有经过良好的测试。

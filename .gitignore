@@ -1,0 +1,26 @@
+/.idea
+*.iml
+/视频源文件/
+/未处理引文/
+*.xmp
+[Originals]
+[Originals]/*
+暂不上传.md
+/videos_original_resolution/*
+Scripts/ffmpeg.exe
+Scripts/ffprobe.exe
+Scripts/B2_cloud_secret.py
+~$*
+/待处理资源
+*.psd
+/.git_backup/
+/Obsolete/
+/附件/Reptile medicine and surgery in clinical practice. B. Doneley, D. Monks, R. Johnson, B. Carmel.pdf
+/附件/Mader's Reptile and Amphibian Medicine and Surgery, 3ed.pdf
+常用回复.txt
+/Test_Scripts/*
+饲料动物的处死.md
+/README_test.md
+/README_test2.md
+
+/videos before changing to libx264/

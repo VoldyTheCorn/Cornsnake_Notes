@@ -1,0 +1,138 @@
+
+【】【{Sinclair}{
+Let's Talk Herps, A Better Care Sheet For Snakes: A Discussion With Liam Sinclair of Reptiles And Research, 2022}{https://www.youtube.com/watch?v=6yOISQ5sQtQ}{}{}{3}】【】
+
+English Version: This leads me to a common question among new pet snake owners: What should I keep it in? Let's start with cage sizing. Many care sheets suggest that snakes prefer small, tight spaces. As your snake grows, the general rule of thumb I've seen in most care sheets is that the total length of the snake should equal the length plus the depth of the enclosure. Rarely is there any mention of height. For example, with ball python tub keeping, it's often said that the snake isn't a tree-climbing species and therefore only needs a tub as tall as it is. What are your thoughts on the minimum cage size for a new pet snake?
+
+Chinese Version: 这引出了新的宠物蛇主人的一个常见问题：我应该把它放在哪里？我们先从笼子的大小讲起。许多护理指南建议，蛇喜欢小而紧凑的空间。随着你的蛇长大，我在大多数护理指南中看到的一般规则是，蛇的总长度应等于笼子的长度加上深度。很少有关于高度的提及。例如，在饲养球蟒的时候，常常会说蛇不是树栖种类，因此只需要一个与它一样高的筒。关于新宠物蛇的最小笼子尺寸，你有什么看法？
+
+English Version: This is something I've been thinking about a lot recently. In the UK, especially in England, we have the Animals Activity License legislation for pet shops, which requires reptiles to be kept in a certain minimum size. The rules state that the vivarium should be two-thirds the length of the snake's body and one-third the depth. When you think about it, that's not very large. There was an outcry that this would ruin the hobby, but people adapted, and it hasn't affected anyone. Pet shops are still profitable. This would mean that a full-foot Mexican king snake would be kept in a three-foot vivarium. In my opinion, that's the bare minimum. I keep mine in four-foot vivariums, which are as long as the snake. This has always been my personal preference. However, it's concerning that the hobby isn't even meeting these minimum standards, which are not that difficult.
+
+Chinese Version: 这是我最近一直在思考的问题。在英国，尤其是在英格兰，我们有动物活动许可证法规，要求宠物店必须将爬行动物放在一定的最小尺寸中。规定中说，活体动物的长度应该是蛇身长度的三分之二，深度是三分之一。想想看，这并不是很大。有人抗议说这会破坏这个爱好，但是人们适应了，而且这并没有影响到任何人。宠物店仍然有利可图。这就意味着一个全脚长的墨西哥王蛇将被放在一个三脚长的活体动物中。在我看来，这是最低限度。我把我的蛇放在四脚长的活体动物中，这与蛇的长度一样。这一直是我个人的偏好。然而，让人担忧的是，这个爱好甚至没有达到这些最低标准，而这些标准并不难达到。
+
+Role: assistant
+English Version: Meeting these AAL standards, which frankly aren't exactly hard, would mean providing a certain amount of space for the animal. For instance, if you've got a 12-inch hatchling snake, in theory, you should be putting it in a 10 by 20 centimeter top. If you can't provide that, I would say that's really the bare minimum. Studies that came out this year showed that animals prefer larger spaces. In one of these studies, a group of corn snakes were given access to a small and a larger vivarium with the same resources. They were allowed to choose between the two via a T-junction pipe. The researchers only started recording data when the snake had explored both vivariums. They found that when the snakes wanted to be active, they chose the larger enclosure. It wasn't about the complexity of the environment; it was about the size. However, when they were resting, they didn't care about the size. From this, the authors of the study recommended that the length of a vivarium should at least be equivalent to the length of the snake.
+
+Chinese Version: 满足这些AAL标准实际上并不困难，它们需要为动物提供一定的空间。例如，如果你有一条12英寸的小蛇，理论上，你应该把它放在一个10乘20厘米的顶部。如果你不能提供这个，我会说这真的是最基本的要求。今年出版的一些研究表明，动物更喜欢更大的空间。在这些研究之一中，一组玉米蛇可以选择进入一个小的和一个更大的生活环境，这两个环境的资源是一样的。他们可以通过一个T型管道在两者之间选择。研究人员只有在蛇探索了两个生活环境后才开始记录数据。他们发现，当蛇想要活动时，它们会选择更大的环境。这并不是关于环境的复杂性，而是关于大小。然而，当它们休息时，它们并不关心大小。因此，这项研究的作者建议，一个生活环境的长度至少应该等于蛇的长度。
+
+English Version: I mean, you can't really argue with that. If you're keeping a large snake like a retic and someone's suggesting you keep it in an 18-foot vivarium, you might want to argue. But, if you can't provide that sort of setup because you have a large snake in the first place, why get a zoo animal if you can't provide a zoo setup? I completely agree with that. Some animals are just too big. The standard retic cage in the hobby is eight foot by three foot by two foot and that doesn't even meet the AAL standard.
+
+Chinese Version: 我的意思是，你不能真的反驳这一点。如果你养了一条像蟒蛇这样的大蛇，而有人建议你把它放在一个18英尺的生活环境中，你可能会想要反驳。但是，如果你不能提供这样的设置，因为你一开始就有一条大蛇，那么如果你不能提供动物园的设置，为什么要养动物园的动物呢？我完全同意这一点。有些动物就是太大了。业余爱好中的标准蟒蛇笼子是八英尺乘三英尺乘两英尺，这甚至都不符合AAL标准。
+
+English Version: It really annoys me how blind the hobby is. I mean, I think that's a minimum requirement. Then you go into veterinary textbooks like the matters reptile.
+
+Chinese Version: 这种业余爱好的盲目性真的让我很烦恼。我认为这是最低要求。然后你可以查阅兽医教科书，像是关于爬行动物的问题。
+
+Role: assistant
+English Version:
+This discussion will later move into animal rights, and it really annoys me how blind the hobby is. However, I believe there is a minimum level of care that should be provided. If you look at veterinary textbooks, such as those on reptile medicine, you will see that their recommended standards differ for arboreal and terrestrial snakes. They even have an entire section dedicated to whipsticks and coach whips. For a terrestrial snake, they suggest a minimum enclosure size based on the snake's body length, with different recommendations for breeders and pet keepers. For example, for my three foot male MBK, the recommended minimum enclosure size would be six by two by two. When you consider these recommendations, it makes you realize that a cage the length of the snake isn't really that extreme.
+
+Chinese Version:
+我们的讨论稍后将涉及到动物权利问题，业余爱好者对此视而不见真的让我很烦恼。然而，我相信应该有一个最低的护理水平。如果你查看兽医教科书，比如关于爬行动物医学的书籍，你会发现他们对树栖和地栖蛇的推荐标准有所不同。他们甚至有一整个章节专门讨论鞭蛇和马鞭蛇。对于地栖蛇，他们建议最小的笼子尺寸应基于蛇的体长，对于繁殖者和宠物饲养者有不同的建议。例如，对于我的三英尺雄性MBK，推荐的最小笼子尺寸应该是六英尺乘二英尺乘二英尺。当你考虑这些建议时，你会意识到，一个蛇长的笼子其实并不那么极端。
+
+English Version:
+Personally, I would say that the length of the snake is a great starting point for determining the size of the enclosure. I currently have six snakes, most of which are fairly small, with the exception of a couple of Brazilian rainbow boas. When I was planning on getting four by two by two enclosures last year, I thought that was a great size. It's larger than what most people get, and it provides some climbing height. However, the more I learn about how they move and where they go, the more I wish I had gotten a larger enclosure. It's a matter of finding the space and the funds for it, but I think it's valuable information to have before bringing home your first snake. Don't just assume that a four foot king snake will stay in a 20 gallon tank its whole life. Start with the right expectations and keep them in mind. If you're planning to get a boa constrictor, dome rose boa, rainbow boa, indigo snake, or reticulated python, know what you're getting into.
+
+Chinese Version:
+就我个人而言，我认为蛇的长度是确定笼子大小的一个很好的起点。我现在有六条蛇，其中大多数都相当小，除了几条巴西彩虹蟒。当我去年计划购买四英尺乘二英尺乘二英尺的笼子时，我认为那是一个很好的尺寸。它比大多数人得到的要大，而且提供了一些攀爬的高度。然而，我对它们的移动方式和去处了解得越多，就越希望我得到的笼子更大。这是一个寻找空间和资金的问题，但我认为在你带回家你的第一条蛇之前有这些信息是很有价值的。不要只是假设一条四英尺长的王蛇会在一个20加仑的罐子里待其一生。从正确的期望开始，并牢记在心。如果你打算得到一个蟒蛇，玫瑰蟒，彩虹蟒，靛蛇，或网纹蟒，你需要知道你将面临什么。
+
+English Version:
+I didn't mention the height earlier, but it's also an important consideration. Let me pause for a moment to bring up a point that Lori mentioned in the chat. She said that while small, tight spaces are preferred by snakes for safety and to feel secure when resting or sleeping, many species utilize large, open spaces when they are awake and active.
+
+Chinese Version:
+我之前没有提到高度，但这也是一个重要的考虑因素。让我暂停一下，提一下Lori在聊天中提到的一个观点。她说，虽然蛇在休息或睡觉时喜欢小而紧凑的空间以感到安全，但许多种类在清醒和活跃时会利用大的开放空间。
+
+Role: assistant
+English Version:
+Lori made a valuable point in the chat that I would like to bring up. Small, tight spaces are preferred by many species for safety and security, particularly when resting or sleeping. However, when awake and active, many species utilize large open spaces and travel long distances. I believe this is what you were referring to with the corn steaks, Nutty, and the veterinary recommendation. Even though we humans experience a level of activity that they do not, these creatures do look for tight places to hide, but they also travel distances. I am currently experiencing this, as a few people are aware that I had a snake escape last Tuesday.
+
+Chinese Version:
+洛瑞在聊天中提出了一个很有价值的观点，我想引用一下。许多物种喜欢在休息或睡觉时选择小而紧密的空间以确保安全和舒适。然而，当它们清醒和活跃时，许多物种会利用大的开放空间并且会长途旅行。我相信这就是你提到的关于玉米牛排，Nutty，和兽医的建议。即使我们人类经历的活动水平他们并没有，这些生物确实会寻找紧密的地方藏起来，但他们也会旅行一段距离。我现在正在经历这样的情况，因为有几个人知道我上周二有一条蛇逃跑了。
+
+English Version:
+If the snake had stayed in a small, tight space, that would have been terrific because then it wouldn't have left its cage, or it would be right under it on the table. But now, it could be anywhere in the house because that's what they do. They hide in tight places, but when they're ready to come out, they do and they travel a distance. I'm sure it will turn up eventually, but it's one of those things that we often overlook. We tend to think that just because a snake likes to hide, it doesn't need more than a certain amount of space. But they do like to move out.
+
+Chinese Version:
+如果蛇留在小而紧密的空间，那将是极好的，因为那样它就不会离开它的笼子，或者它会在桌子下面。但现在，它可能在房子的任何地方，因为这就是它们的习性。它们在紧密的地方藏起来，但当它们准备出来时，它们会出来并且旅行一段距离。我相信它最终会出现，但这是我们经常忽视的事情之一。我们往往认为，只因为蛇喜欢藏起来，它就不需要超过一定的空间。但是它们确实喜欢出去。
+
+English Version:
+It seems that people have taken just one aspect of snake behavior and formed housing around that, instead of looking at their behavior 24/7. It is indeed weird, but also convenient. As I mentioned earlier, these cages fit perfectly in this room and I could fit two more right next to it if I wanted to. The mindset is that isn't four snakes better than just two? But when you have that mindset, you think, "Okay, I keep smaller species."
+
+Chinese Version:
+似乎人们只是抓住了蛇的行为的一个方面，围绕那个形成了住房，而不是全天候观察它们的行为。这确实很奇怪，但也很方便。正如我之前提到的，这些笼子完美地适应了这个房间，如果我想的话，我可以在旁边再放两个。思维模式是，四条蛇不是比两条好吗？但当你有那种思维模式时，你会想，“好吧，我养的是小型物种。”
+
+English Version:
+Personally, I think one of the best snakes for pet owners is king snakes because they remain relatively small in size. There's a multitude of different subspecies and colors. So, if you're into different colors, it's not like a corn steak where one could say three feet, one could get five and a half. Kings generally are quite small and they aren't as active as a rat snake, but that doesn't mean they're not active at all. I think they're a terrific beginner snake.
+
+Chinese Version:
+就我个人而言，我认为对于宠物主人来说，最好的蛇是国王蛇，因为它们的体型相对较小。有很多不同的亚种和颜色。所以，如果你喜欢不同的颜色，这不像玉米牛排那样，有人可能会说三英尺，有人可能会说五英尺半。国王蛇通常都很小，它们的活动性不如鼠蛇，但这并不意味着它们一点也不活跃。我认为它们是非常好的初级蛇。
+
+
+Role: assistant
+English Version: A terrific beginner snake, even though a lot of people will tell you that, I still think they're overlooked just for how cool they are. But yeah, you were saying about enclosure size. So, what's the value of height as well? Because a lot of times, that's not even mentioned in the character. Sometimes they'll say, give a stick to climb on.
+
+Chinese Version: 一种很好的初级蛇类，尽管很多人会告诉你这一点，但我仍然认为他们被忽视了，只是因为他们是多么的酷。但是，你刚才提到了养护箱的大小。那么，高度的价值是什么呢？因为很多时候，这甚至都没有在特征中提到。有时他们会说，给它一根可以爬的棍子。
+
+English Version: What's really interesting is that they did a study on great grey rat snakes, or black rat snakes, one of them, where they had separated a clutch into a control and a test group. The control group was given a newspaper of waterborne height. The test group was given hide, waterfall, shavings, and then a bit of driftwood that was angled back. They basically gave a little bit of shavings and a stick. The result of that study was that the test group, with the enriched enclosure, grew larger, longer, and weighed more in the same month time, even though they literally weighed the pinkies and the food going in was exactly the same.
+
+Chinese Version: 真正有趣的是，他们对大灰鼠蛇或黑鼠蛇进行了一项研究，其中他们将一窝蛇分为对照组和实验组。对照组给了一个新闻纸的水生高度。实验组则给了隐藏、瀑布、刨花，然后是一根倾斜的漂木。他们基本上给了一点刨花和一根棍子。那项研究的结果是，尽管他们真的称了小指和进食的食物完全相同，但实验组在同一月份内，长得更大、更长，体重也更重。
+
+English Version: They were better at adapting to new environments. That's something that Laurie talks about a lot. If you've got this undisturbed snake and it can't adapt to new situations, then of course things are going to stress it out. It's about exposing them to new stresses and helping them habituate and adapt, and then grow cognitively. They were better at this puzzle trial. The ones in the complex environment were faster at it. They were better at subduing and killing live prey. Just a little bit of complexity played a massive role in their cognitive development.
+
+Chinese Version: 它们更擅长适应新环境。这是劳里经常谈论的一个问题。如果你有一条不被打扰的蛇，它不能适应新的情况，那么当然会让它感到压力。这是关于让他们接触新的压力，帮助他们习惯和适应，然后在认知上成长。他们在这个谜题试验中表现得更好。在复杂环境中的那些蛇在解决问题上更快。他们更擅长制服和杀死活猎物。只是一点点的复杂性在他们的认知发展中起到了巨大的作用。
+
+English Version: That's only provided a little bit of ability to climb and it basically allowed them to express more species typical behaviors. Now, when you take that into say, the thing behind me that's more complex than a little stick and a little bit of shavings. I don't see how anyone can make the argument that it isn't better for them cognitively. All the other choices, thermal regulatory issues, and things are outside. Even if it's just cognition, I don't see any way you can make an argument where that is not better than before or how we may have done it before.
+
+Chinese Version: 这只是提供了一点爬行的能力，基本上让他们能够表达更多的物种典型行为。现在，当你把这个带入到我后面的东西，那比一根小棍子和一点刨花更复杂。我不明白有人怎么能争辩说这对他们的认知能力没有好处。所有其他的选择，热调节问题，和其他的东西都在外面。即使只是认知，我也看不出你怎么能争论说这不比以前好，或者我们以前可能如何做过。
+
+Role: assistant
+English Version:
+There are some keepers who would always fight against change until the day they die. However, when you see certain behaviors in your own snake, and hear similar stories from thousands of other keepers, and then studies come out proving these observations, you can't really argue against it anymore. I had a whole train of thoughts that I was going to delve into, but I sidetracked myself with the topic of height and regulations. The Animal Activities Licensing (AAL) has had no height regulations, it was just about the length of the enclosure. Even this study about the use of large spaces didn't mention height either. But height is one of those factors that, if provided, snakes will use it. It can make a difference in the development of the animal, especially in terms of their muscle tone.
+
+Chinese Version:
+有些饲养者会一直反对变化，直到他们去世。然而，当你在自己的蛇身上看到某些行为，并从其他几千名饲养者那里听到类似的故事，然后研究出来证明这些观察，你就不能再反对了。我本来有一整个思路要深入探讨，但我在高度和规定的问题上让自己分心了。动物活动许可（AAL）没有高度规定，只是关于围栏的长度。即使这个关于使用大空间的研究也没有提到高度。但高度是那些如果提供，蛇会使用的因素之一。这可能对动物的发育产生影响，特别是他们的肌肉张力。
+
+English Version:
+There's a whole debate about egg binding and what some people think about it. This topic can branch out into so many other aspects. When you start talking about more advanced husbandry, beyond just using newspaper and a water bowl, things can get complicated. For instance, I have these king snakes. They are terrestrial, but giving them two feet of height does not make them arboreal. If anything, that two feet is well within the realm of terrestrial. You get terrestrial king snakes that people find on road cuts, and these can be up to 10 feet high. So, it's not outrageous to provide a terrestrial animal with climbing opportunities.
+
+Chinese Version:
+有关产卵困难的争论以及一些人对此的看法是一个大问题。这个话题可以分化出很多其他方面。当你开始谈论更高级的饲养方式，不仅仅是使用报纸和水碗，事情可能会变得复杂。例如，我有这些王蛇。它们是陆生的，但给它们两英尺的高度并不会使它们变成树栖。如果有的话，那两英尺完全在陆生动物的范围内。你可以在路边割草的地方找到陆生的王蛇，这些蛇可以高达10英尺。因此，为陆生动物提供攀爬的机会并不夸张。
+
+English Version:
+Consider a log that they clamber over to get to the other side. That's going to be a lot higher than the circumference of the enclosure, which is taller than two feet. It's a fallacy to argue against providing height for exercise, as that's still within the realm of terrestrial animals. Many people fail to realize that even snakes like ball pythons climb trees, particularly when they're younger and smaller. Adult ball pythons have even been found with birds in their stomach contents, which suggests that they do climb. Also, a two-foot enclosure is not nearly arboreal, not even semi-arboreal. It's merely terrestrial, but with exercise opportunities.
+
+Chinese Version:
+考虑一下它们为了到达另一边而攀爬的原木。那会比围栏的周长高得多，而围栏的高度超过两英尺。反对为运动提供高度的论点是一个谬误，因为那仍然在陆生动物的范围内。许多人没有意识到，甚至像球蟒这样的蛇也会爬树，特别是它们年轻和体型较小的时候。人们甚至在成年球蟒的胃内容物中发现了鸟类，这表明它们确实会爬树。此外，两英尺的围栏并不接近树栖，甚至不是半树栖。它仅仅是陆生的，但有运动的机会。
+
+English Version:
+In the wild, snakes traverse over logs and climb up road cuts and rocks. I keep a rosy boa, and they live in granite crevices and valleys, but a lot of them are found in the hills. They'll climb up big rock faces because that's just how they're designed to move. You wouldn't call them arboreal just because they don't wrap around a tree and coil across it like a python might, or a tree boa. But they can wedge between rock cracks and almost go straight up a wall 10, 15, 20, 30 feet high without even blinking.
+
+Chinese Version:
+在野外，蛇会越过原木，爬上路边的割草和岩石。我养了一条玫瑰蚺，它们生活在花岗岩的裂缝和山谷中，但很多都是在山丘上发现的。它们会爬上大面积的岩石，因为这就是它们行动的设计方式。你不会因为它们不像蟒蛇或树蚺那样在树上缠绕和盘旋就称它们为树栖。但是它们可以楔入岩石的裂缝，几乎可以在不眨眼的情况下直上10、15、20、30英尺高的墙。
+
+Role: assistant
+English: "So, adding two feet of height to an enclosure for a terrestrial snake is only going to allow you to put that extra enrichment inside of it."
+Chinese: "因此，为陆栖蛇增加两英尺的笼子高度，只会让你可以在其中增加额外的丰富性。"
+
+English: "Just because they aren't classified by us as arboreal does not mean climbing is not part of the species' typical behavior. Well put, and I saw that in your video when you visited the National Zoo. You saw the boa constrictors, and I think there were three or four in that enclosure."
+Chinese: "仅仅因为我们没有将它们分类为树栖并不意味着攀爬不是这个物种典型行为的一部分。说得好，我在你访问国家动物园的视频中看到了这一点。你看到了蟒蛇，我想那个笼子里有三四只。"
+
+English: "Three, I think, and one was on the ground and two were up like seven feet in the trees. Not one was on the ground, one was on a stump with a platform that was like waist high and the others were higher up. But one of them was on the ground, which is funny, isn't it?"
+Chinese: "我想有三只，一只在地上，两只在像七英尺高的树上。不是一只在地上，一只在像腰高的平台上的树桩上，其他的都在更高的地方。但是其中一只在地上，这很有趣，不是吗？"
+
+English: "That's what we can provide. If someone were to give an eight-foot enclosure, you'd see that a lot of these real big heavy snakes, they like to get up high. I would have no doubt that I would find a king snake in that same enclosure up in that same spot if you gave them a log to go up to it."
+Chinese: "这就是我们可以提供的。如果有人给一个八英尺的笼子，你会发现这些真正的大型重蛇，它们喜欢上升。如果你给它们一根可以爬上去的木头，我毫无疑问会在同样的地方找到一条王蛇。"
+
+English: "You'd be surprised if you look at all of this. I used to have a clipboard with pegs on it. I would open up the glass slide, the snake would pop his head up, go all along this then just climb vertically up this vertical space on this little bit of clip. That one just grips it and goes straight up. Now that is apparently something that can't climb to a lot of keepers, but it's nonsense."
+Chinese: "如果你看看所有这些，你会感到惊讶。我过去有一个带有钉子的剪贴板。我会打开玻璃滑门，蛇会探出头，沿着这个剪贴板垂直爬升。那只蛇只是抓住它并直线上升。对许多饲养员来说，这显然是不能攀爬的东西，但这是胡说。"
+
+English: "So far, for the length of the cage, we're talking about at least the length of your snake with some height. One, two, three feet of height, for you to build things within it to control it. Depending on the species as well, you've got to cater to their needs. People need to stop thinking about 'I bought this enclosure, what can I put in this?' Start thinking about 'How can I get an enclosure, or buy an enclosure, or create an enclosure, or build an enclosure that meets this species' needs or behaviors?'"
+Chinese: "到目前为止，对于笼子的长度，我们谈论的至少是你的蛇的长度加上一些高度。一、二、三英尺的高度，用于你在其中建造东西以控制它。根据物种的不同，你也要满足他们的需求。人们需要停止思考'我买了这个笼子，我可以放什么进去？'开始思考'我如何才能获得一个符合这个物种需求或行为的笼子，或购买一个笼子，或创建一个笼子，或建造一个笼子？'"
+
+English: "This two-foot high might be fine for a king snake. This small snake can get itself off the ground and climb, activating all these muscles within a two-foot space. "
+Chinese: "两英尺高的笼子可能适合王蛇。这种小蛇可以让自己离开地面并攀爬，在两英尺的空间内激活所有这些肌肉。"
+
+Role: assistant
+English Version: "However, if you have something like a royal python, whose natural history involves boreality, nest raiding, and hunting of boreal mammals and birds, I don't necessarily think we can go to extremes and say they need a 10-foot high enclosure. I don't know if they need a 10-foot high enclosure, but I would say they definitely need to be able to express climbing. It's not necessarily about their habitat, but about whether they can climb properly, and exhibit the same behaviors and muscle activation in that space. For a four-foot royal python, I'd probably recommend a four by two by four enclosure. I think that four-foot space is enough for them to be able to actually lift themselves and activate those muscles. Lori has perfect footage of that happening. So, you have to consider what size or space is needed to allow that animal to express that. Retics, for example, climb trees in the wild. There's footage of adult retics literally in the trees, 20 feet in the air. So, a two-foot enclosure is obviously not enough for them to activate any part of the volume to climb. Lori has the cheat sheet with all that, allowing free rewriting of the activity stations and such. That is the pinnacle of choice and control. Also, I would recommend Lori Torini's YouTube channel under that name and Reptile Education. We're trying to sum up, I don't know, maybe 600 hours within our conversation, so we're never going to touch on all of it. It's a lot of good information. When I start including behavior and things like that, I know my stuff. I can tell you what you need to know, but I'm just like, 'Go to Lori'. I could take you to the entrance of the rabbit hole, and I can just push you down it. Go find Lori.
+
+Chinese Version: "但是，如果你有的是像皇家蟒蛇这样的蛇，它们的自然习性包括树栖、窝巢掠夺和猎食树栖哺乳动物和鸟类，我不认为我们可以极端地说它们需要10英尺高的围栏。我不知道它们是否需要10英尺高的围栏，但我会说它们绝对需要能够表现出攀爬的能力。这不仅仅是关于它们的栖息地，而是关于它们能否在那个空间内正确地攀爬，并在那里表现出相同的行为和肌肉活动。对于四英尺的皇家蟒蛇，我可能会推荐四乘二乘四的围栏。我认为那四英尺的空间足以让它们能够真正地抬起自己并激活那些肌肉。Lori有完美的视频证明这一点。所以，你必须考虑需要什么大小或空间才能让那只动物真正地表现出这一点。例如，网纹蟒在野外会爬树。有视频记录成年网纹蟒直接在树上，高达20英尺。所以，二英尺的围栏显然不足以让它们激活任何部分的体积去攀爬。Lori有所有这些的备忘单，允许自由地重写活动站等。这是选择和控制的顶峰。此外，我还推荐Lori Torini的YouTube频道，以及她的爬行动物教育频道。我们试图在我们的谈话中总结，我不知道，可能有600个小时，所以我们永远无法触及所有的内容。这里有大量的好信息。当我开始包括行为和类似的事情时，我知道我的东西。我可以告诉你你需要知道的，但我只是像，'去找Lori'。我可以带你到兔子洞的入口，我可以把你推下去。去找Lori。

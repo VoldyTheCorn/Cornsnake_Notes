@@ -15,6 +15,8 @@ from PIL import Image
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
+print("[Generate video thumbnails]...",end='\n\n')
+
 # Specify the folder path
 folder_path = 'videos'
 

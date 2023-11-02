@@ -8,7 +8,7 @@ import time
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
-print("Adding reference info function")
+print("[Adding reference info function]...",end='\n\n')
 
 from bs4 import BeautifulSoup
 import re

@@ -10,6 +10,8 @@ from PIL import Image
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
+print("[Adding Video Players]...",end='\n\n')
+
 MAXIMUM_WINDOW_HEIGHT = 500
 
 from bs4 import BeautifulSoup
@@ -86,6 +88,8 @@ for p_tag in soup.find_all('p', {'align': 'center'}):
         <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
         </p>
     </video>
+    <br>
+    <p align="middle"><a href="{video_link}" style="color: rgb(26, 13, 171);"><img height="14" loading="lazy" src="images/Icon_Download.png" style="max-width: 100%;"></a></p>
     """
 
     new_tag_content = BeautifulSoup(new_tag_content, 'html.parser')

@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 import re
+import pathlib
+import os
+
+parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
+os.chdir(parent_path)
+
+print("[Generating TOC of markdown file]...", end='\n\n')
 
 
 def generate_toc(read_filename, write_filename):
@@ -7,15 +14,35 @@ def generate_toc(read_filename, write_filename):
         lines = file.readlines()
 
     toc = []
+    titles = []
     for line in lines:
         if re.match('^#+ ', line):
             count = line.count('#')
+            if count > 3:
+                continue
             title = line.replace('#', '').strip()
             if title in ["玉米蛇宠物饲养询证指南", '目录']:
                 continue
             link = title.replace(' ', '-')
             if title.strip():
-                toc.append(' ' * (count - 1) * 2 + '- [' + title + '](#' + link + ')')
+                if count<2:
+                    toc.append(' ' * (count - 1) * 2 + '- [**' + title + '**](#' + link + ')')
+                else:
+                    toc.append(' ' * (count - 1) * 2 + '- [' + title + '](#' + link + ')')
+            titles.append(title)
+
+    titles = ["".join([x for x in title if ('a' <= x <= 'z') or ('A' <= x <= 'Z') or ('0' <= x <= '9') or ('\u4e00' <= x <= '\u9fff')])
+              for title in titles]
+
+    has_dup = False
+    for i, title1 in enumerate(titles):
+        for title2 in titles[i + 1:]:
+            if title1 == title2:
+                print("Duplicated title", title1 + ".")
+                has_dup = True
+
+    if has_dup:
+        input("Deal with the duplicated title and reboot the program.")
 
     start_marker = '[//]: # (Start of Automatic Table of Content)\n'
     end_marker = '[//]: # (End of Automatic Table of Content)\n'

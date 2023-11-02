@@ -7,6 +7,8 @@ import cssutils
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
+print("[Generate vertical webpages]...",end='\n\n')
+
 from bs4 import BeautifulSoup
 
 html = open("index.html", encoding='utf-8').read()  # 这是你的HTML文档

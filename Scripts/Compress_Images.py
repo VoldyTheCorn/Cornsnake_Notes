@@ -8,6 +8,8 @@ import pathlib
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
+print("[Compressing Images]...",end='\n\n')
+
 # Path to the images directory
 images_dir = "images"
 

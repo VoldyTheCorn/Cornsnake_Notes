@@ -6,6 +6,8 @@ os.chdir(parent_path)
 
 from bs4 import BeautifulSoup
 
+print("[Generating navigation panel]...",end='\n\n')
+
 html = open("index.html", encoding='utf-8').read()  # 这是你的HTML文档
 soup = BeautifulSoup(html, 'html.parser')
 
@@ -89,9 +91,21 @@ function scrollToElement(event)
         headers.forEach(header =>
                         {
                             if (header.innerText === target_text)
-                                scroll_div.scrollTop = header.offsetTop - header.offsetHeight - 20;
-                        }
-        );
+                            {
+                                if (scroll_div.scrollHeight > scroll_div.clientHeight)
+                                {
+                                    console.log(scroll_div)
+                                    console.log(header.offsetTop - header.offsetHeight - 20)
+                                    scroll_div.scrollTop = header.offsetTop - header.offsetHeight - 20;
+                                }
+                                else // for cellphone layout
+                                {
+                                    console.log(document.getElementsByClassName("gist-data")[0])
+                                    console.log(header.offsetTop - header.offsetHeight - 20)
+                                    document.getElementsByClassName("gist-data")[0].scrollTop = header.offsetTop - header.offsetHeight - 20;
+                                }
+                            }
+                        });
     }
 }
 

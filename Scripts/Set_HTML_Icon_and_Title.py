@@ -5,6 +5,9 @@ import pathlib
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
+
+print("[Setting HTML icon and title]...",end='\n\n')
+
 from bs4 import BeautifulSoup
 
 # Read the HTML file

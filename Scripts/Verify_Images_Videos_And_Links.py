@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 import requests
 import os
 
-print("Confirming all images and links exist",end='\n\n')
+print("[Confirming all images and links exist]...",end='\n\n')
 
 BASE_URL = "https://f000.backblazeb2.com/file/voldy-public/"
 
@@ -23,7 +23,9 @@ lines = open("README.md", encoding='utf-8').readlines()
 img_srcs = re.findall('<img src="([^"]*)"', "".join(lines))
 for src in img_srcs:
     if not os.path.isfile(src):
-        raise FileNotFoundError(f"File {src} not found")
+        input(f"File {src} not found. Press Enter after resolving the issue:")
+        if not os.path.isfile(src):
+            raise FileNotFoundError(f"File {src} not found")
     # print("Exist:", src)
 
 # Read the HTML file
@@ -71,6 +73,6 @@ for key, value in targets.items():
         has_error = True
 
 if has_error:
-    print("Deal with the missing link tags above:")
+    input("Deal with the missing link tags above:")
 else:
     print("All links exist")

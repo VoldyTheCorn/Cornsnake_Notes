@@ -11,11 +11,17 @@ from B2_cloud_secret import application_key, application_key_id, bucket_name
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
-upload_excludes = ["Voldy 栖地结构.psd","垫材显微照片：虫.psd"]  # These file will not be upload to backblaze
+upload_excludes = ["Voldy 栖地结构.psd",
+                   "垫材显微照片：虫.psd",
+                   "Mader，Reptile and Amphibian Medicine and Surgery，3ed.pdf",
+                   "Doneley，Reptile medicine and surgery in clinical practice.pdf"]  # These file will not be upload to backblaze
 
 upload_base_files = ['index.css',"newest_version_number.txt", 'index.html', 'index_vertical.html']
 
-print("Upload files to backblaze B2 cloud...",end='\n\n')
+# Your local directory
+local_dirs = ['images', 'videos', "附件"]
+
+print("[Upload files to backblaze B2 cloud]...",end='\n\n')
 
 def calculate_md5(file_path):
     with open(file_path, 'rb') as file:
@@ -28,8 +34,6 @@ def calculate_md5(file_path):
     return md5_hash.hexdigest()
 
 
-# Your local directory
-local_dirs = ['images', 'videos']
 
 info = InMemoryAccountInfo()
 b2_api = B2Api(info)
@@ -102,11 +106,11 @@ download_url = None
 
 for base_file in upload_base_files:
     if os.path.isfile(base_file):
-        print('Uploading file: ' + base_file + "... ")
+        print('Uploading file: ' + base_file + "...", end=" ")
         bucket.upload_local_file(
             local_file=base_file,
             file_name=base_file,
         )
         download_url = b2_api.get_download_url_for_file_name(bucket_name, base_file)
 
-print(f'Index.html direct link: {download_url}')
+        print(f'Direct link: {download_url}')

@@ -10,6 +10,8 @@ os.chdir(parent_path)
 from bs4 import BeautifulSoup
 import re
 
+print("[Coloring Links]...",end='\n\n')
+
 # Read the HTML file
 with open("index.html", "r",encoding='utf-8') as f:
     contents = f.read()

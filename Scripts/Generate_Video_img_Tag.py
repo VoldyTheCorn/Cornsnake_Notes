@@ -7,6 +7,7 @@ import os
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 
+
 def addToClipBoard(text):
     import pyperclip
     pyperclip.copy(text)
@@ -41,9 +42,9 @@ while True:
         if not os.path.isfile(filename):
             filename = os.path.join("images",filename)
         if os.path.getsize(filename) > 1 * 1024 * 1024:
-            ret = f'<p align="center"><img src="images/{replace_last_append(filename_name(filename),"jpg")}" width=603/></p>'
+            ret = f'<p align="center"><img src="images/{replace_last_append(filename_name(filename),"jpg")}" width=603 /></p>'
         else:
-            ret = f'<p align="center"><img src="images/{filename_name(filename)}" width=603/></p>'
+            ret = f'<p align="center"><img src="images/{filename_name(filename)}" width=603 /></p>'
 
     print(ret)
     addToClipBoard(ret)

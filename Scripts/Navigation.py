@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import copy
 import pathlib
 import os
 parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
@@ -32,7 +33,7 @@ new_li.string = '玉米蛇宠物饲养询证指南'
 
 # Create a new <ul> tag and append all child items of the original <ul> to it
 new_ul = soup.new_tag('ul')
-for li in TOC_list.find_all('li', recursive=False):
+for li in copy.copy(list(TOC_list.find_all('li', recursive=False))):
     new_ul.append(li)
 
 # Append the new <ul> to the new <li>
@@ -147,6 +148,33 @@ script.string = '''
     }
 '''
 head.append(script)
+
+
+# 添加一个<script>标签来处理记录滚动位置
+script = soup.new_tag('script')
+script.string = '''  // Function to save the scroll position
+  function saveScrollPosition() {
+    const scrollableDiv = document.getElementById('content-scroll-div');
+    sessionStorage.setItem('scrollPosition', scrollableDiv.scrollTop);
+  }
+
+  // Function to restore the scroll position
+  function loadScrollPosition() {
+    const savedScrollPosition = sessionStorage.getItem('scrollPosition');
+    if (savedScrollPosition) {
+      const scrollableDiv = document.getElementById('content-scroll-div');
+      scrollableDiv.scrollTop = savedScrollPosition;
+    }
+  }
+
+  // Event listener for before unload to save the scroll position
+  window.addEventListener('beforeunload', saveScrollPosition);
+
+  // Event listener for DOM content loaded to restore the scroll position
+  window.addEventListener('DOMContentLoaded', loadScrollPosition);
+'''
+head.append(script)
+
 
 # 输出修改后的HTML文档
 with open('index.html', 'w', encoding='utf-8') as output_file:

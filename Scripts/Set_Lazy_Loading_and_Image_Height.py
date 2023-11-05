@@ -17,9 +17,9 @@ with open("index.html", "r",encoding='utf-8') as f:
     soup = BeautifulSoup(f, 'html.parser')
 
 for img in soup.find_all('img'):
-    img['loading'] = 'lazy'
     if "Signal_" in img['src'] or "Icon_" in img['src']:
         continue
+    img['loading'] = 'lazy'
     html_img_width = int(img['width'])
     PIL_img = Image.open(urllib.parse.unquote(img['src']))
     width, height = PIL_img.size  # returns (width, height)

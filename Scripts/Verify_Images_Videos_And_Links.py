@@ -73,6 +73,6 @@ for key, value in targets.items():
         has_error = True
 
 if has_error:
-    input("Deal with the missing link tags above:")
+    input("Deal with the missing link tags above. Press Enter to skip. Terminate and restart if this matter to you.:")
 else:
     print("All links exist")

@@ -11,7 +11,10 @@ parent_path = str(pathlib.Path(__file__).parent.parent.resolve())
 os.chdir(parent_path)
 print('Current directory:', parent_path)
 
-input("Will process and upload the generated index.html to public internet.\n\n\nVerify you don't have unsaved changes. Press Enter to confirm: ")
+input_str = input("Will process and upload the generated index.html to public internet.\n\n\nVerify you don't have unsaved changes. Press Enter to confirm: ")
+
+if input_str:
+    exit()
 
 print()
 
@@ -48,5 +51,7 @@ import Set_Lazy_Loading_and_Image_Height
 import Generate_Vertical_Webpage
 
 import Add_Back_to_Top_Button_to_Vertical
+
+import Set_Max_Width_to_Content_Column
 
 import B2_Upload

@@ -91,35 +91,42 @@
     - [几种旁证](#几种旁证)
 - [**动物福利总论**](#动物福利总论)
   - [动物福利的定义](#动物福利的定义)
-  - [双向连续福利坐标](#双向连续福利坐标)
+  - [双向、连续的评价福利水平](#双向、连续的评价福利水平)
   - [动物福利可以科学测量](#动物福利可以科学测量)
-    - [测量动物对特定因素的感受](#测量动物对特定因素的感受)
+    - [衡量动物对特定因素的感受](#衡量动物对特定因素的感受)
     - [测量动物的整体情绪](#测量动物的整体情绪)
   - [动物福利要素](#动物福利要素)
     - [蛇的动物福利要素](#蛇的动物福利要素)
   - [压力与应激](#压力与应激)
-    - [压力与应激的生理学机制和生化测量](#压力与应激的生理学机制和生化测量)
+    - [压力与应激的生理学机制](#压力与应激的生理学机制)
     - [因应激和压力导致的行为变化](#因应激和压力导致的行为变化)
     - [好的压力](#好的压力)
     - [圈养蛇的典型压力因素](#圈养蛇的典型压力因素)
-    - [选育对压力的影响](#选育对压力的影响)
 - [**蛇的行为学**](#蛇的行为学)
+  - [动物行为学研究](#动物行为学研究)
+    - [动物行为的拟人误解](#动物行为的拟人误解)
+    - [动物行为的正确研究思路](#动物行为的正确研究思路)
+    - [Tinbergen四因论](#Tinbergen四因论)
   - [蛇的常见行为状态及评估意义](#蛇的常见行为状态及评估意义)
-    - [身体状态](#身体状态)
+    - [身体姿态](#身体姿态)
+    - [静止时的发力状态](#静止时的发力状态)
     - [运动状态](#运动状态)
-    - [躲避状态](#躲避状态)
-    - [警戒行为](#警戒行为)
+    - [意识与刺激响应](#意识与刺激响应)
+    - [吐舌](#吐舌)
+    - [呼吸与心率](#呼吸与心率)
+    - [物种特定的应激动作](#物种特定的应激动作)
+    - [综合案例](#综合案例)
+    - [身体位置和躲避状态](#身体位置和躲避状态)
     - [其他日常行为](#其他日常行为)
     - [疑似病态行为](#疑似病态行为)
-  - [刻板行为](#刻板行为)
-    - [蛇的典型刻板行为](#蛇的典型刻板行为)
+    - [刻板行为](#刻板行为)
     - [易误解正常行为：雄性向自己求偶](#易误解正常行为：雄性向自己求偶)
     - [判断蛇是否睡觉](#判断蛇是否睡觉)
 - [**爬行动物的认知能力**](#爬行动物的认知能力)
   - [蛇能学会走迷宫，而且学的很快](#蛇能学会走迷宫，而且学的很快)
-    - [蛇可以做目标训练](#蛇可以做目标训练)
+  - [蛇可以做目标训练](#蛇可以做目标训练)
   - [蛇能认得亲戚](#蛇能认得亲戚)
-    - [爬行动物有社会性学习能力](#爬行动物有社会性学习能力)
+  - [爬行动物有社会性学习能力](#爬行动物有社会性学习能力)
   - [爬行动物能认人](#爬行动物能认人)
   - [爬行动物可能会做梦](#爬行动物可能会做梦)
 - [**丰容**](#丰容)
@@ -135,8 +142,9 @@
   - [谣言：蛇的洞穴里就很秃，用塑料盒正合适](#谣言：蛇的洞穴里就很秃，用塑料盒正合适)
   - [谬论：缸大丰容多我就看不见蛇了，不能丰容](#谬论：缸大丰容多我就看不见蛇了，不能丰容)
   - [谬论：只要空间够，丰容不重要](#谬论：只要空间够，丰容不重要)
+- [**玉米蛇饲养的要素**](#玉米蛇饲养的要素)
 - [**玉米蛇的自然生境**](#玉米蛇的自然生境)
-- [**最低空间需求**](#最低空间需求)
+- [**空间需求**](#空间需求)
   - [为什么栖地要够大](#为什么栖地要够大)
   - [谬论：小盒子模拟穴居状态，更合适](#谬论：小盒子模拟穴居状态，更合适)
   - [谣言：大栖地拒食](#谣言：大栖地拒食)
@@ -147,7 +155,7 @@
   - [栖地的种类和成本](#栖地的种类和成本)
     - [该不该把蛇养在抽屉里（蛇柜系统）](#该不该把蛇养在抽屉里（蛇柜系统）)
     - [长期居于蛇柜的蛇如何向丰容缸转移](#长期居于蛇柜的蛇如何向丰容缸转移)
-- [**一般装修原则**](#一般装修原则)
+- [**栖地装修注意事项**](#栖地装修注意事项)
   - [粘接与固定方法](#粘接与固定方法)
   - [防砸伤、倒塌](#防砸伤、倒塌)
   - [防卡住](#防卡住)
@@ -219,14 +227,18 @@
     - [过瘦](#过瘦)
   - [拒食](#拒食)
   - [吐食](#吐食)
+  - [排便](#排便)
   - [饲料动物的处死和人道主义问题](#饲料动物的处死和人道主义问题)
 - [**探索/娱乐**](#探索/娱乐)
-- [**同类社交**](#同类社交)
+- [**共栖关系**](#共栖关系)
+  - [同种共栖](#同种共栖)
+  - [种间共栖](#种间共栖)
 - [**蜕皮**](#蜕皮)
   - [卡皮](#卡皮)
 - [**摄像头**](#摄像头)
 - [**清洁和消毒**](#清洁和消毒)
 - [**互动与行为训练**](#互动与行为训练)
+  - [行为训练](#行为训练)
   - [上手](#上手)
     - [什么时候不要上手](#什么时候不要上手)
     - [蛇的上手脱敏](#蛇的上手脱敏)
@@ -291,9 +303,10 @@
   - [气味腺炎症](#气味腺炎症)
   - [易误解问题：心跳](#易误解问题：心跳)
   - [爬行动物用药剂量和血液指标正常值范围](#爬行动物用药剂量和血液指标正常值范围)
+  - [病例收集](#病例收集)
 - [**应急预案**](#应急预案)
   - [逃逸](#逃逸)
-  - [YQ应急预案](#YQ应急预案)
+  - [疫情管控应急预案](#疫情管控应急预案)
   - [停电](#停电)
   - [出差](#出差)
   - [气象灾害](#气象灾害)
@@ -306,7 +319,8 @@
     - [兽医](#兽医)
     - [网站](#网站)
     - [不可信列表](#不可信列表)
-- [**版权法律问题**](#版权法律问题)
+- [**其他问题**](#其他问题)
+- [**词汇表**](#词汇表)
 
 
 [//]: # (End of Automatic Table of Content)
@@ -324,7 +338,7 @@
 
 本文将遵循询证的思想，尽可能列出所有论断的原始出处或依据，以使读者可以自行衡量文中每个说法的可信度。并且将用下列角标为相应论断的信息来源做证据级别标注：
 * <sup>**V**</sup> 法律法规或重要团体发布的指南。
-* <sup>**IV**</sup> 同行评议的合格文献记录、学位论文或可信作者/出版社的书籍著作。
+* <sup>**IV**</sup> 同行评议的合格文献记录、学位论文或可信作者/出版社的书籍著作。同时将可信机构（如大学）的课程内容视为4级证据。
 * <sup>**III**</sup> 较可信专家的未发表观察和观点。
 * <sup>**II**</sup> 我个人的观察。
 * <sup>**I**</sup> “来自网络”的难以核实可靠性的信息（如各种论坛、贴吧、Reddit、Facebook group，和来自尚不能确定可靠性的网友、网站的论断）。
@@ -342,7 +356,7 @@ Bilibili 转载：https://space.bilibili.com/12892460
 
 ## 本指南建设中
 
-Version: 20231101-0019
+Version: 20231106-0153
 
 章节完成状态用下列符号表示：
 
@@ -389,7 +403,7 @@ Version: 20231101-0019
 * 可以通过在B站的[聚氨酯毛的咩咩](https://space.bilibili.com/12892460)转载的章节处发表评论。
 
 ## 用词与翻译
-因为初学时大部分信息来自英语资料，可能会误用中文翻译，欢迎指正。专有名词翻译常参考台湾“国家”教育研究院的[乐词网](https://terms.naer.edu.tw/)检索翻译。国内物种的中文命名参考《中国动物志》，外国物种中文翻译参考iNaturalist或维基百科（正在寻找更权威的集中中文正名来源，如果知道请联系作者）。
+因为初学时大部分信息来自英语资料，可能会误用中文翻译，欢迎指正。专有名词翻译常参考台湾“国家”教育研究院的[乐词网](https://terms.naer.edu.tw/)检索翻译。国内物种的中文命名参考《中国动物志》，外国物种中文翻译参考iNaturalist或维基百科（正在寻找更权威的集中中文正名来源，如果知道请联系作者）。文章末尾有对照词表。
 
 笔记中常用“栖地”一词对应英文的enclosure。这词更多的翻译为爬箱，但这一翻译没法体现“营造栖息环境”的含义，在某些语境下宠物蛇的栖地也不一定只是个箱子，因而借用动物园的概念称之为栖地。
 
@@ -397,14 +411,16 @@ Version: 20231101-0019
 
 ## 版权问题
 
-本文涉及下列版权内容：
+本文涉及下列版权内容，本文将遵循国内外对合理使用（fair use）的法规使用相关版权内容，并对所有引用内容均通过链接和引文信息做明确引用：
 
 1. 翻译科研文献
 2. 使用科研出版物图片
 3. 总结Youtube、Bilibili平台中视频的内容
 4. 为方便播放长视频中的相关部分，转储Youtube、Bilibili平台中视频的短暂片段（Youtube国内不易访问，Bilibili无法嵌入其他网页并设置起始时间点），我将在播放器前后放置明确来源链接并做出引用。
 
-本文将遵循国内外对合理使用（fair use）的法规使用相关版权内容，并对所有引用内容均通过链接和引文信息做明确引用。
+但有一例外，既如果对视频、图片的引用是纯粹的批评、批判性质，并且个人认为“情节比较恶劣”，将隐去视频的来源，以保证批评是对事不对人的。如有作者要求可以重新显示相应的引用信息。
+
+对于有中文翻译稿的稿件，如果在阅读时使用英文稿，则引用原作者，但将使用上面的引文按钮展示翻译作品的链接；如果阅读时使用翻译稿，将同时著名译者和原作者。
 
 本文以教育科普为目的，不含任何广告，不做任何盈利。
 
@@ -461,7 +477,7 @@ Version: 20231101-0019
 ## 空间准备
 <img src="images/Signal_Light_Red.png" height=15 />
 
-参照[最低空间需求](#最低空间需求)章节考察你需要多少空间。除了栖地所占面积之外，还要考虑各种储物需求，如备用的垫材等。
+参照[最低空间需求](#空间需求)章节考察你需要多少空间。除了栖地所占面积之外，还要考虑各种储物需求，如备用的垫材等。
 
 
 
@@ -561,7 +577,7 @@ Version: 20231101-0019
 
 [Reptile database](https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=guttatus)上可以查找各种爬行动物的分类学、其变更历史及其下辖亚种。下面简述相关的分类学变动过程。
 
-自1917年来，现在定义上的玉米蛇一只属于物种*Elaphe guttata*（Dunn, Year?&nbsp;<img src="images/Icon_Info.png" height=14 title="List of amphibians and reptiles observed in the summers of 1912, 1913, and 1914, in Nelson County, Virginia, Copeia, 1915, 18, 5-7." />）<sup>IV</sup>&nbsp;，包括本指南所引用的部分文献在内的许多较早文献还要用Elaphe guttata这个名词才能查到：
+自1917年来，现在定义上的玉米蛇一只属于物种*Elaphe guttata*（Dunn&nbsp;<img src="images/Icon_Info.png" height=14 title="List of amphibians and reptiles observed in the summers of 1912, 1913, and 1914, in Nelson County, Virginia, Copeia, 1915, 18, 5-7." />）<sup>IV</sup>&nbsp;，包括本指南所引用的部分文献在内的许多较早文献还要用Elaphe guttata这个名词才能查到：
 
 * 游蛇亚科 Colubrinae
   * 锦蛇属 _Elaphe_
@@ -580,7 +596,7 @@ Version: 20231101-0019
     * 埃默里锦蛇 *Elaphe emoryi*
     * 斯洛文斯基锦蛇 *Elaphe slowinskii*
 
-2002年因锦蛇属 *Elaphe* 的偏系问题，将 *Elaphe guttata* 及几个相关物种迁移至豹斑蛇属 *Pantherophis*（<a href="http://rjh.folium.ru/index.php/rjh/article/view/598">Utiger, 2002, Year?</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Utiger%EF%BC%8C%E9%94%A6%E8%9B%87%E5%B1%9E%E5%88%86%E7%B1%BB%E5%AD%A6%E5%8F%98%E6%9B%B4.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Urs Utiger, Notker Helfenberger, Beat Schätti, Catherine Schmidt, Markus Ruf, Vincent Ziswiler, Molecular Systematics and Phylogeny of Old and New World Ratsnakes, Elaphe Auct., and Related Genera (Reptilia, Squamata, Colubridae)" />）<sup>IV</sup>&nbsp;：
+2002年因锦蛇属 *Elaphe* 的偏系问题，将 *Elaphe guttata* 及几个相关物种迁移至豹斑蛇属 *Pantherophis*（<a href="http://rjh.folium.ru/index.php/rjh/article/view/598">Utiger, 2002</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Utiger%EF%BC%8C%E9%94%A6%E8%9B%87%E5%B1%9E%E5%88%86%E7%B1%BB%E5%AD%A6%E5%8F%98%E6%9B%B4.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Urs Utiger, Notker Helfenberger, Beat Schätti, Catherine Schmidt, Markus Ruf, Vincent Ziswiler, Molecular Systematics and Phylogeny of Old and New World Ratsnakes, Elaphe Auct., and Related Genera (Reptilia, Squamata, Colubridae)" />）<sup>IV</sup>&nbsp;：
 
 * 游蛇亚科 Colubrinae
   * 锦蛇属 *Elaphe*
@@ -641,7 +657,7 @@ Version: 20231101-0019
 
 
 【】【玉米蛇与近似种的鉴定】【】
-下图是玉米蛇与东部鼠蛇的区分，来自：（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
+下图是玉米蛇与东部鼠蛇的区分，来自：（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
 
 Confusing Species: This species may be confused with Lampropeltis calligaster and L. triangulum, especially the mountain form of the latter. Both of these species have a short eye-jaw stripe that does not extend beyond the mouth, and neither have anterior blotches with anterior-posterior projections. Corn Snakes are often mistaken for Eastern Copperheads (Agkistrodon contortrix), but the latter has hourglass-shaped crossbands and lacks the strong checkerboard pattern on the venter.
 
@@ -706,7 +722,7 @@ Brook Korn corn snakes are hybrids between a Brook's kingsnake and a corn snake.
 
 第一，在野外时，玉米蛇野外食物构成里有22%的鸟类（<a href="https://doi.org/10.1111/j.1095-8312.1999.tb01176.x">Rodríguez-Robles, 1999</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Javier A. Rodríguez-Robles, José M. De Jesús-Escobar, Molecular systematics of New World lampropeltinine snakes (Colubridae): implications for biogeography and evolution of food habits. Biological Journal of the Linnean Society, 1999, 68, 355." />）<sup>IV</sup>&nbsp;，不会爬树不可能有这样的食物构成。同时也有人系统的用摄像头研究过玉米蛇上树抄巢吃鸟的行为，很有意思，将在[食物](#食物)一节详细讲（<a href="http://www.herpconbio.org/Volume_11/Issue_1/DeGregorio_etal_2016.pdf">Degregorio, 2016</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Brett A. Degregorio, Patrick J. Weatherhead, Jinelle H. Sperry, Ecology and predation behavior of corn snakes (Pantherophis guttatus) on avian nests, Journal of Herpetological Conservation and Biology, 2016, 11, 150." />）<sup>IV</sup>&nbsp;。
 
-第二，圈养条件下，只要提供攀爬物、许多蛇就会爬高，圈养监控里一条养在60cm高的栖地里的玉米蛇一晚上活动五六个小时从天上到地下爬遍了所有的攀爬物和凌空悬索（见[聚氨酯毛的咩咩](https://space.bilibili.com/12892460)的无数视频），相反不给攀爬物就会有[攀爬刻板行为](#蛇的典型刻板行为)；
+第二，圈养条件下，只要提供攀爬物、许多蛇就会爬高，圈养监控里一条养在60cm高的栖地里的玉米蛇一晚上活动五六个小时从天上到地下爬遍了所有的攀爬物和凌空悬索（见[聚氨酯毛的咩咩](https://space.bilibili.com/12892460)的无数视频），相反不给攀爬物就会有[攀爬刻板行为](#刻板行为)；
 
 
 
@@ -732,11 +748,11 @@ Brook Korn corn snakes are hybrids between a Brook's kingsnake and a corn snake.
 
 90 ~ 120 cm （<a href="https://www.sciencedirect.com/science/article/pii/S1055790302003068">Burbrink, 2002</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Burbrink%EF%BC%8C%E7%8E%89%E7%B1%B3%E8%9B%87%E5%88%86%E7%B1%BB%E5%AD%A6%E5%8F%98%E6%9B%B4.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Frank T Burbrink, Phylogeographic analysis of the cornsnake (Elaphe guttata) complex as inferred from maximum likelihood and Bayesian analyses,Molecular Phylogenetics and Evolution, 2002, 25(3), 465." />）<sup>IV</sup>&nbsp;：
 
-<p align="center"><img src="images/玉米蛇尾长占总长比例的统计.png" width=603 /></p>
+<p align="center"><img src="images/玉米蛇尾长占总长比例的统计.png" width=303 /></p>
 
 Description: A stout, moderate-sized snake reaching a maximum total length of 1,829 mm (72.0 inches) (Conant and Collins, 1991). In Virginia, maximum known snout-vent length (SVL) is 1,245 mm (49.0 in.) and maximum total length is 1,440 mm (56.7 in.). In the present study, tail length/total length averaged 15.0 ± 1.5% (11.1-17.6, n = 45).
 
-（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
+（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
 
 <sup>（体长会用于判断该用多大缸）</sup>
 
@@ -752,15 +768,15 @@ Description: A stout, moderate-sized snake reaching a maximum total length of 1,
 
 （<a href="https://www.jstor.org/stable/1443501">Mitchell, 1977</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Mitchell%EF%BC%8C%E7%8E%89%E7%B1%B3%E8%9B%87%E5%A4%96%E8%A7%82%E7%9A%84%E5%9C%B0%E7%90%86%E5%B7%AE%E5%BC%82.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Joseph C. Mitchell, Geographic Variation of Elaphe guttata (Reptilia: Serpentes) in the Atlantic Coastal Plain, Copeia, 1977, 1, 33-41" />）<sup>IV</sup>&nbsp;
 
-<p align="center"><img src="images/玉米蛇鳞片计数：地理位置标记.png" width=603 /></p>
+<p align="center"><img src="images/玉米蛇鳞片计数：地理位置标记.png" width=303 /></p>
 
 Ventral scale The number of ventral scales varies from 205-238 in males and from 210-244 in females. Males average six fewer ventrals in the various samples.
 
-<p align="center"><img src="images/玉米蛇鳞片计数：腹鳞.png" width=603 /></p>
+<p align="center"><img src="images/玉米蛇鳞片计数：腹鳞.png" width=503 /></p>
 
 Subcaudal scales.-Male subcaudals range from 55-84 and those of females from 47-81. Fe- males average 3.5 fewer scales than males
 
-<p align="center"><img src="images/玉米蛇鳞片计数：尾下鳞.png" width=603 /></p>
+<p align="center"><img src="images/玉米蛇鳞片计数：尾下鳞.png" width=503 /></p>
 
 通过[读图](images/玉米蛇鳞片计数：尾下鳞.xlsx)，可以算出雄性玉米蛇的尾下鳞计数分布为69.9 ± 5.4，雌性为65.5 ± 5.1。
 
@@ -774,11 +790,11 @@ Dorsal scale row formulae.-Fifty-five abbrevi- ated dorsal scale row formulae we
 
 <p align="center"><img src="images/蛇的头部鳞片定义 英文.png" width=603 /></p>
 
-<p align="center"><img src="images/蛇的体鳞定义.jpg" width=603 /></p>
+<p align="center"><img src="images/蛇的体鳞定义.jpg" width=303 /></p>
 
-<p align="center"><img src="images/蛇的头部鳞片定义.png" width=603 /></p>
+<p align="center"><img src="images/蛇的头部鳞片定义.png" width=403 /></p>
 
-下面是：（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
+下面是：（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
 
 Scutellation: Ventrals 201-229 (ave. = 215.5 ± 5.8, n = 60); subcaudals 52-71 (ave. = 62.3 ± 4.3, n = 54); ventrals + subcaudals 263-291 (ave. = 277.7 ± 6.4, n = 54); dorsal scales weakly keeled or smooth, scale rows at midbody usually 27 (60.4%, n = 53), but may be 23-29 (39.6%); anal plate divided; infralabials 11/11 (62.9%, n = 62) or other combinations of 9-12 (37.1%); supralabials 8/8 (95.2%, n = 62) or other combinations of 7-9 (4.8%); loreal present; preoculars 1/1; postoculars 2/2; temporals usually 2+3/2+3 (71.2%, n = 59) or other combinations of 1-4 (28.8%).
 
@@ -786,7 +802,7 @@ Sexual Dimorphism: Adult male P. guttatus (869.8 ± 155.8 mm SVL, 525-1,245, n =
 
 【发育】
 
-下面是：（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
+下面是：（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
 
 Juveniles: Juveniles are patterned as adults but often have chocolate-brown to dark-chocolate blotches on a gray to reddish-orange body. Hatchlings from Virginia averaged 267.0 ± 29.4 mm SVL (204-291, n = 7) and 296.6 ± 32.7 mm total length (229-335, n = 10), and weighed 7.8-8.3 g (ave. = 7.97 ± 0.19, n = 6).
 
@@ -835,7 +851,7 @@ noticeable reduction of black pigment throughout the
 body.
 
 
-（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
+（<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
 
 Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to chestnut blotches on dorsum of body and 8-14 (ave. = 10.9 ±1.5, n = 33) blotches on tail, each surrounded by black; blotches squarish, except those anteriorly, which are somewhat elongated and have anterior and posterior projections at corners; irregular series of smaller, less-well-defined blotches on sides may be present; background color reddish orange to gray; head and anterior neck possess a pair of longitudinal blotches connected at dorsum of head to form a spear-point pattern with apex anterior to or level with eyes; reddish eye-jaw stripe edged in black continues onto neck; labial scales white and edged in black; venter of body strongly patterned with black-and-white checkerboard design; 2 black stripes on venter of tail. In preservative, reddish colors fade to brown. The firm, muscular body is shaped like a breadloaf in cross section, flat on the venter.
 
@@ -908,7 +924,7 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 
 > 然而，由于缺乏对爬行动物的残酷繁殖和缺陷基因症状的明确定义，执行目前还仅由各个展会组织者来操作，且各地主管兽医对此有着比较宽泛和自由的裁量权。 作者：乌拉圭vs袋鼠 https://www.bilibili.com/read/cv21343851/?spm_id_from=333.999.0.0 出处：bilibili
 
-<sup>个人觉得无鳞蛇看起来非常难受，如同看没有指甲的人手：</sup>
+<sup>个人觉得无鳞蛇看起来非常难受，如同看没有指甲的人手（这是一种真实会发生的人类疾病称Anonychia，与无鳞蛇一样“不影响生存”，但选择性繁育这样的性状是否合理呢？）：</sup>
 
 <p align="center"><img src="images/AnonychiaHand.jpg" width=203 /></p>
 
@@ -930,7 +946,7 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 
 * 白化：
 
-近几年动物福利发达的国家开始讨论白化是否算作对动物福利有影响。蛇鳞的着色有调控紫外线吸收的作用（<a href="https://www.youtube.com/watch?v=wYFVkTA0hNE">Sinclair, 2020</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles and Research, How to Examine Your Reptile's Welfare, 2020" />）<sup>III</sup>&nbsp;（这与长期在赤道地区生存的人种通常有较黑的肤色原理类似），有的蛇还会在夏天和冬天有深浅不同的肤色以调整紫外线。因此选育缺乏色素的蛇在一定程度上属于制造缺失部分生理功能的表型。（<a href="https://www.youtube.com/watch?v=wYFVkTA0hNE">Sinclair, 2020</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles and Research, How to Examine Your Reptile's Welfare, 2020" />）<sup>III</sup>&nbsp;大部分白化种可以“正常”生活，但在提供UVB上要多加考虑，白化的眼球（眼球为红色，而不是棕黑色）对紫外光敏感，相比于野生型并不倾向于寻找紫外线照射，因此更容易缺乏维生素D，要注意通过食物补充且不能过量，不如因UVB产生维生素D的自限制作用来的省心 <sup>IV</sup>。详见[紫外光照章节](#白化玉米蛇的紫外需求)。如果给予白化玉米蛇过强的UVB照射可能影响视力（<a href="https://vet.thieme.de/aktuelles/qualzucht/detail/reptilien-bunt-schuppenlos-und-krank-741">【FILL_REF_AUTHOR: Reptiles - colourful, scaleless and sick?!】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles - colourful, scaleless and sick?!" />）<sup>III</sup>&nbsp;。不过将蛇的白化种视为对动物福利有影响的变异是在动物繁育的动物福利保护上比较激进的看法，蛇的白化变异的影响不如鬃狮蜥、巴西龟等的白化带来的影响大。
+近几年动物福利发达的国家开始讨论白化是否算作对动物福利有影响。蛇鳞的着色有调控紫外线吸收的作用（<a href="https://www.youtube.com/watch?v=wYFVkTA0hNE">Sinclair, 2020</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles and Research, How to Examine Your Reptile's Welfare, 2020" />）<sup>III</sup>&nbsp;（这与长期在赤道地区生存的人种通常有较黑的肤色原理类似），有的蛇还会在夏天和冬天有深浅不同的肤色以调整紫外线。因此选育缺乏色素的蛇在一定程度上属于制造缺失部分生理功能的表型。（<a href="https://www.youtube.com/watch?v=wYFVkTA0hNE">Sinclair, 2020</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles and Research, How to Examine Your Reptile's Welfare, 2020" />）<sup>III</sup>&nbsp;大部分白化种可以“正常”生活，但在提供UVB上要多加考虑，白化的眼球（眼球为红色，而不是棕黑色）对紫外光敏感，相比于野生型并不倾向于寻找紫外线照射，因此更容易缺乏维生素D，要注意通过食物补充且不能过量，不如因UVB产生维生素D的自限制作用来的省心 <sup>IV</sup>。详见[紫外光照章节](#白化玉米蛇的紫外需求)。如果给予白化玉米蛇过强的UVB照射可能影响视力（<a href="https://vet.thieme.de/aktuelles/qualzucht/detail/reptilien-bunt-schuppenlos-und-krank-741">【FILL_REF_AUTHOR: Reptiles - colourful, scaleless and sick?!】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles - colourful, scaleless and sick?!" />）<sup>III</sup>&nbsp;。不过将蛇的白化种视为对动物福利有影响的变异是在动物繁育的动物福利保护上比较激进的看法，蛇的白化变异的影响不如鬃狮蜥、巴西龟等的白化带来的影响大。
 
 
 ## 寿命
@@ -1043,9 +1059,20 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 <p align="center"><img src="images/蛇的半阴茎、气味腺和Spur.jpg" width=603 /></p>
 
 
-蛇的鳞片皮肤是表皮和真皮的折叠起来构成的；鳞在进化上是异化的角质化表皮细胞。蛇鳞呈相互覆盖的关系，前方的鳞片盖住后方（但蛇头部的鳞没有相互覆盖）。蛇的腹面扁平，鳞片从左到右横跨腹部（泄殖孔以下除外），这类鳞片称为gastropeges。泄殖孔附近有一个或一对大的鳞片覆盖。<sup>IV</sup>
+蛇的鳞片皮肤是表皮和真皮的折叠起来构成的；鳞在进化上是异化的角质化表皮细胞。蛇鳞片的名称定义如下。
+
+<p align="center"><img src="images/蛇的头部鳞片定义.png" width=403 /></p>
+
+<p align="center"><img src="images/蛇的头部鳞片定义 英文.png" width=603 /></p>
+
+<p align="center"><img src="images/蛇的体鳞定义.jpg" width=303 /></p>
+
+
+蛇鳞呈相互覆盖的关系，前方的鳞片盖住后方（但蛇头部的鳞没有相互覆盖）。蛇的腹面扁平，鳞片从左到右横跨腹部（泄殖孔以下除外），这类鳞片称为gastropeges。泄殖孔附近有一个或一对大的鳞片覆盖。<sup>IV</sup>
 
 > 所以蛇不能倒过来撸，也不能全身同时往后倒车（但可以用身体中间部分撑住地面、先悬空倒车上半身，再改变重心，倒车另一部分）。如果蛇主动决定倒退身体的一部分，比如在头部从小洞钻出的情况下感到威胁，快速的在狭小通道后退可能导致掉鳞、折鳞。
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇倒车.mp4"><img src="videos/玉米蛇倒车.jpg" width=603 /></a></p>
 
 可用蛇蜕观察蛇的鳞片分布：
 <p align="center"><img src="images/幼年玉米蛇蛇蜕的腹面和背面.jpg" width=1003 /></p>
@@ -1079,7 +1106,9 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 
 蛇的蜕皮通常从口鼻到肛门一次性蜕掉整片皮肤（不像许多蜥蜴是分块蜕皮）。若蜕皮不当则被称为“蜕皮障碍”，蜕皮不畅的原因和解决见蛇病-卡皮<sup>IV</sup>
 
-> 正常的蛇蜕应该是完整一条。如果你的蛇蜕是一块一块的（先连续的褪了皮再被整碎不算），自己按相应章节信息检查出了什么问题。虽然蛇一旦已经开始蜕皮,全身就已经准备好蜕皮了，辅助撕皮没有明显伤害（与蜥蜴分块蜕皮、不能乱帮着撕的情况不同），但一般情况也根本不需要辅助蜕皮。上手蜕皮的人要么是蛇有问题、要么是环境有问题、要么是闲的没事儿手贱、无意义的造成压力。
+正常的蛇蜕应该是完整一条。如果你的蛇蜕是一块一块的（先连续的褪了皮再被整碎不算），自己按相应章节信息检查出了什么问题。虽然蛇一旦已经开始蜕皮，全身就已经准备好蜕皮了，辅助撕皮没有明显伤害（与蜥蜴分块蜕皮、不能乱帮着撕的情况不同），但一般情况也根本不需要辅助蜕皮。上手蜕皮的人要么是蛇有问题、要么是环境有问题、要么是闲的没事儿手贱、无意义的造成压力。
+
+【】【强行蜕皮导致的皮肤损伤：https://www.reddit.com/r/cornsnakes/comments/15uvb3q/vet_damaged_my_snakes_skin/】【】
 
 
 准备好蜕皮时（“回油”后）蛇首先用嘴蹭破旧皮，在嘴的一圈形成“脱衣服”的开口。蹭破旧皮需要粗糙物，若栖地中缺乏粗糙物，会造成类似下方视频中的异常行为：
@@ -1087,6 +1116,18 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 <p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/尝试蹭破鼻尖开始蜕皮的玉米蛇.mp4"><img src="videos/尝试蹭破鼻尖开始蜕皮的玉米蛇.jpg" width=603 /></a></p>
 
 蹭破鼻尖开口后，蛇会从这个开口中爬出来。和脱衣服原理类似，蛇褪的皮是翻过来的，内面朝外。蜕下的皮肤是无色的（存疑？有的蛇蜕皮有颜色啊），因为色素细胞位于真皮层。蜕皮后新的上皮硬化形成新皮肤。<sup>IV</sup>
+
+蜕皮视频：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/伏地魔蜕皮过程.mp4"><img src="videos/伏地魔蜕皮过程.jpg" width=603 /></a></p>
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇蜕皮视频.mp4"><img src="videos/玉米蛇蜕皮视频.jpg" width=603 /></a></p>
+
+（<a href="https://www.reddit.com/r/cornsnakes/comments/170k3ae/our_boys_shed_caught_on_camera/">u/RocketSkates99, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="u/RocketSkates99, Our boys shed caught on camera, 2023" />）<sup>I</sup>&nbsp;
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇蜕皮.mp4"><img src="videos/玉米蛇蜕皮.jpg" width=603 /></a></p>
+
+（<a href="https://www.bilibili.com/video/BV1d34y1K78o">Bilibili-奶橘是个胆小鬼, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="奶橘是个胆小鬼, 来咯来咯！万众瞩目的奶橘同学的超丝滑蜕皮视频！, 2023" />）<sup>I</sup>&nbsp;
 
 <p align="center"><img src="images/幼年玉米蛇蛇蜕的腹面和背面.jpg" width=603 /></p>
 
@@ -1099,6 +1140,16 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 蛇没有眼皮，眼外面也覆盖有全透明鳞片（眼鳞），眼鳞上皮也会和其他皮肤一起蜕落（图8.20）<sup>IV</sup>。
 
 <p align="center"><img src="images/玉米蛇蛇蜕的头部照片.jpg" width=603 /></p>
+
+【】【蜕皮时应不应该喂食的问题】【】
+
+https://www.reddit.com/r/cornsnakes/comments/164e7us/is_it_normal_for_my_corn_snake_to_still_eat/
+
+https://www.reddit.com/r/cornsnakes/comments/15r6ett/stuck_shed_and_refusing_food/
+
+【】【用蜕皮看scale rot】【】
+
+https://www.reddit.com/r/kingsnakes/comments/15m31pn/injuryscale_rot/
 
 #### 识别蛇的蜕皮期
 <img src="images/Signal_Light_Green.png" height=15 />
@@ -1246,7 +1297,7 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 
 （Saltatory locomotion）
 
-这不是正常运动模式。蛇在极度紧张状态下可能突然弹起跳离当前所在的表面。是一种应激响应。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
+这不是正常运动模式。蛇在极度紧张状态下可能突然弹起跳离当前所在的表面。是一种应激响应。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
 
 
 ### 头骨
@@ -1548,6 +1599,12 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 
 蛇通过口腔负压吸取液体（不像蜥蜴、猫狗等靠舌头舔）。<sup>IV</sup>
 
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇喝水2.mp4"><img src="videos/玉米蛇喝水2.jpg" width=603 /></a></p>
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇喝水 侧视图 夜视.mp4"><img src="videos/玉米蛇喝水 侧视图 夜视.jpg" width=603 /></a></p>
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇喝水.mp4"><img src="videos/玉米蛇喝水.jpg" width=603 /></a></p>
+
 ### 食管
 
 蛇的食管可扩张，大约一半的长度没有肌肉附着<sup>IV</sup>。
@@ -1750,7 +1807,7 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 
 受精后雌蛇于约一个月后产蛋，通常选取温暖、潮湿的隐蔽处为产蛋地点，每胎11 ± 5枚，有一胎产24枚的记录（Linzey, 1981&nbsp;<img src="images/Icon_Info.png" height=14 title="Linzey, D. W., and M. J. Clifford. 1981. Snakes of Virginia. Univ. Press Virginia, Charlottesville. 159 pp." />）<sup>IV</sup>&nbsp;。通常一年一胎，圈养情况下也有一年两胎（Tyron, 1984&nbsp;<img src="images/Icon_Info.png" height=14 title="Tyron, B. W. 1984. Additional instances of multiple egg- clutch production in snakes. Trans. Kansas Acad. Sci. 87:98-104." />）<sup>IV</sup>&nbsp;。
 
-玉米蛇无孵化行为，“发射后不管”（蛇类中的例外：眼镜王蛇有筑巢、护巢行为，其会用身体收集树叶将蛋掩埋起来，树叶堆会发酵产生热量；还有部分蛇会通过震颤骨骼肌产热并用其孵蛋）。孵化期70 ± 9天，一般于8月末至9月末出生。（<a href="https://en.wikipedia.org/wiki/Corn_snake">Wikipedia, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Wikipedia, Cornsnake" />）<sup>III</sup>&nbsp; （<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
+玉米蛇无孵化行为，“发射后不管”（蛇类中的例外：眼镜王蛇有筑巢、护巢行为，其会用身体收集树叶将蛋掩埋起来，树叶堆会发酵产生热量；还有部分蛇会通过震颤骨骼肌产热并用其孵蛋）。孵化期70 ± 9天，一般于8月末至9月末出生。（<a href="https://en.wikipedia.org/wiki/Corn_snake">Wikipedia</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Wikipedia, Cornsnake" />）<sup>III</sup>&nbsp; （<a href="https://www.virginiaherpetologicalsociety.com/reptiles/snakes/corn-snake/index.php">Virginia Herpetological Society</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Virginia Herpetological Society, Corn Snake" />）<sup>I</sup>&nbsp;
 
 新生蛇用特化的鳞（称egg tooth）划破蛋壳后出生。有的蛇缺乏egg tooth，导致无法划破蛋壳而溺死。此时在人工繁育情况下可用手术刀小心的划破蛋壳制造开孔，并等待蛇自己从蛋中爬出来。
 
@@ -1780,7 +1837,7 @@ Coloration and Pattern: Series of 27-41 (ave. = 31.8 ± 2.9, n = 56) reddish to 
 #### 外观法
   雄性蛇的尾部（泄殖腔开孔以下部分）因为需要装下半阴茎，所以更粗、长；雌性蛇在泄殖腔开孔以下快速缩窄，且尾较短。<sup>III</sup>
 
-  在许多蛇类中，由于半阴茎的存在，雄性的尾部基部比雌性的更宽且更直。（<a href="https://whitepython.com/reptile-care/sexing-snakes/">Chris Jones, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Sexing Snakes: The correct way to identify the sex of your snake" />）<sup>I</sup>&nbsp;，（<a href="https://pets.stackexchange.com/questions/6448/how-to-tell-a-female-corn-snake-and-a-male-corn-snake">Pet Exchange, 2015</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="How to tell a female corn snake and a male corn snake? 2015" />）<sup>I</sup>&nbsp;
+  在许多蛇类中，由于半阴茎的存在，雄性的尾部基部比雌性的更宽且更直。（<a href="https://whitepython.com/reptile-care/sexing-snakes/">Chris Jones</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Sexing Snakes: The correct way to identify the sex of your snake" />）<sup>I</sup>&nbsp;，（<a href="https://pets.stackexchange.com/questions/6448/how-to-tell-a-female-corn-snake-and-a-male-corn-snake">Pet Exchange, 2015</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="How to tell a female corn snake and a male corn snake? 2015" />）<sup>I</sup>&nbsp;
   
   <p align="center"><img src="images/玉米蛇性别的外观法鉴定.png" width=603 /></p>
   
@@ -2048,7 +2105,7 @@ Ought-statement（应然陈述）讨论一件事情“应”怎么样。例如�
 
 A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产工具、产品和摆件。A认为应当为球蟒提供尽可能好的福利水平为应然目标，B则把能活、性成熟早、繁殖的多为应然目标。二者缺乏（一致的）应然陈述，如果不能在目标上达成一致，对线再多科学证据也没有意义。
 
-这种区分Is/Ought陈述的范式被称作Hume's guillotine。（<a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem">Is–ought problem, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Is–ought problem" />）<sup>III</sup>&nbsp;
+这种区分Is/Ought陈述的范式被称作Hume's guillotine。（<a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem">Is–ought problem</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Is–ought problem" />）<sup>III</sup>&nbsp;
 
 动物福利科学就是回答“Is-problem”，本文的询证指的是动物福利的询证；动物伦理回答“Ought-problem”，其讨论无法询证。本人非常欢迎基于科学方法论的动物福利讨论，但对关于动物伦理的哲学辩论不感兴趣。
 
@@ -2108,7 +2165,7 @@ A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产
 本文将证据等级按下面的方式标注：
 
 * <sup>**V**</sup> 法律法规或重要团体发布的指南（没有人对宠物蛇的饲养问题做荟萃研究，但法规、团体指南的制定过程中会综合大量文献，可以基本视为【荟萃分析和系统综述】级别的证据）。
-* <sup>**IV**</sup> 同行评议的合格文献记录、学位论文或可信作者/出版社的书籍著作。这其中有很多构成【队列研究】或者【随机对照试验】的文章。
+* <sup>**IV**</sup> 同行评议的合格文献记录、学位论文或可信作者/出版社的书籍著作。这其中有很多构成【队列研究】或者【随机对照试验】的文章。同时将可信机构（如大学）的课程内容视为4级证据。
 * <sup>**III**</sup> 较可信专家的未发表观察和观点。
 
 以上是够得着“循证医学”中证据级别的证据，为了标记方便，下面再加两级：
@@ -2140,12 +2197,13 @@ A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产
 <img src="images/Signal_Light_Green.png" height=15 />
 
 由于爬宠资料远不如猫、狗丰富，查阅资料时不能局限于某一物种、甚至不需要局限于蛇类，不同问题不同对待，下面是我个人对跨物种证据适用性的一些看法<sup>II</sup>：
-* 【动物福利原则】：许多原则非常普适。例如许多不同种类的蛇、蜥蜴的[刻板行为](#蛇的典型刻板行为)都非常相似，成因也类似。
-
-* 【栖地大小和温湿度】：相似地区、相似生境的爬行动物温湿度建议都可以参考、栖地大小可以参考类似体型和生性的蛇类（当然具体到玉米蛇，因为常见，温湿度和栖地大小数据已经足够）
+* 【动物福利原则】：许多原则非常普适。爬行类的相关原则都可以相互借鉴，甚至哺乳类、鸟类的相关原则也不妨加以参考。
+* 【动物行为】：非常普适，例如许多不同种类的蛇、蜥蜴的[刻板行为](#刻板行为)都非常相似，成因也类似。
+* 【栖地大小和温湿度】：相似地区、相似生境的爬行动物温湿度建议都可以参考（但一定要注意微环境与大环境的差别），栖地大小可以参考类似体型和生性的蛇类（当然具体到玉米蛇，因为常见，温湿度和栖地大小数据已经足够）
 * 【食性】：具体的食物需求需要针对当前物种，但许多一般原则——如营养构成的原则、食物丰容、饲料动物特性、拒食吐食的解决等问题——有跨物种的共性。
 * 【丰容设计】：市面上专门为蛇设计的丰容物很少，但丰容物的跨物种适应性很强，为猫狗、仓鼠设计的丰容物也可以给蛇用。其关键在于理解要满足蛇的什么需求，再去寻找能满足这些需求的针对其他物种设计的丰容物，考察适用性。
-* 【兽医学】：大部分蛇的疾病都是相通的，查询一种疾病的资料时不必局限于某一蛇种（当然还是物种越接近越好）；某些物质、药物的安全性也可以将检索范围扩大至所有蛇乃至所有爬行动物。
+* 【行为训练】：在蛇类中非常普适。用同样的训练方法训练不同种类的蛇、即使是进化上差距很远的蟒和玉米蛇、都可以获得近似的效果。
+* 【兽医学】：大部分蛇的疾病都是相通的，查询一种疾病的资料时不必局限于某一蛇种（当然还是物种越接近越好）；某些物质、药物的安全性也可以将检索范围扩大至所有蛇乃至所有爬行动物。但生理指标的具体数值范围要精确到每一物种，甚至是不同区域的同一物种个体都有较大差别。
 * 【基因、变异、繁殖、发育】只能查询当前物种。
 
 ### 几种旁证
@@ -2160,7 +2218,7 @@ A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产
 
 自然生境模拟即认为动物在什么自然场景下进化、就应该在圈养条件下模拟怎样的场景。（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;它与前述高质量证据的一大区别是自然生境模拟的研究对象不是蛇，而是蛇的环境。
 
-自然生境模拟容易提示做的有缺陷的地方，它的资料通常比高质量证据多，而且比较容易理解，在缺乏高质量证据时能给出指导。例如比如Mehrkam等人发现接近自然的丰荣物（石头）相比人工物体（PVC管子）对东部indigo snake (*Drymarchon couperi*) 有更好的丰荣效果 （<a href="https://dx.doi.org/10.1002/zoo.21227">Mehrkam, 2015</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Mehrkam, L. R.; Dorey, N. R. Preference Assessments in the Zoo: Keeper and Staff Predictions of Enrichment Preferences Across Species. Zoo Biol. 2015, 34, 418-430." />）<sup>IV</sup>&nbsp;。
+研究自然生境仍然有重要价值，因为它可以提示人们“该研究什么行为、什么环境因素”。并进一步通过下面的方法验证。不了解自然行为可能遗漏了重要因素而不自知。与自然生境相关的资料通常比高质量证据多，而且比较容易理解，在缺乏高质量证据时能给出指导。
 
 应该注意自然生境模仿的一些局限性，不应该机械的认为“自然的就是最好的”：
 
@@ -2179,6 +2237,11 @@ A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产
 【人工繁育个体的需求可能不同】
 
 圈养动物，尤其是多代人工繁育的物种的需求与野生种可能不同。这就需要考察到底哪些地方不同，哪些地方相近。
+
+例如有些王蛇在野外的大部分食物都是爬行类（蜥蜴和蛇），但在繁育过程中，不吃老鼠的王蛇幼崽被繁育者淘汰了，剩下的圈养王蛇“习惯吃老鼠”的程度比野生王蛇高。此时就要思考是否要完全照搬野生食谱。
+
+这个问题对爬行动物的影响比其他种类的人工繁育个体小，因为很多爬行动物的驯化代数很少，野生动物的很多需求仍然保留在圈养动物中。
+
 
 【需要舍弃不利因素】
 
@@ -2208,7 +2271,7 @@ A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产
 
 有人觉得，我这“民间饲养法”已经被大家用了这么长时间，有问题早就发现了。实际并非如此，有如下几种原因：
 1. 大多数人并不能读懂爬宠的“语言”，很可能你的爬宠本来就是不良状态，你还意识不到。
-2. 即使识别了压力因素，也经常错误估计不同负面因素的影响程度。Langkilde等人测量了不同压力因素影响下黄腹蜓蜥(?)（warm-temperate water-skink，*Eulamprus heatwolei*）血中皮质酮的影响（结果如下图）（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;。她研究发现换栖地带来的压力名列前茅，甚至高于上手或嗅到天敌的气味、甚至是高于被剪掉一个脚趾的个体标记方法（剪趾曾经是一个常用的标记方法）。爬行动物的行为和哺乳动物的差别太大，你的直觉根本判断不了各压力因素的重要性。<p align="center"><img src="images/不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮的影响.png" width=603 /></p>
+2. 即使识别了压力因素，也经常错误估计不同负面因素的影响程度。Langkilde等人测量了不同压力因素影响下黄腹蜓蜥(?)（warm-temperate water-skink，*Eulamprus heatwolei*）血中皮质酮的影响（结果如下图）（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, 2006</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;。她研究发现换栖地带来的压力名列前茅，甚至高于上手或嗅到天敌的气味、甚至是高于被剪掉一个脚趾的个体标记方法（剪趾曾经是一个常用的标记方法）。爬行动物的行为和哺乳动物的差别太大，你的直觉根本判断不了各压力因素的重要性。<p align="center"><img src="images/不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮的影响.png" width=603 /></p>
 3. 民间饲养法可能只是合格的选择、而不是最优选择，你可能根本没见过养的好的动物是什么样子，自然也不会觉得当前的饲养方法有缺陷。
 4. 当前状态可能已经不错，但你可能做了很多无用功，用更简单或者更便宜的方法可以达到一样的效果。很多其他物种的饲养方法发展过程中有类似的例子：
   * 有人认为需要给饲料昆虫在死前饲喂含特定矿物质的食物（称gut loading），这样才能保证蜥蜴、守宫的矿物质摄入，这些gut loading的昆虫通常比较贵。Arbuckle等人发现可能简单撒上营养素粉的效果其实更好、而且又方便又便宜（【FILL_REF_AUTHOR: Arbuckle, K. 2009. Influence of diet on mineral composition of crickets used as prey for captive amphibians, specifically Hylidae. Unpubl. MSci dissertation. University of Glasgow. 51 pp.】, 2009&nbsp;<img src="images/Icon_Info.png" height=14 title="Arbuckle, K. 2009. Influence of diet on mineral composition of crickets used as prey for captive amphibians, specifically Hylidae. Unpubl. MSci dissertation. University of Glasgow. 51 pp." />）<sup>IV</sup>&nbsp;
@@ -2221,7 +2284,7 @@ A把球蟒当做宠物或应当爱护的有意识个体，B把球蟒当作生产
 #### 拟人观
 <img src="images/Signal_Light_Green.png" height=15 />
 
-拟人观（anthropomorphism）指的是依据人的需求去猜测动物的需求。另外也包括一种“拟宠物观”，比如有人管玉米蛇叫“带鳞的猫”，用家养猫狗的需求去猜测爬行动物的需求。（<a href="https://reptifiles.com/reptile-anthropomorphism-and-reptile-husbandry/">Healey, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Healey, Why Anthropomorphism May Be the Key to Better Reptile Husbandry" />）<sup>III</sup>&nbsp;
+拟人观（anthropomorphism）指的是依据人的需求去猜测动物的需求。另外也包括一种“拟宠物观”，比如有人管玉米蛇叫“带鳞的猫”，用家养猫狗的需求去猜测爬行动物的需求。（<a href="https://reptifiles.com/reptile-anthropomorphism-and-reptile-husbandry/">Healey</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Healey, Why Anthropomorphism May Be the Key to Better Reptile Husbandry" />）<sup>III</sup>&nbsp;
 
 这很容易搞出笑话，下面是一些网络上见到过的真实的典型错误案例：
 
@@ -2288,10 +2351,10 @@ Sinclare 认为 AZA Animal Welfare Committee在2012年定义的动物福利最�
 
 下面分别讨论这几个问题。
 
-## 双向连续福利坐标
+## 双向、连续的评价福利水平
 <img src="images/Signal_Light_Green.png" height=15 />
 
-动物福利标准是从畜牧业制定起来的，例如让圈养动物可以转身、可以躺下、可以站直，这些都是在避免负面因素。因为这个历史惯性，许多旧有的饲养方法也仅注重了“避免负面因素”的部分，很多人觉得动物福利就是避免对动物产生负面影响的因素，即是一个“从 -∞ 到 0 ”的坐标，甚至认为是一个“合格”/“不合格”的二元打分体系。
+动物福利标准一开始是从畜牧业制定起来的，例如让圈养动物可以转身、可以躺下、可以站直，这些都是在避免负面因素。因为这个历史惯性，许多旧有的饲养方法也仅注重了“避免负面因素”的部分，很多人觉得动物福利就是避免对动物产生负面影响的因素，即是一个“从 -∞ 到 0 ”的坐标，甚至认为是一个“合格”/“不合格”的二元打分体系。
 
 但其实动物福利的正确模型应该是从负面到正面的双向、无限、连续坐标，它的终点也不是“无负面因素”，而是可以无止境的向正面状态努力（【Vicky Melfi，2009，加引文】）：
 
@@ -2303,9 +2366,7 @@ Sinclare 认为 AZA Animal Welfare Committee在2012年定义的动物福利最�
 
 仅以“饿不着”这个中性状态为目标，确实很容易达到终点。但新的观念以提供正向福利为目标，就有无止境的追求空间：
 
-> “吃米饭让人达到了不饥饿的中性状态，但要达到正面状态，还要有咸菜、有炒菜，有肉；主食也要多样、搭配米饭、面食、粗粮等。再偶尔来点牛排。牛排可以100一斤，也可以一万一斤。”
-
-显然，有了后面这些才是突破了中性状态，向正面状态努力，向正面的追求是无止境的。
+> “吃米饭让人达到了不饥饿的中性状态，但要达到正面状态，还要有咸菜、有炒菜，有肉；主食也要多样、搭配米饭、面食、粗粮等。再偶尔来点牛排。牛排可以买100一斤的，不差钱也可以买一万一斤的。”
 
 具体到蛇身上，以温度要求为例，许多饲养教程中仅列出“控温24\~28 °C，晒点35°C”就算完，这确实保证了在一般情况下蛇不会因为温度不合适而得病死亡，但这只是通过避免负面因素达到了中性状态。而先进的饲养应当追求进一步提供正面因素，例如：
 
@@ -2315,106 +2376,121 @@ Sinclare 认为 AZA Animal Welfare Committee在2012年定义的动物福利最�
 
 等等。
 
-
 ## 动物福利可以科学测量
 <img src="images/Signal_Light_Green.png" height=15 />
 
-动物福利是科学，应当是客观的、询证的。一项措施在各个角度是带来正面福利还是负面福利可以最终得到明确的答案，与人的主观看法无关。
+动物福利是科学，应当是客观的、询证的。一项措施从哪些角度影响福利、分别是正面还是负面福利理论上都可以通过实验得到明确的答案。
 
-动物福利与动物伦理是两个正交的方面，不应用动物伦理问题的不确定性衡量动物福利科学的客观评价体系。具体可见[动物伦理](#区分动物福利与动物伦理)一节的简短讨论。
+动物福利与动物伦理是两个正交的方面，不该用动物伦理问题的不确定性衡量动物福利科学的客观评价体系。具体可见[动物伦理](#区分动物福利与动物伦理)一节的讨论。
 
-应当习惯于用询证手段而不是主观感受来评价动物福利措施，例如对比如下两个观察结论：
+### 衡量动物对特定因素的感受
+<img src="images/Signal_Light_Green.png" height=15 />
 
-A. 这条球蟒给了攀爬物就一只在爬，它肯定喜欢攀爬。
+判断动物对特定经历是正面感受还是负面感受对动物福利研究十分重要，动物不会说话，需要设计实验方法来衡量“动物体验如何”。了解这些方法可以正确评价一些文献研究的意义。
 
-B. 相比提供攀爬物前，这条球蟒在提供攀爬物时表现出了统计学上显著更多次的各种物种典型行为（species-typical behaviour），因此应当为动物提供攀爬物，以保持动物当前的正向行为水平。
+下面的方法大致按照**靠谱程度从低到高**排序。
 
-这二者描述了同一问题，但区别是前者是主观的，后者是（尽可能）客观的。对前者的观点常有主观争议而难有结果，后者则有明确的含义和清晰的测量标准。好的饲主应该做基于证据的饲养选择，致力于给爬宠提供选项、让其自己选择什么是恰当的环境、让它有机会做想做的事情，再通过观察动物的反馈迭代优化环境。
+下面的大部分方法同时适用于衡量正面体验和负面体验。为描述简洁，有时仅描述其中一种情况。
 
-### 测量动物对特定因素的感受
-<img src="images/Signal_Light_Yellow.png" height=15 />
-
-下文的参考文献：
-（<a href="https://www.mdpi.com/2076-2615/13/6/988">M. Dawkins, 2023, 2023</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dawkins%2C%20%E8%87%AA%E7%84%B6%E8%A1%8C%E4%B8%BA.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Marian Stamp Dawkins, Natural Behaviour Is Not Enough: Farm Animal Welfare Needs Modern Answers to Tinbergen’s Four Questions, Animals 2023, 13(6), 988" />）<sup>IV</sup>&nbsp;，
+本节重要参考文献：
+（<a href="https://www.mdpi.com/2076-2615/13/6/988">M. Dawkins, 2023</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dawkins%2C%20%E8%87%AA%E7%84%B6%E8%A1%8C%E4%B8%BA.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Marian Stamp Dawkins, Natural Behaviour Is Not Enough: Farm Animal Welfare Needs Modern Answers to Tinbergen’s Four Questions, Animals 2023, 13(6), 988" />）<sup>IV</sup>&nbsp;，
 Sinclair做了一个视频讲这篇文献，将这篇文献中的一些概念与爬行动物做了结合。（<a href="https://www.youtube.com/watch?v=87XtO86MuDs">Sinclair, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles and Research, Are We Wrong About Natural Behaviours In Herpetoculture? (Video Essay), 2023" />）<sup>III</sup>&nbsp;
 
-判断动物对特定经历是正面感受还是负面感受对动物福利研究十分重要。为了在阅读文献时正确衡量相应研究的意义，需要了解人们怎么衡量“动物体验如何”这个问题。
-
-下面介绍一些方法，大致按照从不靠谱到更靠谱排序。下面的大部分方法同时适用于衡量正面体验和负面体验。为描述简洁，有时仅做单向表述。
-
 #### 自然准则法
+<img src="images/Signal_Light_Green.png" height=15 />
 
-自然准则法即以野生动物在自然环境（进化场景）中的需求和行为衡量即圈养状态下的动物感受。
+此处的自然环境指的是物种的进化场景。自然准则法就是认为动物在自然环境下遇到的环境因素就是正面因素；动物在自然环境下表现出的行为就是正面行为。这是比较粗糙的判断方法。
 
-这是比较粗糙的判断方法。
+自然行为不一定是个体正面感受的体现。比如“被捕食者追捕时逃跑”、“被同类上层竞争者压制时保持远离和戒备”、“极端饥饿状态下的觅食行为”等就都是自然行为，但显然不体现动物个体有正面感受。实际上，大多数野生动物的行为是抵御环境压力的尝试，而不是出于自身福利需求。缺乏其他证据的时候，自然行为并不能说明动物的真正愿望，不能说明缺乏这个行为的时候对动物有何影响。
 
-自然行为不一定是个体正面感受的体现。比如“被捕食者追捕时逃跑”、“被同类上层竞争者压制时保持远离和戒备”、“极端饥饿状态下的觅食行为”等就是自然行为，但显然不体现动物个体有正面感受。实际上，大多数野生动物的行为是抵御环境压力的尝试，而不是出于自身福利需求。缺乏其他证据的时候，自然行为并不能说明动物的真正愿望，不能说明缺乏这个行为的时候对动物有何影响。
+在[自然生境及其模拟](#自然生境及其模拟)一节有其他讨论。
 
-有人认为动物根本没有“想法”，认为动物行都是基础本能驱动的。这时错误的，即使是爬行动物这种常被人误以为智商很低的动物、他们的行为仍然有很多并不是本能驱动的，甚至可以处理他们的祖先不可能遇到过的复杂问题。大部分动物行为都是基因本能、环境和历史经历的复杂互动。基因决定了“甜味好吃”“疼痛难受”，但基因很少告诉你该采取什么行动来获得奖励、避免惩罚（除了少数本能反应，比如疼痛收缩的条件反射）。因而动物的行为是基因、环境、经验的综合结果。
-
-在之后的章节中会详细讨论爬行动物的学习行为。
-
-另一个不能完全参照自然行为的原因是，有的人工繁育动物的需求已经与类似的野生种完全不同。例如有些王蛇在野外的大部分食物都是爬行类（蜥蜴和蛇），但在繁育过程中，不吃老鼠的王蛇幼崽被繁育者淘汰了，剩下的都是习惯吃老鼠的王蛇。此时就通过其他实验考察宠物王蛇的食谱要有多大比例是鼠、多大比例是蛇和蜥蜴。
-
-研究自然行为仍然有重要价值，因为它可以提示人们“该研究什么行为、什么环境因素”。并进一步通过下面的方法验证。不了解自然行为可能遗漏了重要因素而不自知。尤其对于爬行动物，其驯化代数很少，野生动物的大部分需求仍然保留在圈养动物中。
-
-重要的不是动物“做了什么”，是动物“想做什么”。这就必须用其他实验探究。
+自然准则法其实是考察了动物“做了什么”，但我们想要的其实是动物“想做什么”。这就必须用其他实验探究。
 
 #### 空间统计
+<img src="images/Signal_Light_Green.png" height=15 />
 
-动物为了追求某一目标而改变身体位置、或维持特定位置。例如下图中的球蟒反复的去把自己挂在栖地中的同一根电线上，说明攀爬（或者说保持在高处）可能是球蟒的正面行为。
+动物为了追求某一目标而改变身体位置、或维持特定位置。下图中的球蟒反复的去把自己挂在栖地中的同一根电线上，说明攀爬（保持在高处）可能是球蟒的正面行为，应当设计攀爬物满足球蟒的需求。
 
 <p align="center"><img src="images/球蟒将自己挂在电线上.jpg" width=603 /></p>
 
 #### 时间统计
+<img src="images/Signal_Light_Green.png" height=15 />
 
 动物为了追求某一目标而花很长的时间做一件事。结合空间分布，可以更明确的体现出动物想要什么，例如统计白化与非白化球蟒晒UVB灯的时间，发现后者远远大于前者，可以确定晒UVB对非白化的球蟒是正面需求，但对白化球蟒就不一定。反过来，如果提供了做出某项行为的机会，但是动物根本不理你，可能相应活动就对动物的正面福利没什么贡献。
 
-#### 接近/远离速度统计
-
-一个经典的实验是考察绵阳对于电刺激晕厥的体验。（<a href="http://doi.org/10.1016/0168-1591(86)90124-3">Rushen, 1986</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Rushen, J. Aversion of sheep to electro-immobilization and mechanical restraint. Appl. Anim. Behav. Sci. 1986, 15, 315–324." />）<sup>IV</sup>&nbsp;人们曾经认为绵羊被人控制住剃毛是产生压力的，所以认为用电晕厥的方法使绵羊不动（称electro-immobilisation）可以增加福利（。。。这都怎么想的）。实验者做一条跑道，选取未被剃过毛的羊作为受试。人在起点控制羊之后松手，羊会自然躲着人逃跑，此时记录羊逃跑到终点的速度。然后在跑道终点分别对不同的羊施以正常的剃毛和电晕厥剃毛，并重复上述实验记录逃跑的时间。发现没被剃毛的羊逃跑最快，正常剃毛的跑的速度满了一些，电晕厥剃毛的羊跑的最慢（甚至有的宁肯和人站一起、直接就不走了）。这说明羊认为电晕厥剃毛的福利程度极差。
-
-Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激。（<a href="https://link.springer.com/article/10.3758/BF03342210">Crawford, Holmes, 1966</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="F. T. Crawford, Charles E. Holmes, Escape conditioning in snakes employing vibratory stimulation, Psychonomic Science, 1966, 4, 125–126" />）<sup>IV</sup>&nbsp;一间隔室受到了振动，蛇则可以移动到另一间隔室以逃避刺激。经过重复实验，他们记录到蛇从有震动隔间向无震动隔间的“逃离”速度随实验的重复而不断加快。这表明蛇认为振动反感，显示出明显的避免行为，这意味着爬箱不应放在电脑桌等有振动源附近。
-
 #### 选择性测试
+<img src="images/Signal_Light_Green.png" height=15 />
 
-控制变量对照试验，让动物选择不同的因素。例如在一个Y型通道的两个末端放置不同食物、不同垫材、不同温度等，让动物选择，记录频率。
+控制变量对照试验，让动物选择不同的正面因素。例如在一个Y型通道的两个末端放置不同食物、不同垫材、不同温度等，让动物选择，记录频率。
+
+Mehrkam等人发现接近自然的丰荣物（石头）相比人工物体（PVC管子）对东部indigo snake (*Drymarchon couperi*) 有更好的丰荣效果 （<a href="https://dx.doi.org/10.1002/zoo.21227">Mehrkam, 2015</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Mehrkam, L. R.; Dorey, N. R. Preference Assessments in the Zoo: Keeper and Staff Predictions of Enrichment Preferences Across Species. Zoo Biol. 2015, 34, 418-430." />）<sup>IV</sup>&nbsp;。他的实验就是将不同丰荣物摆放在与动物等距离的相反方向上，通过动物的选择统计其偏好。
+
+<p align="center"><img src="images/Indigo Snake的丰荣物选择实验.jpg" width=603 /></p>
+
+#### 接近/逃离速度改变量
+<img src="images/Signal_Light_Green.png" height=15 />
+
+这个方法是说，首先观察动物在起始状态下接近/逃离某个目标的速度，然后引入某个因素，观察动物接近/逃离的速度有什么改变。如果接近的满了、逃离的快了，说明动物不喜欢这种体验。
+
+Rushen等人的工作是一个经典案例（<a href="http://doi.org/10.1016/0168-1591(86)90124-3">Rushen, 1986</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Rushen, J. Aversion of sheep to electro-immobilization and mechanical restraint. Appl. Anim. Behav. Sci. 1986, 15, 315–324." />）<sup>IV</sup>&nbsp;。人们曾经认为绵羊被人控制住剃毛是产生压力的，而提前把绵羊电晕，它不动了（称electro-immobilisation），可以增加福利（。。。这都怎么想的）。实验方案是：
+* 做一条跑道，选取从未接受过电刺激的羊作为受试。
+* 人在起点控制羊之后松手，羊会自然躲着人逃跑，此时记录羊逃跑到终点的速度。
+* 在跑道终点分别对不同的羊施以正常的剃毛或电晕厥剃毛，并重复上述实验记录逃跑的时间，实验可多次进行。
+实验发现没被剃毛的羊逃跑最快，正常剃毛的跑的速度满了一些，电晕厥剃毛的羊跑的最慢（甚至有的宁肯选择和人站一起也不跑）。
+
+这个实验方案可以说明下面几个问题：
+* 羊是否认为电刺激是负面体验
+* 羊是否认为电刺激比机械束缚更负面
+* 羊能否记住之前的体验
+* 羊体验过一次之后，下一次是适应了这种刺激形式，还是觉得更恐惧了。
+
+类似的，Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激。（<a href="https://link.springer.com/article/10.3758/BF03342210">Crawford, Holmes, 1966</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="F. T. Crawford, Charles E. Holmes, Escape conditioning in snakes employing vibratory stimulation, Psychonomic Science, 1966, 4, 125–126" />）<sup>IV</sup>&nbsp;一间隔室受到了振动，蛇则可以移动到另一间隔室以逃避刺激。经过重复实验，他们记录到蛇从有震动隔间向无震动隔间的“逃离”速度随实验的重复而不断加快。这表明蛇认为振动反感，显示出明显的避免行为，这意味着爬箱不应放在电脑桌等有振动源附近。
 
 #### 学习性位置偏好改变量
+<img src="images/Signal_Light_Green.png" height=15 />
 
 （Conditioned Place Preference/Aversion）
 
 （<a href="https://www.sciencedirect.com/science/article/abs/pii/S016815911300186X?via%3Dihub">Dixon, 2013</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="L. Dixon et al. Conditioned place preference or aversion as animal welfare assessment tools: Limitations in their application, Applied Animal Behaviour Science 2013, 148, 164–176" />）<sup>IV</sup>&nbsp; 
 
-前面的测试都要求待测因素可以重复、多次发生。但有的时候待测因素并不满足这个条件，比如衡量给动物置入跟踪器对动物造成多大压力，总不能三番五次的给它植入跟踪器。
+适用于不可重复的刺激，比如衡量给动物置入跟踪器对动物造成多大压力，总不能三番五次的给它植入跟踪器。
 
 条件性地点偏好指的是先让动物学习有明显不同标记的两个环境（例如一个房间涂竖条，一个房间涂横条），使动物在两个房间中体验不同程度的正面或负面经历，记录动物位于两个房间中的时间比例。随后在其中一个房间引入待测因素，观察引入因素前后动物对地点偏好的变化。经历前后的偏好差值说明了动物是否喜欢这种经历。
 
-#### 学习性策略改变量
+#### 学习性策略改变
+<img src="images/Signal_Light_Green.png" height=15 />
 
 （Instrumental Conditioning）
 
-这个实验策略是希望在学习性位置偏好改变实验的基础上进一步确定动物确实是要选择为了某个目标而努力，而不是简单的本能驱动。其实验方法是尝试使动物在一项完全随机的活动与奖励之间建立关系，例如“压下压杆可以获得食物”。随后尝试让动物在完全相反的动作与奖励之间建立关系，例如将获得食物的条件改成“往上举压杆可以获得食物”。如果能完成这样的实验，就说明动物一定是在积极的改变策略以达成目标，该目标对动物来说一定是正面的，动物愿意“work for it”。
+在学习性位置偏好改变量实验的基础上，如果希望进一步确定动物不是简单的本能驱动，而是是在做出主观努力，就需要学习性策略改变的方法。这种方法是使动物在一项完全随机的活动与奖励之间建立关系，例如“压下压杆可以获得食物”。随后尝试让动物在完全相反的动作与奖励之间建立关系，例如将获得食物的条件改成“往上举压杆可以获得食物”。
+
+如果能完成这样的实验，就说明动物一定是在积极的改变策略以达成目标，该目标对动物来说一定是正面的，动物愿意“work for it”。
 
 #### 付出量比较
+<img src="images/Signal_Light_Green.png" height=15 />
 
-我们不止希望知道动物对特定经历是正面还是负面，我们还想知道其程度。为此，需要用我们已知的行为做标定，定量的方法是使动物付出容易量化的努力，例如挤过特定长度的狭窄区域、推开沉重的门、（对厌水动物）令其走过一定长度的水池、重复特定动作一定次数（例如反复多次按某一按钮）等等，然后对一个未知行为做同样的测量，就能划定动物有多么喜欢某一行为。
+我们不止希望知道动物对特定经历是正面还是负面，我们还想知道其程度。为此，需要用我们已知的行为做标定，并通过容易量化的努力测量动物追求某目标的程度。例如通过某个因素诱导动物挤过特定长度的狭窄区域、推开沉重的门、（对厌水动物）令其走过一定长度的水池、重复特定动作一定次数（例如反复多次按某一按钮）等等，一直测到动物不耐烦、不愿意付出更多努力为止。对多个不同行为做测量，就可以给出一个动物需求程度/厌恶程度的排序。
 
-一个经典例子是对牛喜欢蹭痒刷程度的测量（下图这玩意儿），Keyserlingk等人安装了一个通过滑轮与重物连接的门，牛需要用力推门才能获得食物。实验发现饿了1.5小时的牛愿意推开最多大约28 kg重的门来获取食物；如果他们知道门后面有蹭痒刷，他们愿意推开25公斤左右的门去蹭刷子；而它们为了获取更大的活动空间只愿意推开大概10公斤的门，再重就懒得推了。这说明他们对蹭痒刷的需求和日常食物差不多，比有充足活动空间还要重要。（<a href="http://doi.org/10.1098/rsbl.2018.0303">Keyserlingk, 2018</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="McConnachie, E.; Smid, A.M.C.; Thompson, A.J.; Weary, D.M.; Gaworski, M.A.; von Keyserlingk, M.A.G. Cows are highly motivated to access a grooming substrate. Biol. Lett. 2018, 14, 20180303." />）<sup>IV</sup>&nbsp;。现在认为为牛安装蹭痒刷是一项重要福利。
+一个经典例子是测量牛到底有多么喜欢蹭痒刷（下图这玩意儿），Keyserlingk等人安装了一个通过滑轮与重物连接的门，牛需要用力推门才能获得食物。实验发现饿了1.5小时的牛愿意推开最多大约28 kg重的门来获取食物；愿意推开25公斤左右的门去蹭刷子；而它们只愿意推开大概10公斤的门来获取更大的活动空间，再重就懒得推了。这说明他们对蹭痒刷的需求和食物差不多，比有充足活动空间还要重要。（<a href="http://doi.org/10.1098/rsbl.2018.0303">Keyserlingk, 2018</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="McConnachie, E.; Smid, A.M.C.; Thompson, A.J.; Weary, D.M.; Gaworski, M.A.; von Keyserlingk, M.A.G. Cows are highly motivated to access a grooming substrate. Biol. Lett. 2018, 14, 20180303." />）<sup>IV</sup>&nbsp;。现在认为为牛安装蹭痒刷是一项重要福利。
 
-<p align="center"><img src="images/动物福利：牛滚子.jpg" width=603 /></p>
+<p align="center"><img src="images/动物福利：牛滚子.jpg" width=403 /></p>
 
 
 ### 测量动物的整体情绪
 
-#### 判断偏见测试
-<img src="images/Signal_Light_Green.png" height=15 />
+有时我们并不是想单独研究某个具体因素带来的影响，而是想测量动物的整体感受状态。
 
-有一个比喻是“对装了一半的杯子，乐观的人会觉得它是半满的，悲观的人会觉得它是半空的”。可以一部分人和其他动物做预测时不是完全理智的。对于一个理性概率为50%（或者其他特定数值）的事件，个体对事件期望的估计会随当前情绪的正面/负面变化而改变，正面情绪状态将导致更乐观的估计。通过动物行为考察其对随机事件的预期结果，该预期的波动反应当前情绪的正面或负面程度。
+#### 判断偏见测试
+<img src="images/Signal_Light_Yellow.png" height=15 />
+
+这种测试的原理类似于“对装了一半的杯子，乐观的人会觉得它是半满的，悲观的人会觉得它是半空的”。
+
+动物预测食物时不是完全理智的。对于一个理性概率为50%的事件，个体对事件期望的估计会随当前情绪的正面/负面变化而改变，正面情绪状态将导致更乐观的估计。因此可以通过动物行为考察其对随机事件的预期结果，该预期的波动反应当前情绪的正面或负面程度。
 
 还没看：【】【（<a href="https://dx.doi.org/10.3390/ani8070104">Clegg, 2018</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Clegg, I. Cognitive Bias in Zoo Animals: An Optimistic Outlook for Welfare Assessment. Animals 2018, 8, 104." />）<sup>IV</sup>&nbsp;】【】
 
-可以表征动物情绪的整体状态，而不仅是对特定因素、特定事物的响应，进而可以推测动物自身对整体福利状况的感受。
+这种实验可以表征动物情绪的整体状态，而不仅是对特定因素、特定事物的响应，进而可以推测动物自身对整体福利状况的感受。
 
 #### 压力与应激响应的测试
 <img src="images/Signal_Light_Green.png" height=15 />
@@ -2422,9 +2498,9 @@ Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激
 动物体在压力、应激状态下会产生一系列生化和行为响应。这部分测试将在[压力与应激](#压力与应激)章节讲述。
 
 ## 动物福利要素
-<img src="images/Signal_Light_Yellow.png" height=15 />
+<img src="images/Signal_Light_Green.png" height=15 />
 
-英国动物福利领域有一个著名的原则是“福利五要素”。起初叫“五个避免”（Five Freedoms）原则，从名字上就能看出它只注重了避免负面因素，Mellor等人在2015年补充了这一原则，加入正面福利因素，目前称为“五个提供”（Five Provisions），内容如下（<a href="https://dx.doi.org/10.7120/09627286.24.3.241">Mellor, 2015</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Mellor%EF%BC%8CFive%20Freedoms%20to%20Five%20Provisions.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="D. J. Mellor, N. J. Beausoleil, Extending the ‘Five Domains’ model for animal welfare assessment to incorporate positive welfare states, Animal Welfare, 2015, 24, 241-253." />）<sup>IV</sup>&nbsp;，（<a href="https://www.mdpi.com/2076-2615/6/10/59">Mellor, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Mellor%EF%BC%8CFive%20Provisions.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="D. J. Mellor, Moving beyond the “Five Freedoms” by Updating the “Five Provisions” and Introducing Aligned “AnimalWelfare Aims”. *Animals*, **2019**, *6*, 59." />）<sup>IV</sup>&nbsp;，（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;，（<a href="https://4ca8cce6-b649-4f5d-8bce-a3b15fb870e6.usrfiles.com/ugd/4ca8cc_8a3d7f870e5e48c68b36937403bd30bd.pdf">英国两爬协会, 2022</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E8%8B%B1%E5%9B%BD%E4%B8%A4%E7%88%AC%E5%8D%8F%E4%BC%9A%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E6%9C%80%E5%B0%8F%E9%A5%B2%E5%85%BB%E7%AE%B1%E5%AE%9E%E8%B7%B5%E5%87%86%E5%88%99.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv24027596"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Federation of British Herpetologists (FBH), Code of Practice for Recommended Minimum Enclosure Size for Reptiles, **2022**." />）<sup>V</sup>&nbsp;，（<a href="https://www.legislation.gov.uk/ukpga/2006/45/contents">英国福利法, 2006</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E8%8B%B1%E5%9B%BD%E7%A6%8F%E5%88%A9%E6%B3%95%EF%BC%8CAnimal%20Welfare%20Act%202006.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Animal Welfare Act, 2006" />）<sup>V</sup>&nbsp;，（【FILL_REF_AUTHOR: 】, Year?&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）<sup>IV</sup>&nbsp;，：
+英国动物福利领域有一个著名的原则是“福利五要素”。起初叫“五个避免”（Five Freedoms）原则，从名字上就能看出它只注重了避免负面因素，Mellor等人在2015年补充了这一原则，加入正面福利因素，目前称为“五个提供”（Five Provisions），内容如下：
 
 1. 【水和营养】避免饥渴和营养不良，提供干净的水和食物以保持完全的健康和活力。
 2. 【环境】避免不适和过分暴露，提供包括躲避区、阴影区、休息区、居所、新鲜空气在内的适当环境。
@@ -2434,35 +2510,20 @@ Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激
 
 其中前四个是身体、功能方面的考量，第五个精神层面的考量更多的是前四个方面取得进步导致的结果。
 
+有大量文献讨论五要素福利说，比如：
 
-德国动物饲养条例列举了爬行动物饲养的基本要求，可以视为一个大纲（<a href="https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003860">德国动物饲养条例, 2022</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E5%BE%B7%E5%9B%BD%E5%8A%A8%E7%89%A9%E9%A5%B2%E5%85%BB%E6%9D%A1%E4%BE%8B%EF%BC%8CGermany%20Animal%20Husbandry%20Ordinance%EF%BC%8Cversion%20of%2006.05.2022%EF%BC%88%E6%9C%BA%E7%BF%BB%E8%8B%B1%E8%AF%91%EF%BC%89.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Gesamte Rechtsvorschrift für 2. Tierhaltungsverordnung, Fassung vom 06.05.2022》，Elaphe guttata (Kornnatter), 2022" />）<sup>V</sup>&nbsp;：
+（<a href="https://dx.doi.org/10.7120/09627286.24.3.241">Mellor, 2015</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Mellor%EF%BC%8CFive%20Freedoms%20to%20Five%20Provisions.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="D. J. Mellor, N. J. Beausoleil, Extending the ‘Five Domains’ model for animal welfare assessment to incorporate positive welfare states, Animal Welfare, 2015, 24, 241-253." />）<sup>IV</sup>&nbsp;
 
-1. 对于饲养爬行动物，适用附件3中的最低要求以及以下各条款。
-2. 购买爬行动物前，必须获取有关该种类生物学的知识以及由此产生的饲养要求，并准备适合其种类的爬行动物箱。应研读相应的专业文献，以便对爬行动物饲养进行持续学习。
-3. 原则上应优先购买繁殖后代。
-4. 应按照自然环境的条件，通过灯光和热源设置适合特定种类需求的环境气候，通常是在饲养系统中设定温度梯度和降低夜间环境温度。必须遵守这些最低和最高温度的范围，以及所饲养动物种类的首选温度。
-5. 应通过通风确保新鲜空气。应避免出现气流。根据生产形式，爬行动物箱的侧壁或顶部必须有网格部分。
-6. 对于无法保持恒定体温的爬行动物，应提供符合其种类特定需求的热源，最好是通过光与辐射热的结合。
-7. 只能使用正确安装和适当的灯泡和荧光管。必须有适当的设备来测量温度和湿度。
-8. 空气和地面底质的湿度以及环境因素必须适应原产地生物群落的自然季节条件。必须考虑原产地生物群落的宏观气候和微观气候参数，其中微观气候可能与宏观气候大不相同。
-9. 必须确保动物得到适合其种类的饮食。所使用的食物必须含有符合营养需求的维生素、矿物质、必需氨基酸和纤维素。如果需要喂食脊椎动物，应尽可能使用新鲜死亡的饲料动物。昆虫应尽可能活着喂食。必须提供适合其种类的饮水方式。
-10. 人工生活空间的设计和基础设施必须根据所饲养种类的需求，例如挖掘、翻动、攀爬、游泳或寻找不同的气候参数。禁止使用有锐边、能造成伤害或刺激皮肤的物质。对于需要或可能的种类，最重要的最低设备包括：
-              1. 足够高的适合地面底质，
-              2. 隐藏的可能性，
-              3. 水盆，浴盆，
-              4. 适当大小和尺寸的攀爬设施，如岩石、树枝或树枝，
-              5. 通过种植植物创造适当微气候或作为隐藏处，
-              6. 对于饲养成熟产卵雌性的特殊产卵设施，
-              7. 根据需要在一个或多个围栏内设置视线阻隔设施。
-11. 动物应得到适合其种类的护理，污物应定期清理。必须注意通常的清洁。
-12. 为避免配对和群体饲养中的社会压力，必须遵守动物的自然社会结构。在将具有相同生物群落要求的不同种类混养时，动物不能互相负面影响。
-13. 对于隔离和治疗生病的动物，以及在模拟休息期和育雏期，允许有专业理由的不同饲养条件。
+（<a href="https://www.mdpi.com/2076-2615/6/10/59">Mellor, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Mellor%EF%BC%8CFive%20Provisions.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="D. J. Mellor, Moving beyond the “Five Freedoms” by Updating the “Five Provisions” and Introducing Aligned “AnimalWelfare Aims”. *Animals*, **2019**, *6*, 59." />）<sup>IV</sup>&nbsp;
 
+（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;
+
+（<a href="https://4ca8cce6-b649-4f5d-8bce-a3b15fb870e6.usrfiles.com/ugd/4ca8cc_8a3d7f870e5e48c68b36937403bd30bd.pdf">英国两爬协会, 2022</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E8%8B%B1%E5%9B%BD%E4%B8%A4%E7%88%AC%E5%8D%8F%E4%BC%9A%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E6%9C%80%E5%B0%8F%E9%A5%B2%E5%85%BB%E7%AE%B1%E5%AE%9E%E8%B7%B5%E5%87%86%E5%88%99.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv24027596"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Federation of British Herpetologists (FBH), Code of Practice for Recommended Minimum Enclosure Size for Reptiles, **2022**." />）<sup>V</sup>&nbsp;
+
+（<a href="https://www.legislation.gov.uk/ukpga/2006/45/contents">英国福利法, 2006</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E8%8B%B1%E5%9B%BD%E7%A6%8F%E5%88%A9%E6%B3%95%EF%BC%8CAnimal%20Welfare%20Act%202006.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Animal Welfare Act, 2006" />）<sup>V</sup>&nbsp;
 
 ### 蛇的动物福利要素
-<img src="images/Signal_Light_Yellow.png" height=15 />
-
-具体的动物福利研究会在[蛇的行为学](#蛇的行为学)之后详细介绍，下面仅是一个简单的大纲，作为动物福利理论的案例。
+<img src="images/Signal_Light_Green.png" height=15 />
 
 具体到蛇，上面提到的“五个提供”模型所涉及的福利可能包括下列方面（由Whittaker为蓝蛇石龙子建立的方案（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;和Sinclair为玉米蛇建立的方案（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />）{3}结合起来重构得到）：
 
@@ -2492,7 +2553,7 @@ Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激
   * 正确的温度区间：包括冷区、热区、晒点温度。进一步包括提供阴影区、地下微环境等其他因素。没有因为过热或过冷导致的行为异常。
   * 正确的栖地维护：及时检查灯具，及时更换UVB灯，充分的温控冗余，经常监测温控状态。
 * 栖地活动性
-  * [充足的栖地大小](#最低空间需求)。
+  * [充足的栖地大小](#空间需求)。
   * 充足的躲避和视觉隔障，避免过分暴露。
   * 满足挖掘需求，有正常的挖掘行为。
   * 满足攀爬需求，满足高处躲避需求。
@@ -2519,7 +2580,7 @@ Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激
 
 * 玉米蛇独居，没有共栖需求。保证没有错误共栖带来的压力。
 * 可以通过气味丰容、气味踪迹诱导觅食行为。
-* 避免严重刻板行为，见[蛇的典型刻板行为](#蛇的典型刻板行为)一章。
+* 避免严重刻板行为，见[刻板行为](#刻板行为)一章。
 * 避免严重应激行为，见[蛇的常见行为状态及评估意义](#蛇的常见行为状态及评估意义)一章。
 * 提供恰当丰容，诱导丰富的正面物种特定行为和探索行为。
 * 注意丰容的更新和改变，不因动物对环境的熟悉而失去丰容度。
@@ -2533,65 +2594,58 @@ Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激
 * 使动物可以自主选择适宜环境环境，避免恐惧和悲伤情绪。
 
 
-下图是Liam Sinclare为他的墨西哥黑王蛇建造的栖地，着重于通过环境复杂度提供各种环境参数的选择。注意到通过这样的布置，栖地有1/3是明亮温暖的，并在另外的2/3范围内逐渐过渡到昏暗凉爽。并通过环境布置让蛇可以在有无UVB，有无光照，温度冷暖，湿度高低之间做出选择。同时，因为垫材够厚，蛇通过挖洞还可以在地下创建新的微环境。
-
-<p align="center"><img src="images/Liam Sinclare 栖地布置.jpg" width=603 /></p>
-
-图中软木树皮卷放置的位置经过设计，上方有灯，可以通过吸热后的二次辐射创造一个阴暗温暖的微环境。
-
-图中从热区到冷区都有遮蔽，可以让蛇在不觉得暴露的情况下从热区移动到冷区，不用在安全性和温度之间做妥协。否则如果只在栖地两边放冷区躲避和热区躲避，蛇就会因为要跨越中间的开阔地而感到压力，从而使蛇不倾向于直接选择适宜的环境，而是实在受不了了才换。
-
-中间的树让蛇可以爬高接收紫外线照射，也可以在较低的位置减少紫外线暴露。
-
-好的饲主不应该想“我要给XX温度，XX湿度”，而是“我要建立这样的温度和湿度梯度和微环境选项。”饲主的工作不应该是帮蛇做出决定，而是应该尽可能在大环境中提升环境复杂度，让蛇自己选择它想要的环境。蛇知道自己想要什么环境，它不傻，你提供选项，它们就会做选择。
-
-有人说（他的）蛇天天像静物一样盘在栖地一角、一整天一动不动（并且还误以为“蛇就是智商低，就是该这样”），这就是不提供正面福利、不提供选择的典型结果。通过提供“正面福利”，我们能让蛇在“活下去”的基础上活的更精彩，展现更多自然行为，养蛇的人也能看到更多有趣的内容。
-
-积极的动物福利的一个重要指标是可以让动物展现出物种特定行为（species-typical behavior）。一个现代的合格饲主应该主动了解高规格的饲养条件下蛇会表现出哪些物种特定行为，并且持续的尝试新的方法提升动物福利，而不是自信地说我的动物已经养的没问题了。不能因为动物在你手上从来没有展现某种行为，就说这动物没有相应需求、不会表达这些行为。
-
 
 ## 压力与应激
-<img src="images/Signal_Light_Red.png" height=15 />
-
-【】【https://youtu.be/QagRkVYq41A?si=nEI6Gu4xFUWe_JVA】【】
+<img src="images/Signal_Light_Yellow.png" height=15 />
 
 在动物福利研究中，压力被定义为任何干扰动物稳态的物理、化学或情感影响，同时也包括为了消除这些影响回到稳态的努力。当压力严重到会导致精神或身体伤害的时候，动物福利就受到了损害，所以研究压力对动物福利非常重要。（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;
 
-### 压力与应激的生理学机制和生化测量
-<img src="images/Signal_Light_Red.png" height=15 />
 
-（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;
+【】【下面没听懂】【】
+【压力是生物对于外界刺激导致的状况改变的生理响应，包括（<a href="https://www.youtube.com/watch?v=QagRkVYq41A">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Refesh Your Knowledge: Stress & Snake Body Language, 2022" />）<sup>III</sup>&nbsp;：
+* 对外界变化的响应
+* 有挑战性的、或是兴奋的经历
+* 对不愉快的、或是（看起来）无法逃脱的情形的反应
+* 任何引起恐惧、焦虑或其他负面情绪的经历
 
-首先介绍应激反应的生理学过程。要了解这个机制是因为阅读与压力相关的文献时会使用相关的血液指标作为客观衡量压力水平的指标，而选错指标将导致文章结论完全没有意义。
-
-许多负面感受可以敏感的反馈在生化指标上。压力会造成激素、免疫和能量系统的波动，监测这些生化指标的波动可以探究动物的心理状态。
-
-
-【】【急性压力指的是对即刻发生的威胁做出的响应。这样的威胁可能是真实的（例如对人的接近感到紧张）、也可能是动物想象出来的（例如响应自己的倒影）。急性压力一旦撤除，动物的生理和行为变化也就恢复受压之前的状态。】【】
+通常，压力伴有：
+* 一个导火索事件（物理的或是心理的）
+* 对既往平均状况的干扰或挑战（包括正面/负面的干扰，比如中了彩票和遭遇车祸都是对既往状况的挑战）
+* 一系列生理响应，比如糖皮质激素的增加】
 
 
-【】【慢性（长期）压力是当因素延长、且动物无法自行选择或解决压力因素所致的。长期压力可能造成免疫缺陷状态、行为异常、和活跃度缺乏。】【】
+### 压力与应激的生理学机制
+<img src="images/Signal_Light_Green.png" height=15 />
 
+许多负面感受可以敏感的反馈在生化指标上。压力会造成激素、免疫和能量系统的波动，监测这些生化指标的波动可以探究动物的心理状态。（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;
+
+急性压力指的是对即刻发生的威胁做出的响应。这样的威胁可能是真实的（例如对人的接近感到紧张）、也可能是动物想象出来的（例如响应自己的倒影）。急性压力一旦撤除，动物的生理和行为变化也就恢复受压之前的状态。
+
+慢性（长期）压力是当因素延长、且动物无法自行选择或解决压力因素所致的。长期压力可能造成免疫缺陷状态、行为异常、和活跃度缺乏。
+
+了解压力应激反应的生理学过程很有必要，因为：
+* 压力会导致许多系统性问题。每个个体首先暴露出来的问题可能不同。承受慢性压力的个体会容易患病，饲主对症治疗、不纠正压力因素，就容易出现“按下葫芦起了瓢”的状态，身体各个系统反复得病。因此需要整体了解压力对各系统的影响
+* 阅读与压力相关的文献时会使用相关的血液指标作为客观衡量压力水平的指标。这就要求对各指标的生理学意义有一定理解，选错指标将导致文章结论完全无用（并且导致严重误导）。
 
 #### 交感神经-肾上腺髓质反应
-<img src="images/Signal_Light_Red.png" height=15 />
+<img src="images/Signal_Light_Green.png" height=15 />
 
+动物遭遇压力时，自主神经系统会在短时间内触发紧张状态，导致许多短效的生化和身体组织的响应，引发身体的“反击-逃跑反应”（fight or flight response）（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;。该反应会导致在几秒钟内释放多种结构相近的邻苯二酚的胺类衍生物（又称儿茶酚胺）并快速代谢，下图是这几种儿茶酚胺的化学结构和生化合成途径。对人来说主要包括肾上腺素（由肾上腺髓质释放）、去甲肾上腺素（由交感神经系统神经元释放）和多巴胺（由多巴胺神经元释放）
 （<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
-
-（Sympathetic Adrenal Medullary (SAM) Response）
-
-动物遭遇压力时，自主神经系统（autonomic nervous system）会在短时间内触发紧张状态，导致许多短效的生化和身体组织的响应，引发身体的“反击-逃跑反应”（fight or flight response）。该反应会导致在几秒钟内释放多种邻苯二酚的胺类衍生物（儿茶酚胺 catecholamine）并快速代谢，这包括肾上腺素（肾上腺髓质）、去甲肾上腺素（交感神经系统）和多巴胺（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;s：
+：
   
 <p align="center"><img src="images/儿茶酚胺（肾上腺素、去甲肾上腺素、多巴胺）的合成途径.png" width=303 /></p>
 
-这进一步导致：
+儿茶酚胺的释放会导致一系列非常明显的生理变化（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
+：
   
-* 心率加快、心收缩力加强、外周总阻力增加，这有利于提高心脏每搏和每分钟输出量，提高血压。不过心率的影响因素多，用于爬行动物的压力衡量效果不好。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;
-* 血液的重分布：交感-肾上腺髓质系统兴奋时，皮肤、腹腔内脏；肾等的血管收缩，脑血管口径无明显变化，冠状血管反而扩张，骨骼肌的血管也扩张，从而保证了心、脑和骨骼肌的血液供应，这对于调节和维持各器官的功能，保证骨骼肌在应付紧急情况时的加强活动，有很重要的意义。
-* 支气管舒张：有利于改善肺泡通气，向血液提供更多的氧。
-* 促进糖原分解，升高血糖，保证了应激时的机体能量需求。（因此血糖变化是一种压力应激指标）
-* 促进脂肪分解，使血浆中游离脂肪酸增加，保证了应激时的机体能量需求。
-* 儿茶酚胺对许多激素的分泌有促进作用，对人来说，包括下列激素：
+* 【心脏】心率加快、心收缩力加强、外周总阻力增加，这有利于提高心脏每搏和每分钟输出量，提高血压。不过心率的影响因素多，用于爬行动物的压力衡量效果不好。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, 2006</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;
+* 【血管】血液的重分布：交感-肾上腺髓质系统兴奋时，皮肤、腹腔内脏；肾等的血管收缩，脑血管口径无明显变化，冠状血管反而扩张，骨骼肌的血管也扩张，从而保证了心、脑和骨骼肌的血液供应，这对于调节和维持各器官的功能，保证骨骼肌在应付紧急情况时的加强活动，有很重要的意义。
+* 【呼吸】支气管舒张：有利于改善肺泡通气，向血液提供更多的氧。
+* 【代谢】身体代谢模式转为分解代谢状态（相对于合成代谢），包括：
+  * 促进糖原分解，升高血糖，保证了应激时的机体能量需求。（因此血糖变化是一种压力应激指标）
+  * 促进脂肪分解，使血浆中游离脂肪酸增加，保证了应激时的机体能量需求。
+* 【内分泌】儿茶酚胺对许多激素的分泌有促进作用，对人来说，包括下列激素：
   * 肾上腺皮质激素         
   * 胰高血糖素   
   * 胰岛素       
@@ -2604,22 +2658,21 @@ Crawford和Holmes对两个隔室中的八条东部质量蛇应用了振动刺激
   * 胃泌素       
 
 #### 下丘脑-垂体-肾上腺糖皮质激素反应
+<img src="images/Signal_Light_Yellow.png" height=15 />
 
-（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
+上面的交感神经-肾上腺髓质反应是瞬间反应，快速发生、快速消失（作用时间长了会死），在它之后，肾上腺糖皮质激素反应会作为中长期压力反应取而代之，其发生和代谢时间在几十分钟到几小时的量级。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, 2006</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;
 
-上面的交感神经-肾上腺髓质反应是瞬间反应，快速发生、快速消失（作用时间长了会死），在它之后，肾上腺糖皮质激素反应会作为中长期压力反应取而代之，其发生和代谢时间在小时量级。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;
+对人来说，应激发生后，通过下丘脑-垂体前叶-肾上腺皮质相互作用的调控，下丘脑分泌的促-肾上腺皮质激素-释放因子。通过垂体门脉循环进入垂体前叶，刺激肾上腺皮质激素的释放，后者作用于肾上腺皮质，促进皮质醇的分泌（对人和其他哺乳动物来说，血浆皮质醇浓度是表征应激反应的重要生化指标，含量可高达正常的3～5倍），皮质醇分泌后负反馈调节抑制促肾上腺皮质激素释放因子和肾上腺皮质激素的释放。（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
 
-应激发生后，通过下丘脑-垂体前叶-肾上腺皮质相互作用的调控，下丘脑释放{[促(肾上腺皮质激素)]释放因子}，垂体腺释放[促(肾上腺皮质激素)]，肾上腺皮质释放(糖皮质激素)，血浆糖皮质激素浓度升高。对人和其他哺乳动物来说，血浆皮质醇（hydrocortison或cortisol）浓度是表征应激反应的重要生化指标，含量可高达正常的3～5倍。
+这一过程中的指令长下丘脑受大脑各部的控制，包括：内环境强烈变化（如愤怒、恐惧、忧虑）即由边缘系统杏仁核的纤维调节情绪应缴反应、会由此通道显著地增加肾上腺皮质激素分泌；而外环境强烈刺激（创伤、剧烈温度变化）可通过外周感受器传入冲动，引起脑干网状结构的上行激动系统的兴奋，从而引起下丘脑的兴奋，激发肾上腺皮质激素的释放。（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
 
-但要注意爬行动物与哺乳动物不同，爬行动物应激分泌的糖皮质激素是皮质酮（corticosterone）。有的文章会给爬行动物施加压力因素后测量（皮质醇？）【】【一个Youtube频道提到的错误文章，但是没找到】【】的浓度，发现压力因素没有导致皮质醇的升高，得出该压力因素不重要的结论，这种研究毫无意义，因为选错了特征指标，其错误结论以讹传讹导致了长时间的误导。
+但要注意爬行动物与哺乳动物不同，爬行动物应激分泌的糖皮质激素是皮质酮。有的文章会给爬行动物施加压力因素后测量（皮质醇？）【】【一个Youtube频道提到的错误文章，但是没找到】【】的浓度，发现压力因素没有导致皮质醇的升高，错误的未发现显著性差异。这种研究不但因为选错了特征指标而毫无意义，其错误结论还被多次引用，以讹传讹，导致了长时间的误导。
 
-Elsey等人研究发现不合理共栖关系中的弱势短吻鳄个体有显著升高的皮质酮水平。（<a href="https://dx.doi.org/10.1002/jez.1402550106">Elsey, 1990</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Elsey, R. M.; Joanen, T.; McNease, L.; Lance, V. Growth Rate and Plasma Corticosterone Levels in Juvenile Alligators Maintained at Different Stocking Densities. J. Exp. Zool. 1990, 255, 30-36." />）<sup>IV</sup>&nbsp;Langkilde等人研究了不同压力因素对黄腹蜓蜥(?)（warm-temperate water-skink，*Eulamprus heatwolei*）血中皮质酮的影响。
+Elsey等人研究发现不合理共栖关系中的弱势短吻鳄个体有显著升高的皮质酮水平（<a href="https://dx.doi.org/10.1002/jez.1402550106">Elsey, 1990</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Elsey, R. M.; Joanen, T.; McNease, L.; Lance, V. Growth Rate and Plasma Corticosterone Levels in Juvenile Alligators Maintained at Different Stocking Densities. J. Exp. Zool. 1990, 255, 30-36." />）<sup>IV</sup>&nbsp;。Langkilde等人研究了不同压力因素对黄腹蜓蜥（*Eulamprus heatwolei*）血中皮质酮的影响（如下图）。
 
-<p align="center"><img src="images/不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮的影响.png" width=603 /></p>
+<p align="center"><img src="images/不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮的影响.png" width=403 /></p>
 
-对人来说，下丘脑分泌的促肾上腺皮质激素释放因子（corticotropin releasing factor, CRF）。通过垂体门脉循环进入垂体前叶，刺激肾上腺皮质激素的释放，后者作用于肾上腺皮质，促进皮质醇的分泌，皮质醇负反馈调节抑制促肾上腺皮质激素释放因子和肾上腺皮质激素的释放。下丘脑受大脑各部的控制，包括：内环境强烈变化（如愤怒、恐惧、忧虑）即由边缘系统杏仁核的纤维调节情绪应缴反应、会由此通道显著地增加肾上腺皮质激素分泌；而外环境强烈刺激（创伤、剧烈温度变化）可通过外周感受器传入冲动，引起脑干网状结构的上行激动系统的兴奋，从而引起下丘脑的兴奋，激发肾上腺皮质激素的释放。
-
-糖皮质素分泌增多是应激最重要的一个反应，对机体的抗有害剌激起着极为重要的作用。动物实验表明，去除肾上腺后，动物可以在适宜条件下生存，但如受到强烈剌激，则容易衰竭、死亡。如给摘除肾上腺的动物注射糖皮质激素，则可使动物恢复抗损害的能力。大量的临床观察也证明，肾上腺皮质功能的过低病人，对应激原的抵抗力明显降低。应激时糖皮质素分泌增高，提高机体对剌激的抵抗力的机制目前还不完全清楚，对人来说，已经知道的有以下四方面：
+糖皮质激素分泌增多是应激最重要的一个反应，对机体的抗有害剌激起着极为重要的作用。动物实验表明，去除肾上腺后，动物可以在适宜条件下生存，但如受到强烈剌激，则容易衰竭、死亡。如给摘除肾上腺的动物注射糖皮质激素，则可使动物恢复抗损害的能力。大量的临床观察也证明，肾上腺皮质功能的过低病人，对应激原的抵抗力明显降低。应激时糖皮质素分泌增高，提高机体对剌激的抵抗力的机制目前还不完全清楚，对人来说，已经知道的有以下四方面（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;：
 
 1. 糖皮质激素有促进蛋白质分解和糖异生作用，从而可以补充肝糖原的储备；糖皮质素还能抑制组织对葡萄糖的利用，从而提高血糖水平。
 
@@ -2629,52 +2682,50 @@ Elsey等人研究发现不合理共栖关系中的弱势短吻鳄个体有显著
 
 4. 抑制化学介质的生成、释放和激活。生理浓度的糖皮质激素对许多化学介质的生成、释放和激活具有抑制作用。，例如，前列腺素（PGs）、白三烯（LTs）、血栓素（Tx）、缓激肽、5-羟色胺、纤溶酶原激活物、胶原酶和淋巴因子等。糖皮质素与细胞糖皮质素受体结合后，能诱导巨皮质素蛋白（macrocortin）或脂调蛋白（lipomodulin），进而抑制磷脂酶A2活性的作用，因此可以减少花生四烯酸的释放，从而减少了PGs、LTs和Tx的生成。由于应激时这些化学介质的生成过多，而糖皮质素则可以抑制这些介质的产生，因而可以抑制炎症、变态反应。
 
-应激导致的糖皮质激素释放仅在短期作用中对动物生存有利，但长期来看对动物身体极为不利。应当减少或避免应激对动物的影响。
+但是，应激导致的糖皮质激素释放仅在短期作用中对动物生存有利，长期来看对动物身体极为不利。应当减少或避免应激对动物的影响。后续章节会讲到压力造成的负面印象。
 
-目前爬行动物的皮质酮的测量依赖抽血，因为抽血本身就是很大的压力因素，所以需要警惕抽血操作对结果的影响。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;。有一些非侵入性的方法，但大都是哺乳动物，在爬行动物中很少使用（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;。
+目前爬行动物的皮质酮的测量依赖抽血，因为抽血本身就是很大的压力因素，所以需要警惕抽血操作对结果的影响。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, 2006</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;。有一些非侵入性的方法，但大都是哺乳动物，在爬行动物中很少使用（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;。
 
 皮质酮的基线水平受到动物地理区域、环境温度和体温、性别的影响，比较结果时需要注意基线变化。
 
 #### 因应激导致的代谢变化
+<img src="images/Signal_Light_Yellow.png" height=15 />
 
 （<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
 
-应激时物质代谢发生相应变化，总的特点是分解增加，合成减少。压力下以分解为主的代谢模式是机体应付“紧急情况”而提供足够的能量。但如持续时间长，则会因消耗过多而致消瘦和体重减轻。蛋白的负氮平衡还可使病人发生贫血、创面愈合迟缓和抵抗力降低等不良后果。
+应激时物质代谢发生相应变化，总的特点是**分解增加、合成减少**。压力下以分解为主的代谢模式是机体应付“紧急情况”而提供足够的能量。但如持续时间长，则会因消耗过多而致消瘦和体重减轻。蛋白的负氮平衡还可使病人发生贫血、创面愈合迟缓和抵抗力降低等不良后果。
 
-动物受到慢性压力时，我们经常看到极度消瘦、免疫力下降、创面迟迟不愈的情况，例如不合理共栖关系中的弱势个体【】【缺个图】【】，或者动物园中被游客过分关注、甚至被游客反复投石块的个体。这不光是不吃饭导致的，与压力导致的代谢变化有很大关系。
+动物受到慢性压力时，我们经常看到极度消瘦、免疫力下降、创面迟迟不愈的情况。例如不合理共栖关系中的弱势个体、或者动物园中被游客过分关注（甚至被游客反复投石块）的个体经常有这些问题。这不光是食物竞争不吃饭导致的，与压力导致的代谢变化有很大关系。
 
-下图为厦门中非世野动物园的鳄鱼小河，其因园方极差的饲养条件和游客投石块等行为而遭受长期压力，导致极度消瘦、创面不愈、免疫力下降、肝肾消化问题：
+下图使两只雌性豹纹守宫共栖导致的弱势个体极度消瘦（<a href="https://www.reddit.com/r/LeopardGecko/comments/ktdar9/psa_why_not_to_cohabitate_leopard_geckos/">u/are-pea, 2020</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="u/are-pea, Why NOT to Cohabitate Leopard Geckos, 2020" />）<sup>I</sup>&nbsp;：
+
+<p align="center"><img src="images/两雌性豹纹守宫共栖导致弱势个体极度消瘦.jpg" width=403 /></p>
+
+下图为厦门中非世野动物园的鳄鱼小河，其因园方极差的饲养条件和游客投石块等行为而遭受长期压力，最终导致死亡的极度消瘦、创面不愈、免疫力下降、肝肾消化问题可能与压力有关（<a href="https://www.bilibili.com/video/BV1Lw411q7QD">爬行天下, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="爬行天下, 湾鳄小河去世，救治过程复盘，也许是撬动动物园低效管理的先驱, 2023" />）<sup>I</sup>&nbsp;：
 
 <p align="center"><img src="images/小河死前.jpg" width=603 /></p>
 
 压力作用下分解代谢增加表现有以下几方面：
 
-1. 超高能量代谢率
+【超高能量代谢率】严重应激时，代谢率升高十分显着。例如对人来说，一个大面积烧伤病人，对能量需要可高达5000千卡/天（正常成年人在安静条件下为2000千卡/天）相当于重力劳动时的代谢率。机体处于分解代谢大于合成代谢状态，造成物质代谢的负平衡，因而患者出现消瘦、衰弱、抵抗力下降等。超高代谢主要与儿茶酚胺分泌量的增加密切相关。
 
-严重应激时，代谢率升高十分显着。例如对人来说，一个大面积烧伤病人，对能量需要可高达5，000千卡/天（正常成年人在安静条件下为2，000千卡/天）相当于重力劳动时的代谢率。机体处于分解代谢大于合成代谢状态，造成物质代谢的负平衡，因而患者出现消瘦、衰弱、抵抗力下降等。超高代谢主要与儿茶酚胺分泌量的增加密切相关。
-
-2. 高血糖
-
-应激时的茶酚胺胰高血糖素、生长激素、肾上腺糖皮质激素等促进糖原分解，会导致人高血糖，称为应激性高血糖或应激性糖尿。在人的严重创伤和烧伤时，这些变化可持续数周，称为创伤性糖尿病。在爬行动物中，也有类似现象，例如下面的文献中作者用血糖作为普通束带蛇（Common garter snake）压力的血生化指证。
+【高血糖】应激时的茶酚胺胰高血糖素、生长激素、肾上腺糖皮质激素等促进糖原分解，会导致人高血糖，称为应激性高血糖或应激性糖尿。在人的严重创伤和烧伤时，这些变化可持续数周，称为创伤性糖尿病。在爬行动物中，也有类似现象，例如下面的文献中作者用血糖作为普通束带蛇压力的血生化指证。
 
 【】【高血糖表明应激的文献】【】
-【46. Gangloff, E.J.; Sparkman, A.M.; Holden, K.G.; Corwin, C.J.; Topf, M.; Bronikowski, A.M. Geographicvariation and within-individual correlations of physiological stress markers in a widespread reptile, thecommon garter snake (thamnophis sirtalis). Comp. Biochem. Physiol. A. Mol Integr. Physiol. 2017, 205, 68–76.[CrossRef]】
+【46. Gangloff, E.J.; Sparkman, A.M.; Holden, K.G.; Corwin, C.J.; Topf, M.; Bronikowski, A.M. Geographicvariation and within-individual correlations of physiological stress markers in a widespread reptile, the common garter snake (thamnophis sirtalis). Comp. Biochem. Physiol. A. Mol Integr. Physiol. 2017, 205, 68–76.[CrossRef]】
 【47. Silvestre, A.M. How to assess stress in reptiles. J. Exot. Pet Med. 2014, 23, 240–243. [CrossRef]】
 
+【脂肪分解代谢增加】应激时由于肾上腺素、去甲肾上腺素、胰高血糖素等脂解激素增多，脂肪的动员和分解加强，因而血中游离脂肪酸和酮体有不同程度的增加。同时组织对脂肪酸的利用增加。例如人在严重创伤后，机体所消耗的能量有75～95％来自脂肪的氧化。
 
-3. 脂肪分解代谢增加
-
-应激时由于肾上腺素、去甲肾上腺素、胰高血糖素等脂解激素增多，脂肪的动员和分解加强，因而血中游离脂肪酸和酮体有不同程度的增加。同时组织对脂肪酸的利用增加。例如人在严重创伤后，机体所消耗的能量有75～95％来自脂肪的氧化。
-
-4. 蛋白质分解代谢增加
-
-应激时，蛋白质分解加强，尿氮排出量增加，出现负氮平衡。严重应激时，负氮平衡可持续较久。应激病人的蛋白质代谢既有破坏和分解的加强，也有合成的减弱。
+【蛋白质分解代谢增加】应激时，蛋白质分解加强，尿氮排出量增加，出现负氮平衡。严重应激时，负氮平衡可持续较久。应激病人的蛋白质代谢既有破坏和分解的加强，也有合成的减弱。
 
 #### 因应激导致的其他机能变化
+<img src="images/Signal_Light_Green.png" height=15 />
 
-本节主要引文（注意，该书是讲人体的病理生理学，但其很多生化过程对爬行动物和人之间有保守性，部分内容值得参考）：（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
+本节主要参考人体的病理生理学，但其很多生化过程对爬行动物和人之间有保守性，值得作为旁证，如有针对爬行动物的相关讨论讲逐步补充替换：（<a href="http://www.a-hospital.com/w/%E7%97%85%E7%90%86%E7%94%9F%E7%90%86%E5%AD%A6/%E5%BA%94%E6%BF%80">曹霞, 2019</a>&nbsp;<a href="https://books.google.com/books?id=HmvQEAAAQBAJ&pg=PT131&lpg=PT131&dq=%EF%BC%881%EF%BC%89%E5%BF%83%E7%8E%87%E5%8A%A0%E5%BF%AB%E3%80%81%E5%BF%83%E6%94%B6%E7%BC%A9%E5%8A%9B%E5%8A%A0%E5%BC%BA%E3%80%81%E5%A4%96%E5%91%A8%E6%80%BB%E9%98%BB%E5%8A%9B&source=bl&ots=SNdyM0M_98&sig=ACfU3U3OLCppTlPgXetlvecDFJMnQC5s1w&hl=en&sa=X&ved=2ahUKEwjS5u73vpyCAxWpJTQIHRJ0CRYQ6AF6BAgXEAM#v=onepage&q&f=false"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="曹霞，严米娅，病理生理学（第二版），2019" />）<sup>IV</sup>&nbsp;
 
 ##### 心血管系统
+<img src="images/Signal_Light_Green.png" height=15 />
 
 对人来说，交感神经-肾上腺髓质系统会引起的心率加快、心收缩力加强、外周总阻力增高以及血液的重分布等变化，有利于提高心输出量、提高血压、保证心、脑和骨骼肌的血液供应，实现防御代偿意义。但同时也有使皮肤、腹腔内脏和肾缺血缺氧、心肌耗氧量增多，应激原的作用特别强烈和/或持久时还可引起休克。
 
@@ -2686,89 +2737,83 @@ Elsey等人研究发现不合理共栖关系中的弱势短吻鳄个体有显著
 3. 应激时心肌小血管内可有血小板聚集物出现，从而可以阻塞血管。血小板聚集物的出现与儿茶酚胺的作用有关。
 
 ##### 消化系统
+<img src="images/Signal_Light_Green.png" height=15 />
 
-对人来说，应激可引起消化道溃疡，称为应激性溃疡（stress ulcer）。经内窥镜检查发现，烧伤、严重创伤和败血症病人应激性溃疡的发生率高达80～100％。
+对人来说，应激可引起消化道溃疡，称为应激性溃疡。烧伤、严重创伤病人的应激性溃疡的发生率高达80～100％。
 
-应激性溃疡是一种急性溃疡，在病理解剖学上，应激性溃疡主要是胃和/或十二指肠的粘膜缺损，可以严重在严重的应激原作用以后数小时内就出现。临床上的主要症状是出血，出血可轻可重，常表现为呕血或黑粪出血严重时可致死。应激性溃疡的发病机制尚未完全阐明。总的来说，是由于对胃或十二指肠粘膜的“损害性因素”胜过了，“保护性因素”的结果。
+应激性溃疡是一种急性溃疡，在严重的应激原作用以后数小时内就出现，是由于对胃或十二指肠粘膜的“损害性因素”胜过了，“保护性因素”的结果。临床上可导致消化道出血，表现为便血、呕血。其可能的生理学机制有：
 
-1.粘膜缺血应激时，主要由于交感肾上腺髓质系统的兴奋，使胃和十二指肠粘膜的小血管也发生收缩，粘膜的血液灌流量乃显著减少，于是粘膜发生缺血缺氧。
-
-2.糖皮质激素分泌增多糖皮质激素使蛋白质的分解大于合成，胃上皮细胞更新减慢再生能力降低。因而胃粘膜对“损害性因素”抵抗力降低，已经发生的缺损也不易修复。
-
-3.平时，胃粘膜上皮细胞不断地合成和释放前列腺素（PGs）。PGs有保护胃粘膜上皮细胞的作用。应激时前列腺素合成被抑制，失去该作用。
-
-4.某些严重的应激特别是在伴有休克时，往往发生全身性酸中毒。从而使细胞内中和H+的能力降低而有助于溃疡的发生。
-
-5.应激时血浆β-内啡肽显著增多。最近的一些研究提示,β-内啡肽可能作为一种“损害因子”而引起应激性溃疡。
+1. 【粘膜缺血】应激时交感神经-肾上腺髓质系统兴奋，消化道粘膜小血管收缩，血流减少，粘膜缺血缺氧。
+2. 【蛋白分解代谢】胃上皮细胞更新减慢。胃粘膜抵抗力降低，已经发生的缺损也不易修复。
+3. 【前列腺素合成抑制】前列腺素有保护胃粘膜上皮细胞的作用，平时胃粘膜上皮细胞不断地合成和释放前列腺素。应激时前列腺素合成被抑制。
 
 ##### 血液系统
+<img src="images/Signal_Light_Green.png" height=15 />
 
-对人来说，应激时，有暂时性的血液凝固性升高。外伤后数小时内，病人凝血时间和血凝块溶解时间都缩短。血液凝固性升高和纤溶活性升高的机制，有以下三方面：
+对人来说，应激导致暂时性高凝状态，作为出血的应急机制。外伤后数小时内，病人凝血时间和血凝块溶解时间都缩短，因此可见创伤病人发生弥散性血管内凝血。血高凝状态和纤溶活性升高的机制有以下三方面：
 
-1.应激时因儿茶酚胺分泌增加，可使血小板的聚集性增强。
-
-2.应激时血浆中凝血因子Ⅷ、纤维蛋白原和血小板三者均增多，从而使血液凝固性升高。
-
-3.应激时纤溶活性升高是由于纤溶酶原激活物的增多，该激活物存在于血管内皮细胞内。儿茶酚胺等血管活性物质作用于血管内皮细胞，具有剌激纤溶酶原激活物的作用。
-
-应激时凝血和纤溶的变化是严重创伤或感染时易于发生弥散性血管内凝血的因素之一。
+1. 儿茶酚胺增加血小板聚集性。
+2. 应激时血浆中凝血因子Ⅷ、纤维蛋白原和血小板增多。
+3. 儿茶酚胺增加刺激纤溶酶原激活物增多，纤溶系统活性升高。
 
 ##### 泌尿系统
+<img src="images/Signal_Light_Green.png" height=15 />
 
-应激时，泌尿机能的主要变化是尿少，尿比重升高、水和钠排出减少。这些变化的机制有以下三方面。
+应激时，尿少、尿比重升高、水钠排出减少。这些变化的机制有以下三方面。
 
-1.应激时交感神经兴奋，肾素-血管紧张素系统增强，肾入球小动脉明显收缩，肾血流量减少，肾小球滤过率减少。
-
-2.应激时醛固酮分泌增多，肾小管钠、水重吸收增加，钠水排出减少，尿钠浓度降低。
-
-3.应激时抗利尿激素分泌增加，从而使肾远曲小管和集合管对水的通透性增高，水的重吸收增加，故尿量少而比重升高。
+1. 应激时交感神经兴奋，肾素-血管紧张素系统增强，肾入球小动脉明显收缩，肾血流量减少，肾小球滤过率减少。
+2. 应激时醛固酮分泌增多，肾小管水钠重吸收增加，钠水排出减少，尿钠浓度降低。
+3. 应激时抗利尿激素分泌增加，从而使肾远曲小管和集合管对水的通透性增高，水的重吸收增加，故尿量少而比重升高。
 
 肾泌尿功能变化的防御意义在于减少水钠的排出，有利于维持循环血量。但肾缺血所致是肾泌尿功能障碍，却可导致内环境的紊乱。泌尿机能的这些变化如果不及时抢救将发展成为急性肾小管坏死。
 
 ##### 免疫系统
+<img src="images/Signal_Light_Yellow.png" height=15 />
 
-糖皮质激素是很强的免疫抑制剂，导致免疫减弱。可抑制巨噬细胞对抗原的吞噬和处理，阻碍淋巴细胞DNA合成有丝分裂，破坏淋巴细胞，使外周淋巴细胞数减少，并损伤浆细胞，从而抑制细胞免疫反应和体液免疫反应。糖皮质激素还能抑制炎症反应，例如可抑制毛细血管壁的通透性升高、抑制胶原纤维和毛细血管的增生、抑制中性粒细胞向炎症灶游出。
+糖皮质激素是很强的免疫抑制剂，导致免疫减弱。可抑制巨噬细胞对抗原的吞噬和处理，阻碍淋巴细胞DNA合成及有丝分裂，破坏淋巴细胞，使外周淋巴细胞数减少，并损伤浆细胞，从而抑制细胞免疫反应和体液免疫反应。
 
-免疫力下降、乃至免疫系统的崩溃是长期压力的重要不良后果。有些爬行动物受到长期压力后会极易发生寄生虫和细菌感染，或者导致之前长期处于无症状携带状态的个体突然转为有症状感染状态。（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;
+糖皮质激素还能抑制炎症反应，例如可抑制毛细血管壁的通透性升高、抑制胶原纤维和毛细血管的增生、抑制中性粒细胞向炎症灶游出。
 
-例如有一案例是某饲主的爬房大部分蛇都是隐孢子虫的无症状或轻症感染者，而该饲主将病蛇售卖给他人后（隐孢子虫感染传染性极强，这行为极其缺德），接盘侠的其他蛇感染隐孢子虫后却大量死亡。这其中免疫力的差异可能就与慢性压力状态有关。【】【这是Animals at home podcast的一集说的，证据级别I】【】。
+免疫力下降、乃至免疫系统的崩溃是长期压力的重要不良后果。有些爬行动物受到长期压力后会极易发生寄生虫和细菌感染，或者导致之前长期处于无症状携带状态的个体突然转为有症状感染状态（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;。
 
-另有文献报道圈养压力造成了一个蜥蜴群体从（无症状的）沙门氏菌携带者变成了沙门氏菌病。（<a href="https://dx.doi.org/10.7589/0090-3558-27.4.551">Kalvig, 1991</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Kalvig%EF%BC%8C%E5%8E%8B%E5%8A%9B%E5%AF%BC%E8%87%B4%E6%B2%99%E9%97%A8%E6%B0%8F%E8%8F%8C%E7%88%86%E5%8F%91.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Kalvig, B. A.; Maggio-Price, L.; Tsuji, J.; Giddens, W. E. Salmonellosis in Laboratory-Housed Iguanid Lizards (Sceloporus Spp.) J. Wildl. Dis. 1991, 27, 551-556." />）<sup>IV</sup>&nbsp;
+隐孢子虫是传染性极强的爬行动物寄生虫病，对玉米蛇不可治愈、终身携带，有症状的隐孢子虫感染常可致死。有一案例是某饲主的爬房大部分蛇都是隐孢子虫的无症状或轻症感染者，而该饲主将病蛇售卖给他人后（注意这行为极其缺德），接盘侠的其他蛇感染隐孢子虫后却大量死亡。这其中免疫力的差异可能就与慢性压力状态有关。【】【这是Animals at home podcast的一集说的，证据级别I】【】。另有文献报道圈养压力造成了一个蜥蜴群体从（无症状的）沙门氏菌携带者变成了沙门氏菌病（<a href="https://dx.doi.org/10.7589/0090-3558-27.4.551">Kalvig, 1991</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Kalvig%EF%BC%8C%E5%8E%8B%E5%8A%9B%E5%AF%BC%E8%87%B4%E6%B2%99%E9%97%A8%E6%B0%8F%E8%8F%8C%E7%88%86%E5%8F%91.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Kalvig, B. A.; Maggio-Price, L.; Tsuji, J.; Giddens, W. E. Salmonellosis in Laboratory-Housed Iguanid Lizards (Sceloporus Spp.) J. Wildl. Dis. 1991, 27, 551-556." />）<sup>IV</sup>&nbsp;。有人发现蛇的不良饲养条件与病毒感染比例之间有明显相关性（<a href="https//dx.doi.org/10.1136/vr.b4819">Pees, 2010</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Pees, M.; Schmidt, V.; Marschang, R. E.; Heckers, K. O.; Krautwald-Junghanns, M. Prevalence of Viral Infections in Captive Collections of Boid Snakes in Germany. Vet. Rec. 2010, 166, 422-425." />）<sup>IV</sup>&nbsp;。
 
-有人发现蛇的不良饲养条件与病毒感染比例之间有明显相关性。（<a href="https//dx.doi.org/10.1136/vr.b4819">Pees, 2010</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Pees, M.; Schmidt, V.; Marschang, R. E.; Heckers, K. O.; Krautwald-Junghanns, M. Prevalence of Viral Infections in Captive Collections of Boid Snakes in Germany. Vet. Rec. 2010, 166, 422-425." />）<sup>IV</sup>&nbsp;
-
-在爬行动物疾病的治疗中，必须考虑是否有带来疾病的深层压力因素，否则治标不治本，会出现按下“葫芦浮起瓢”式的治病过程，病情反复，甚至反复出现各种看似没有关联的疾病。（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;
+在爬行动物疾病的治疗中，必须考虑是否有带来疾病的深层压力因素，否则治标不治本，会出现按下“葫芦浮起瓢”式的治病过程，病情反复，甚至反复出现各种看似没有关联的疾病（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;。
 
 ##### 生殖系统
+<img src="images/Signal_Light_Green.png" height=15 />
 
-压力将导致排卵、受精、产卵（卡蛋）等困难。（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;（Ref21，冬青翻译“研究还发现压力会导致爬行动物产卵困难（egg binding，俗称“卡蛋”），是怀卵蜥蜴的常见问题”）
+压力将导致排卵、受精、产卵（卡蛋）等困难。（<a href="https://www.mdpi.com/2076-2615/9/1/27">Whittaker, 2019</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Whittaker%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E8%AF%84%E4%BC%B0.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv27081709"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Amelia L. Benn, David J. McLelland, Alexandra L. Whittaker, A Review of Welfare Assessment Methods in Reptiles, and Preliminary Application of the Welfare Quality® Protocol to the Pygmy Blue-Tongue Skink, Tiliqua adelaidensis, Using Animal-Based Measures, Animals 2019, 9(1), 27" />）<sup>IV</sup>&nbsp;（该文的 Ref21，冬青翻译“研究还发现压力会导致爬行动物产卵困难（egg binding，俗称“卡蛋”），是怀卵蜥蜴的常见问题”）
 
 #### 压力相关的血生化指标的测量问题
+<img src="images/Signal_Light_Green.png" height=15 />
 
-抓取动物、采血行为本身就会造成压力，所以用血生化指标考察压力时应该排除采样的影响。一个重要的策略是必须采的够快。Gangloff发现对于普通束带蛇只要在10分钟内完成采血，皮质酮就不受影响。（<a href="https://dx.doi.org/10.1016/j.cbpa.2016.12.019">Gangloff, 2017</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Gangloff, E. J.; Sparkman, A. M.; Holden, K. G.; Corwin, C. J.; Topf, M.; Bronikowski, A. M. Geographic Variation and Within-Individual Correlations of Physiological Stress Markers in a Widespread Reptile, the Common Garter Snake (Thamnophis Sirtalis) Comp. Biochem. Physiol. Part A Mol. Integr. Physiol. 2017, 205, 68-76." />）<sup>IV</sup>&nbsp;Langkilde等人发现压力因素发生后5分钟内黄腹蜓蜥(?)（warm-temperate water-skink，*Eulamprus heatwolei*）血中皮质酮指标没有明显变化，30分钟后的取样有变化（你这中间的数据点呢。。。）。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, Year?</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Tracy%20Langkilde%EF%BC%8C%E5%8A%A8%E7%89%A9%E5%8E%8B%E5%8A%9B.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;
+抓取动物、采血行为本身就会造成压力，所以用血生化指标考察压力时应该排除采样的影响。一个重要的策略是必须采的够快。
+
+Gangloff发现对于普通束带蛇只要在10分钟内完成采血，皮质酮就不受影响（<a href="https://dx.doi.org/10.1016/j.cbpa.2016.12.019">Gangloff, 2017</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Gangloff, E. J.; Sparkman, A. M.; Holden, K. G.; Corwin, C. J.; Topf, M.; Bronikowski, A. M. Geographic Variation and Within-Individual Correlations of Physiological Stress Markers in a Widespread Reptile, the Common Garter Snake (Thamnophis Sirtalis) Comp. Biochem. Physiol. Part A Mol. Integr. Physiol. 2017, 205, 68-76." />）<sup>IV</sup>&nbsp;。Langkilde等人发现压力因素发生后5分钟内黄腹蜓蜥（*Eulamprus heatwolei*）血中皮质酮指标没有明显变化，30分钟后的取样有变化（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, 2006</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Tracy%20Langkilde%EF%BC%8C%E5%8A%A8%E7%89%A9%E5%8E%8B%E5%8A%9B.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp;。
 
 
 ### 因应激和压力导致的行为变化
+<img src="images/Signal_Finished.png" height=15 />
 
 将在[蛇的行为学](#蛇的行为学)一章与正常行为对比讨论。
 
 
 ### 好的压力
+<img src="images/Signal_Light_Green.png" height=15 />
 
+英文中应“避免压力”的用词常是“free of **distress**”，但压力“**stress**”本身并不是都要避免，适当的压力反而可以带来福利。（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="3"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />）
 
-【】【并不是所有造成压力的因素都要避免，有些压力反而可以带来福利。比如许多动物园通过增加觅食难度提供行为丰容。对蛇来说，如果喂食时不是直接拿镊子把老鼠放到嘴边，而是通过在栖地里拖动老鼠形成气味踪迹，然后让蛇在栖地里觅食。这样的延迟享受过程可以增强蛇的认知能力、也可以增加找到食物时的心理奖励程度。完全缺乏压力、缺乏挑战可能降低动物的行为丰容度。】【】
+完全缺乏压力的动物无法学习、成长、进步。好的压力希望能使得动物兴奋、激动、遇到有挑战性的情况，或是寻找所需资源。其特点是动物在为某一其主观追求的目标而努力。（<a href="https://www.youtube.com/watch?v=QagRkVYq41A">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Refesh Your Knowledge: Stress & Snake Body Language, 2022" />）<sup>III</sup>&nbsp;
 
-【】【有些压力不只是福利要求，对诱导某些自然行为还是必须的，例如求偶行为中的追逐过程。】【】
+增加觅食难度的行为丰容就是一个例子。对蛇来说，如果喂食时不是直接拿镊子把老鼠放到嘴边，而是通过在栖地里拖动老鼠形成气味踪迹、然后让蛇在栖地里觅食，就增加了觅食压力，但这可以增强蛇的认知能力、也可以增加找到食物时的心理奖励程度。完全缺乏挑战可能降低动物的行为丰容度。有些压力不只是福利要求，对诱导某些自然行为还是必须的，例如求偶行为中的追逐过程。因此我们必须区分好的压力和坏的压力。（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="3"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />）
 
-【】【因此我们必须区分好的压力和坏的压力。】【】
-
-【】【即使压力的来源和种类不变，压力的强度过高、时间过长也可能让好的压力转变为坏的压力。（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />）】【】
+另外即使压力的来源和种类不变，压力的强度过高、时间过长可能让好的压力转变为坏的压力（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="3"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />）。好的压力应该使动物的压力程度在绿区与黄区之间（定义见[蛇的常见行为状态及评估意义](#蛇的常见行为状态及评估意义)一章），
 
 ### 圈养蛇的典型压力因素
 <img src="images/Signal_Light_Green.png" height=15 />
 
-压力源可以分为生理和心理两类。生理压力直接影响动物生理健康，心理压力短期内不影响动物生理，但长期的心理压力可能诱发生理问题。
-
+压力源可以分为生理和心理两类。生理压力直接影响动物生理健康，心理压力短期内不影响动物生理，但长期的心理压力可能诱发生理问题（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**." />）<sup>IV</sup>&nbsp;：
 
 * 生理因素：
   * 不恰当的温湿度和光照时间
@@ -2776,7 +2821,6 @@ Elsey等人研究发现不合理共栖关系中的弱势短吻鳄个体有显著
   * 缺氧
   * 疾病和外伤
   * 繁殖行为（包括产卵和繁殖期雄性间斗争）
-
 * 心理因素
   * 不合理共栖关系、社群地位竞争、栖息地竞争
   * 栖地过于拥挤
@@ -2785,7 +2829,7 @@ Elsey等人研究发现不合理共栖关系中的弱势短吻鳄个体有显著
   * 人-爬宠的互动，家中其他宠物（如猫、狗、鸟）和爬宠的互动
   * 缺乏视觉隔障
   
-T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮（corticosterone）的影响做了测试，对下列压力因素给出了客观分区。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp; 其结果与人们想象中不同。例如更换到新的栖地是在压力大小排名中十分靠前，甚至与断尾和抽血较为接近。这不但提示我们需要重视特定行为带来的压力，还提醒我们用主观感受衡量压力水平的方法是很不靠谱的。
+T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮（corticosterone）的影响做了测试，对下列压力因素给出了客观分区。（<a href="https://dx.doi.org/10.1242/jeb.02112">Langkilde, 2006</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Tracy Langkilde, Richard Shine, How much stress do researchers inflict on their study animals? A case study using a scincid lizard, Eulamprus heatwolei, The Journal of Experimental Biology, 2006, 209, 1035." />）<sup>IV</sup>&nbsp; 其结果与人们想象中不同。例如更换到新的栖地是在压力大小排名中十分靠前，甚至与断尾和抽血较为接近。这不但提示我们需要重视特定行为带来的压力，还提醒我们用主观感受衡量压力水平的方法是很不靠谱的。
 
 <p align="center"><img src="images/不同压力因素对warm-temperate water-skink （Eulamprus heatwolei）血中皮质酮的影响.png" width=603 /></p>
 
@@ -2822,7 +2866,7 @@ T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulampru
 如果你的栖地足够大，像是动物园那种好几米宽的栖地、且环境足够复杂，那可以安全的共栖，但这对一般人来说做不到。
 
 
-### 选育对压力的影响
+#### 选育对压力的影响
 <img src="images/Signal_Light_Green.png" height=15 />
 
 相同的环境可能在不同个体中导致不同的压力相应。人们也观察到通过（主动或被动的）选育，多代圈养个体比野生个体更能适应圈养压力（因为不适应者的基因未能得到保留）。
@@ -2832,12 +2876,19 @@ T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulampru
 即使动物的生理需求被满足了，圈养仍然可能导致压力。圈养条件影响了逃避、觅食、求偶等活动，所以即使圈养条件合格，圈养本身可能就是压力来源，尤其是对未经选育、从小也未适应圈养环境的蛇。
 
 
-
-
 # 蛇的行为学
 <img src="images/Signal_Light_Green.png" height=15 />
 
-猫狗不舒服或者得病时不停叫唤、上蹿下跳、坝门刨地很容易识别出来；但物种离人类行为越远，就越容易被误解。比如有的人养猫头鹰，发现只要撸到应激，猫头鹰就会瞪大眼睛一动不动，“特别呆萌”，觉得猫头鹰特别舒适，反复的撸，其实人家都已经要吓死了；有的人把淡水龟往海里扔，龟游回岸上，被人说是“报恩”，其实是在逃离海水；当然也有反过来的案例，动物展现了正常的物种特定行为，确被人感觉是压力行为.
+## 动物行为学研究
+
+### 动物行为的拟人误解
+<img src="images/Signal_Light_Green.png" height=15 />
+
+许多人用拟人化（anthropomorphism）的方法考察动物行为，既为动物行为赋予相似人类行为的对应归因。这经常有问题。物种离人类越远，就越容易被误解。
+
+家养猫狗经过万年的人工选择，产生了与人非常接近的行为，不舒服时不停叫唤、炸毛弓背、上蹿下跳、坝门刨地等行为与人接近、比较很容易识别出来。
+
+但比如有的人养猫头鹰，发现只要将猫头鹰撸到应激，猫头鹰就会瞪大眼睛一动不动，“特别呆萌”。于是觉得猫头鹰喜欢被撸，反复的撸，其实人家都已经要吓死了。有的人把淡水龟往海里扔，龟游回岸上，被人说是“报恩”，其实是在逃离海水。当然也有反过来的案例，动物展现了正常的物种特定行为，确被人感觉是压力行为.
 
 这都是缺乏知识、想当然的对动物行为做拟人化的解读。
 
@@ -2853,59 +2904,133 @@ T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulampru
 
 这样的对动物反馈的错误解读会在某些错的饲养方法上越走越远，可能造成严重伤害。因此知道蛇怎么表达自己对环境的不满可能比学会“标准的环境布置”还要重要，能看得懂蛇的“语言”才能动态的、个性化的调整环境。
 
+有另一个极端是有人认为动物根本没有“想法”，认为动物行都是基础本能驱动的。这时错误的，即使是爬行动物这种常被人误以为智商很低的动物、他们的行为仍然有很多并不是本能驱动的，甚至可以处理他们的祖先不可能遇到过的复杂问题。大部分动物行为都是基因本能、环境和历史经历的复杂互动。基因决定了“肉味好吃”“疼痛难受”，但基因很少告诉你该采取什么行动来获得食物、避免惩罚（除了少数本能反应，比如疼痛收缩的条件反射）。因而动物的行为是基因、环境、经验的综合结果。
+
+在[之后的章节](#爬行动物的认知能力)中会详细讨论爬行动物的学习行为。
+
+### 动物行为的正确研究思路
+<img src="images/Signal_Light_Green.png" height=15 />
+
+（<a href="https://www.bilibili.com/video/BV1VM411K7aK">Wageningen University, 2021</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="生命中国译Wageningen University, Animal Behavior, 2021" />）<sup>IV</sup>&nbsp;
+
+解释动物行为的研究应该与一切其他科学研究一样，有如下几个步骤。我们用“猫为什么在家挠门”为例：
+
+* 提出假设
+
+提出一个可证伪的有效假设。注意，科学不讨论任何不可证伪的命题。
+
+> “猫挠门是为了进屋。”
+
+提出与之对应的Null hypothesis（零假设，通常写为H<sub>0</sub>），既命题中的两个因素是随机发生的
+
+> “猫挠门与想不想进屋无关，猫不论想不想进屋，挠门的概率不变。”
+
+研究的目的是能否通过证据否定Null Hypothesis。
+
+注意，用人类行为来类比解释动物行为有的时候确实是对的，但它只是一种假设而已。
+
+* 提出预测
+
+提出一个与上述假设呈逻辑关系的一对预测
+
+> “如果在猫挠门时，我将门打开，猫应当进门/猫不会进门/猫进门的频率与平时没有区别。”
+
+* 进行实验
+
+通过收集足够的样本和数据（涉及样本量、对照设计等）。
+
+> 例如找20个志愿猫，在相同情况下记录其挠门的动作。并在其挠门、或不挠门的前提下将门打开，记录猫是否在一定时间内进屋。
+
+* 统计分析
+
+通过统计工具，判定收集到的数据能在何种置信度上否定零假设。科学证据的直接结果应该总是（在某置信度下）“否定”或“未能否定”某个预想假设。
+
+> 结果发现，猫挠门时 vs 不挠门时，打开门后它进门的概率并没有显著提高。
+
+> 这一结果表明，“猫挠门与想不想进屋无关，猫不论想不想进屋，挠门的概率不变。”的零假设未被否定。
+
+* 后续研究
+
+前一假设未被否定，有两个思路，一是因为实验问题而未体现出显著性，例如可以探究是不是样本量太小造成了显著性缺失。
+
+另一个思路是验证新的假设。例如：
+
+> 猫挠门，确实是希望你开门，但并不是为了进门，而是为了了解屋内的状况，“视察领地”。
+
+进而可以提出新的零假设和验证方法，例如使用条纹透明门、透光门、木门、镜子门时，猫挠门的概率有无差异。
+
+### Tinbergen四因论
+<img src="images/Signal_Light_Green.png" height=15 />
+
+（<a href="https://www.mdpi.com/2076-2615/13/6/988">M. Dawkins, 2023</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dawkins%2C%20%E8%87%AA%E7%84%B6%E8%A1%8C%E4%B8%BA.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Marian Stamp Dawkins, Natural Behaviour Is Not Enough: Farm Animal Welfare Needs Modern Answers to Tinbergen’s Four Questions, Animals 2023, 13(6), 988" />）<sup>IV</sup>&nbsp;
+
+（<a href="https://www.bilibili.com/video/BV1cK4y1N7pF">Wageningen University, 2021</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="生命中国译Wageningen University, Animal Behavior, 2021" />）<sup>IV</sup>&nbsp;
+
+经常有人拿一段视频问“我这蛇在干嘛？”这种问题问的其实不是“蛇在做出什么行为”，而是“蛇为什么做出这种行为”。Tinbergen四因论就是解释动物的理论框架。Tinbergen是动物行为学的奠基人之一，它提出的著名的四因论提示我们该从哪些角度理解动物行为。
+
+动物行为研究需要对动物行为提出可证伪的假设，并对未来行为做出预测。
+
+* 行为产生机制的问题（Proximate questions）
+
+【生理机制（Causation）】
+
+使动物展现某行为的直接控制机制，包括神经学、激素和其他生理学过程。
+
+例如在研究鸟类歌唱行为时，因果问题会探索哪些神经途径参与发声，什么刺激使鸟开始/停止唱歌（阳光、激素水平变化、看见竞争者）。
+
+【个体发展（Ontogeny）】
+
+动物个体是如何发展出相应行为的。包括学习、经验、行为随动物生命周期的变化。
+
+例如研究鸟类歌唱行为时，考虑鸟类的歌唱是写在基因里的、还是后天学习的；如果是学习的，是何时学习的，是如何练习的。
+
+* 行为结果的问题（Ultimate questions）
+
+【功能与生存意义（Function）】
+
+动物的行为有什么用。
+
+例如研究鸟类歌唱行为时，考虑鸟类歌唱是能保卫领地还是吸引配偶？唱歌唱得好、唱的响是不是效果就会更好？什么样的歌曲是更好的歌曲？
+
+【进化（Evolution）】
+
+动物的这种行为是如何随时间演化的。相似物种的行为有何异同？
+
+例如研究鸟类歌唱行为时，考虑鸟类的歌曲与他们祖先的歌曲有什么关系？歌曲是物种分化之后成型的？还是与亲缘物种的类似行为有较大关联？不同的歌曲适应怎样的生态位？
+
 ## 蛇的常见行为状态及评估意义
-<img src="images/Signal_Light_Red.png" height=15 />
+<img src="images/Signal_Light_Yellow.png" height=15 />
 
 通过外部资源为蛇设计饲养环境能达到及格线，但要养到优秀水平，必须能读懂蛇对环境和互动的反馈，这就需要正确理解蛇的各种行为反映了什么心理状态。
 
-【】【有行为分级，有样例视频，未处理，https://youtu.be/QagRkVYq41A?si=nEI6Gu4xFUWe_JVA】【】
+下图总结了蛇典型的绿区、黄区、红区行为（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;，下面会详细讲解具体动作的特征：
 
-<p align="center"><img src="images/蛇的典型行为分级.jpg" width=603 /></p>
+<p align="center"><img src="images/蛇的典型行为分级.png" width=603 /></p>
 
-（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）【】【这个视频最后有各种情况的范例视频，应该截一下】【】
-【】【】【】
-绿区动作（放松）：
-* 身体姿态放松，蜷缩但不紧密，身体展开、弯曲程度低，身体肌肉有力、但用力平衡、姿态端正（不“拧巴”）
-* 身体部位放松的抓握物体（如用尾轻轻缠绕杂物）、放松的从高处悬吊下来
-* 动作缓慢、流畅
-* 平和好奇的关注刺激因素（例如看向在栖地外面活动的饲主），正常速度的吐舌，可能进一步探索并接近刺激因素（例如向栖地外面的饲主爬动）
-* 正常的呼吸和心跳速率（呼吸可以直接从蛇的外观上容易的看出来，心跳需要特定体位才能观察到）
+绿区、黄区、红区是对蛇当前状态的一种简化划分：
 
-遇到绿区动作可以考虑继续进行当前的行为
+* <img src="images/Signal_Light_Green.png" height=15 /> |  绿区动作
 
-黄区动作（紧张、感到压力，但可以忍受）：
-* 紧密的蜷缩身体，体态紧张僵硬，身体全身用力且很“拧巴”，包括部分蟒的团球行为
-* 身体发力部位紧密的持握物体，缠绕在高处时全身贴合缠绕物，并且持续用力
-* 动作不连贯，在动作之间有“冻结”状态
-* 高度警惕，头离地（注意这不是说scoping），脖子弯曲，甚至脸贴脖子，后1/3有支撑离地的行为。头快速朝刺激物、移动物响应。朝远离刺激物的方向移动。
-* 对触碰表现出明显的反映；有时触碰后猛然快速移动（Darty movement，突然像飞镖一样射出去一段距离）
-* 移动变得不太规律
-* 停止吐舌
-* 心跳呼吸加快
+绿区动作（Good）是正常的动作，遇到绿区动作可以考虑继续进行当前的行为。
 
-遇到黄区动作应该立即停止你与蛇的互动，思考造成压力的因素，继续观察蛇的状态决定是否要恢复刚才的互动。
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  黄区动作
 
-下方的视频展示了一条玉米蛇受到惊吓后从绿区姿态转入黄区姿态，发现无事之后再转回绿区姿态的过程。
+黄区动作（Tolerable）表示紧张、感到压力，但可以忍受。
 
-<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/通过玉米蛇的身体姿态识别紧张程度.mp4"><img src="videos/通过玉米蛇的身体姿态识别紧张程度.jpg" width=603 /></a></p>
+黄区压力并不总是有害。
 
+如果动物是为了一个主观目标而展现黄区动作（参考[好的压力](#好的压力)一章），黄区压力可能能促进蛇的学习和成长。好的压力应该时间适度，在撤除压力因素（可能是人进行干预的撤出，也可能是蛇自主选择远离压力因素），蛇应该较快回到绿区状态。
 
-红区动作（超过正常阈值，极度紧张）：
-* 用极为紧张的身体姿态将头部埋起来，包括蟒类的紧致团球行为
-* 
-* S型攻击预备动作，嘶嘶，咬人
-* 张口呼吸（或/和）有气流声的呼吸
-* 像响尾蛇一样的快速摆尾动作，尝试通过敲击周围物体发出声音。
-* 部分蛇可以扁化身体（纵向或横向），部分蛇可以充气
-* 排除气味腺臭液（musting）、紧急拉屎（“吓尿了”）
-* 用“不理性的”急速运动迅速逃离刺激因素
-* 冻结行为（玉米蛇有此行为，即突然变成雕像完全不动 <sup>II</sup>）
-* 冻结行为的另一个极端，假死行为（极端例子是装死戏精猪鼻蛇，其他蛇也可能完全放松所有骨骼肌，装做一条没有张力的一条绳子）
-* 翻滚扭曲行为，身体各个部位无规则的朝不同方向扭动发力
-* 快而浅的呼吸，极快的心率
-* 特殊运动模式：弹跳运动（Saltatory locomotion），蛇在极度紧张状态下可能突然弹起跳离当前所在的表面。是一种应激响应。
+如果不是这些情况（非预期的出现黄区动作、动物并没有在追求主观目标、压力动作持续时间过长等），黄区压力可能是有害的，应该立即停止你与蛇的互动期，思考造成压力的因素是什么，继续观察蛇的状态决定是否要恢复刚才的互动。
 
-遇到红区动作应该立即停止与蛇的互动，并立即与蛇拉开距离（许多红区动作的目的就是拉开自己与潜在捕食者的距离）。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  红区动作
+
+红区动作（Toxic）表示超过正常阈值，极度紧张。其表现主要有三种（<a href="https://dx.doi.org/10.26451/abc.07.01.04.2020">Watson, 2020</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Watson%EF%BC%8C%E7%8E%89%E7%B1%B3%E8%9B%87%E7%9A%84%E7%BA%A2%E5%8C%BA%E8%A1%8C%E4%B8%BA.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Kravchuk, L.; Watson, C. Corn Snakes Can Behaviorally Enhance Crypsis by Choosing Complex Backgrounds and Substrate. Anim. Behav. Cognit. 2020, 7, 39-48." />）<sup>IV</sup>&nbsp;，（<a href="https://www.youtube.com/watch?v=Ef0vo9IfmJE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, STAY BACK! Distance Creating Behaviors from Your Corn Snake., 2022" />）<sup>III</sup>&nbsp;：
+* 恐吓行为：是自己看起来比实际情况更可怕，如抖尾、tag型咬人，喷气、扁颈。
+* 躲避行为：如通过紧致的蜷缩体态保护重要部位，对蛇来说主要是将头部缠绕进身体内部。
+* 逃跑行为：通过应激类型的动作急速远离刺激因素，例如蛇的跳跃式移动模式。
+
+红区压力总是有害的。遇到红区动作应该立即停止与蛇的互动，并立即与蛇拉开距离（许多红区动作的目的就是拉开自己与潜在捕食者的距离）。红区压力可能造成长期的、甚至是永久的影响（就是PTSD了），动物可能长时间的不能恢复到受压前的状态。遭受红区压力后可能的负面变化有紧张、活动减少/嗜睡、逃跑/回避行为增加、食欲减退、蜕皮障碍、躲避行为增加，不愿意有视觉暴露、防御性行为增加、刻板行为、Shutdown（关机了，类似抑郁状态等无法支持日常行为的状态）。
 
 
 
@@ -2918,38 +3043,333 @@ T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulampru
 
 
 
-### 身体状态
+
+
+### 身体姿态
 <img src="images/Signal_Light_Green.png" height=15 />
 
-蛇有几种常见的身体状态：
+下方列表条目综合自下列来源（不再重复列出来源）：（<a href="https://dx.doi.org/10.26451/abc.07.01.04.2020">Watson, 2020</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Watson%EF%BC%8C%E7%8E%89%E7%B1%B3%E8%9B%87%E7%9A%84%E7%BA%A2%E5%8C%BA%E8%A1%8C%E4%B8%BA.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Kravchuk, L.; Watson, C. Corn Snakes Can Behaviorally Enhance Crypsis by Choosing Complex Backgrounds and Substrate. Anim. Behav. Cognit. 2020, 7, 39-48." />）<sup>IV</sup>&nbsp;，（<a href="https://www.youtube.com/watch?v=Ef0vo9IfmJE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, STAY BACK! Distance Creating Behaviors from Your Corn Snake., 2022" />）<sup>III</sup>&nbsp;，（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;，（<a href="https://www.youtube.com/watch?v=QagRkVYq41A">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Refesh Your Knowledge: Stress & Snake Body Language, 2022" />）<sup>III</sup>&nbsp;
 
-* 紧密蜷缩：蛇不在躲避内，蜷缩起来且蜷缩的没有缝隙 <p align="center"><img src="images/紧密蜷缩的玉米蛇.png" width=603 /></p>
-* 部分蜷缩：蜷缩着，但是有缝隙，或部分身体暴露在蜷缩范围之外
-* 贴墙：除头以外的大部分身体延地面贴着墙
-* 舒展：基本没有和自身的接触
-* Scoping（所谓潜望镜姿势）：身体大部分处于躲藏状态，但露出头部和一部分脖子，脖子抬起，微低头。<p align="center"><img src="images/玉米蛇的Scoping.jpg" width=603 /></p><p align="center"><img src="images/玉米蛇的Scoping2.jpg" width=603 /></p>
-* 立墙角：身体尽可能挤在某个墙角，以至于有一部分身体立了起来，沿着墙角向上排列<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/冬青-ZooZajac1-太平洋地蟒因为光热条件不合适缩在远端角落.mp4"><img src="videos/冬青-ZooZajac1-太平洋地蟒因为光热条件不合适缩在远端角落.jpg" width=603 /></a></p>
 
-舒展状态和Scoping状态能体现出蛇对当前环境有安全感。部分蜷缩也是一种比较正常的休息状态。
+蛇有几种常见的身体姿态：
 
-紧密蜷缩和贴墙状态一定程度说明蛇并不放松，对当前状态感到中度紧张、但可以忍受。常伴有紧张、僵硬的身体姿态。
 
-长时间立墙角说明蛇对当前环境**极为不适**，希望尽可能远离当前环境但无处可逃，经常是光、热等条件不合适造成的。
+
+
+
+【全身姿态】
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  舒展：基本没有和自身的接触，身体展开，弯曲程度低 <sup>III<sup>
+* <img src="images/Signal_Light_Green.png" height=15 /> |  部分蜷缩：蜷缩着，但是有缝隙，或部分身体暴露在蜷缩范围之外 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  紧密的蜷缩身体，体态紧张僵硬，包括蟒较松的团球行为 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  极为紧致且用力的蜷缩身体，身体各部分之间毫无缝隙，并且用力夹紧，包括蟒类的紧致团球行为 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  用紧张的身体姿态将头部埋起来 <sup>III<sup>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下面是一条蟒紧密蜷缩的黄区行为（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/黄区状态的蟒.mp4"><img src="videos/黄区状态的蟒.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下面是球蟒紧致团球、并隐藏头部的红区行为（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp; （<a href="https://www.youtube.com/watch?v=QagRkVYq41A">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Refesh Your Knowledge: Stress & Snake Body Language, 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><img src="images/团球并隐藏头部的球蟒.jpg" width=603 /></p>
+
+<p align="center"><img src="images/红区球蟒的团球行为.png" width=603 /></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  类似团球的动作不止局限于球蟒，下面是一条进入红区状态的玉米蛇极为紧致且用力的蜷缩身体、并隐藏头部的冻结状态（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/红区玉米蛇的紧密蜷缩、隐藏头部的冻结状态.mp4"><img src="videos/红区玉米蛇的紧密蜷缩、隐藏头部的冻结状态.jpg" width=603 /></a></p>
+
+
+
+
+
+【攀爬姿态】
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  放松的从高处悬吊 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  全身贴合缠绕物，并且持续用力（注意与某些蟒于高处休息时的自然体态进行区分） <sup>III<sup>
+
+<img src="images/Signal_Light_Green.png" height=15 /> |  下方视频展示了蟒的绿区攀爬动作，注意其自然放松的悬吊姿态（<a href="https://www.youtube.com/watch?v=QagRkVYq41A">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Refesh Your Knowledge: Stress & Snake Body Language, 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/蟒的绿区动作.mp4"><img src="videos/蟒的绿区动作.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下方视频展示了蟒紧密缠绕在攀爬物上的黄区动作（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/黄区状态的蟒紧密缠绕在攀爬物上.mp4"><img src="videos/黄区状态的蟒紧密缠绕在攀爬物上.jpg" width=603 /></a></p>
+
+
+
+
+
+【局部姿态】
+* <img src="images/Signal_Light_Green.png" height=15 /> |  趴在地上
+* <img src="images/Signal_Light_Green.png" height=15 /> |  Scoping“潜望镜状”：身体大部分处于躲藏状态，但露出头部和一部分脖子，脖子抬起，微低头。 <sup>II<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  头颈离地（注意与scoping的区分），脖子弯曲，甚至脸贴脖子，后1/3有支撑离地的行为。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  S型攻击预备动作，头颈离地。<sup>III<sup>
+
+<img src="images/Signal_Light_Green.png" height=15 /> |  下面几张图区分了Scoping的头颈离地和紧张状态的头颈离地。下图是一条Scoping的玉米蛇<sup>II<sup>：
+
+<p align="center"><img src="images/玉米蛇的Scoping.jpg" width=603 /></p><p align="center"><img src="images/玉米蛇的Scoping2.jpg" width=603 /></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下图展现了一条蟒头颈弯曲、离地的黄区行为（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><img src="images/黄区蟒的头颈弯曲和离地行为.jpg" width=603 /></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下面是一条蟒脸贴脖子的黄区动作（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/黄区状态蟒的脸贴脖子行为.mp4"><img src="videos/黄区状态蟒的脸贴脖子行为.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下图是玉米蛇的红区<sup>II</sup>紧张体态，注意头颈离地、S型姿态：
+
+<p align="center"><img src="images/玉米蛇的紧张体态.jpg" width=603 /></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下图展现了一条野生玉米蛇的（加强版）S型攻击预备动作<sup>II<sup>：
+
+<p align="center"><img src="images/加强版S型警戒的野生玉米蛇.jpg" width=603 /></p>
+
+
+
+
+
+### 静止时的发力状态
+<img src="images/Signal_Light_Green.png" height=15 />
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  身体放松，不刻意用力。 <sup>III<sup>
+* <img src="images/Signal_Light_Green.png" height=15 /> |  身体用力，但用力平衡，姿态端正，不“拧巴”。 <sup>III<sup>
+* <img src="images/Signal_Light_Green.png" height=15 /> |  身体部位放松的抓握物体（如用尾轻轻缠绕杂物或攀爬物）。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  身体全身用力且很“拧巴”。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  身体发力部位紧密的“持握”物体（地面杂物、或高空攀爬物）。 <sup>III<sup>
+
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下方视频是一条刚换了栖地的球蟒。可以看出它在全身用力，尽可能的握紧物体。仔细看还能看到呼吸较快（<a href="https://www.youtube.com/watch?v=BqanipsiZHE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Special Focus: Royal Body Language. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/球蟒紧密缠绕物体的黄区行为.mp4"><img src="videos/球蟒紧密缠绕物体的黄区行为.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下图这是一条特别弯曲“拧巴”的牛蛇（<a href="https://www.reddit.com/r/snakes/comments/170vita/large_and_vibrant_gopher_snake_on_my_trail_run_in/">u/SloopJohnB52, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="u/SloopJohnB52, Large and vibrant Gopher Snake (?) on my trail run in SoCal yesterday. guessing 5-6ft, 2023" />）<sup>I</sup>&nbsp;，图片拍摄者为了避免路杀、尝试将路上的牛蛇赶到路边，采取了跺脚、向尾部撒沙、在面前蹲下等行为，导致牛蛇进入黄区状态。：
+
+<p align="center"><img src="images/特别弯曲的牛蛇.jpg" width=403 /></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下方的视频展示了一条玉米蛇在黑暗中突然看到栖地外的人而受到惊吓，从绿区姿态转入黄区姿态、发现无事之后再转回绿区姿态的过程：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇的紧张状态从绿区到黄区再到绿区的示范.mp4"><img src="videos/玉米蛇的紧张状态从绿区到黄区再到绿区的示范.jpg" width=603 /></a></p>
+
+
+
+
+
 
 ### 运动状态
 <img src="images/Signal_Light_Green.png" height=15 />
 
-* 休息：基本不动，只有调整姿势的短暂动作
-* 部分移动：比如只有头动
-* 运动：整个蛇都在移动
+* <img src="images/Signal_Light_Green.png" height=15 /> |  动作缓慢、丝滑。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  动作不连贯，在动作之间有暂时的“冻结”或“卡顿”状态，静止状态可能持续数秒。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  移动变得快速，还可能变得相对不规律。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  冻结行为，突然变成雕像一样完全一动不动。注意蛇是僵住的，与放松状态下“一动不动的休息”不同。 <sup>III</sup>（玉米蛇有此行为<sup>II</sup>）
+* <img src="images/Signal_Light_Red.png" height=15 /> |  用“不理性的”、无规则的急速运动迅速逃离刺激因素。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  翻滚扭曲行为，身体各个部位无规则的朝不同方向扭动发力。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  特殊运动模式：弹跳运动（Saltatory locomotion），蛇在极度紧张状态下可能突然弹起跳离当前所在的表面。是一种应激响应。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  防御性咬人：包括闭口咬人（只做出strike的动作、但根本不张嘴）和tag（张嘴并攻击咬人，咬完马上收回恢复S型体态），但咬了人死活不撒嘴的不应视作警戒行为，咬人不撒嘴那是把你当成可以吞下去食物的捕食行为。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  抖尾：像响尾蛇一样的快速摆尾动作，尝试通过敲击周围物体发出声音。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  排除气味腺臭液（musting） <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  紧急拉屎：和人一样，“吓的拉裤子了”。除正常排便外，在受到压力、感到威胁、希望逃离时拉屎是一种警戒防御行为，让你觉得它恶心，不想吃它了。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  如有松散垫材，将自己迅速埋入垫材 <sup>III<sup>
+
+<img src="images/Signal_Light_Green.png" height=15 /> |  下方视频是一条球蟒放松爬行的绿区状态（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/球蟒的放松攀爬状态.mp4"><img src="videos/球蟒的放松攀爬状态.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  下方视频是体现出快速、不规律移动的黄区状态的玉米蛇，它对当前环境不满意，想尽快找到出口（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/黄区玉米蛇快速、不连贯、不放松动作.mp4"><img src="videos/黄区玉米蛇快速、不连贯、不放松动作.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下方视频是一条玉米蛇无规则运动和抖尾的红区行为（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/红区玉米蛇的无规则运动和抖尾行为.mp4"><img src="videos/红区玉米蛇的无规则运动和抖尾行为.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下方视频同时展现了玉米蛇的S型警戒、抖尾威慑和防御性咬人（tag）的红区<sup>II</sup>行为，视频中为刚孵化的人工繁育幼蛇，刚孵化的蛇比成体更容易进入高度警戒紧张的状态（<a href="https://www.youtube.com/watch?v=mDPfeyCGw7c">SnakeDiscovery, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="SnakeDiscovery, Mystery Corn Snakes Hatching! 2023" />）<sup>I</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇的S型警戒、抖尾和Tag行为.mp4"><img src="videos/玉米蛇的S型警戒、抖尾和Tag行为.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下方视频展示了玉米蛇不理性、无规则翻滚扭曲的红区行为（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/红区玉米蛇的不理性无规则翻滚扭曲行为.mp4"><img src="videos/红区玉米蛇的不理性无规则翻滚扭曲行为.jpg" width=603 /></a></p>
+
+
+
+
+
+
+
+### 意识与刺激响应
+<img src="images/Signal_Light_Green.png" height=15 />
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  平和好奇的关注刺激因素（例如以正常速度转头看向在栖地外面活动的饲主）。 <sup>III<sup>
+* <img src="images/Signal_Light_Green.png" height=15 /> |  探索并接近刺激因素（例如向栖地外面的饲主爬动）。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  高度警惕，头快速朝刺激物、移动物响应，但不朝刺激因素移动；在有机会时可能快速的逃离刺激源。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  对触碰表现出明显的反应。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  被触碰后猛然快速移动（Darty movement，突然像飞镖一样射出去一段距离）。 <sup>III<sup>
+
+<img src="images/Signal_Light_Green.png" height=15 /> |  下方视频是一条球蟒缓慢爬行、并平和好奇的关注旁边饲主的状态（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/球蟒放松状态下的爬行、关注和探索行为.mp4"><img src="videos/球蟒放松状态下的爬行、关注和探索行为.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  这是一条玉米蛇因为关灯而短暂进入黄区警惕状态、头快速转向刺激源、并暂停动作的行为：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/关灯导致紧张.mp4"><img src="videos/关灯导致紧张.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Yellow.png" height=15 /> |  这是因为突然看到有人接近，暂时转入黄区状态，注意到类似的头转向刺激源、暂停身体动作的行为：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇行为：紧张突然进屋.mp4"><img src="videos/玉米蛇行为：紧张突然进屋.jpg" width=603 /></a></p>
+
+<img src="images/Signal_Light_Red.png" height=15 /> |  下方视频展示了玉米蛇被触碰后快速逃离刺激源、用“不理性的”无规则的急速运动迅速逃离刺激因素的红区行为 （<a href="https://www.youtube.com/watch?v=Ef0vo9IfmJE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, STAY BACK! Distance Creating Behaviors from Your Corn Snake., 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇触碰后射走的红区动作.mp4"><img src="videos/玉米蛇触碰后射走的红区动作.jpg" width=603 /></a></p>
+
+
+
+
+
+
+### 吐舌
+<img src="images/Signal_Light_Green.png" height=15 />
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  正常速度的吐舌。 <sup>III<sup>
+* <img src="images/Signal_Light_Green.png" height=15 /> |  较长的吐舌，有时向一侧偏斜：这是对环境感到好奇，用气味探索 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  吐舌快而浅，也可能完全停止吐舌。 <sup>III<sup>
+
+
+
+
+
+### 呼吸与心率
+<img src="images/Signal_Light_Green.png" height=15 />
+
+（呼吸可以直接从蛇的外观上容易的看出来，心跳需要特定体位才能观察到）
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  正常的呼吸和心跳速率。 <sup>III<sup>
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  心跳呼吸加快。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  快而浅的呼吸，极快的心率。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  张口呼吸。<sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  喷气（能听到气流声的呼吸，排出呼吸道感染等其他因素）。<sup>III<sup>
+
+
+
+
+
+### 物种特定的应激动作
+<img src="images/Signal_Light_Green.png" height=15 />
+
+* <img src="images/Signal_Light_Red.png" height=15 /> |  假死行为（极端例子是装死戏精猪鼻蛇，其他蛇也可能完全放松所有骨骼肌，装做一条没有张力的一条绳子）。 <sup>III<sup>
+* <img src="images/Signal_Light_Red.png" height=15 /> |  一些其他物种的蛇可以扁化身体（分纵向或横向）或充气。 <sup>III<sup>
+
+
+
+
+
+### 综合案例
+<img src="images/Signal_Light_Green.png" height=15 />
+
+这个视频非常典型，几乎包含了许多典型的黄区，红区。作为上述知识点的复习。
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇的红区行为大集合.mp4"><img src="videos/玉米蛇的红区行为大集合.jpg" width=603 /></a></p>
+
+视频开始时出现了：
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  紧密的蜷缩身体，体态紧张僵硬。
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  身体全身用力且很“拧巴”。
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  头颈离地，脖子弯曲，后1/3有支撑离地的行为。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  冻结行为，突然变成雕像一样完全一动不动。
+
+玉米蛇被触动后，出现了：
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  高度警惕，在有机会时可能快速的逃离刺激源。
+
+随后彻底进入红区状态：
+* <img src="images/Signal_Light_Red.png" height=15 /> |  用“不理性的”、无规则的急速运动迅速逃离刺激因素。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  抖尾。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  S型攻击预备动作，头颈离地。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  防御性咬人。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  翻滚扭曲行为，身体各个部位无规则的朝不同方向扭动发力。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  如有松散垫材，将自己迅速埋入垫材。
+
+
+这个视频中的玉米蛇展现了常见绿区行为的许多特征（<a href="https://www.youtube.com/watch?v=Ef0vo9IfmJE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, STAY BACK! Distance Creating Behaviors from Your Corn Snake., 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇的绿区攀爬行为.mp4"><img src="videos/玉米蛇的绿区攀爬行为.jpg" width=603 /></a></p>
+
+* <img src="images/Signal_Light_Green.png" height=15 /> |  舒展：基本没有和自身的接触，身体展开，弯曲程度低
+* <img src="images/Signal_Light_Green.png" height=15 /> |  放松的从高处悬吊
+* <img src="images/Signal_Light_Green.png" height=15 /> |  身体用力，但用力平衡，姿态端正，不“拧巴”。
+* <img src="images/Signal_Light_Green.png" height=15 /> |  身体部位放松的抓握物体（如用尾轻轻缠绕杂物或攀爬物）。
+* <img src="images/Signal_Light_Green.png" height=15 /> |  动作缓慢、丝滑。
+* <img src="images/Signal_Light_Green.png" height=15 /> |  正常速度的吐舌。
+* <img src="images/Signal_Light_Green.png" height=15 /> |  探索并接近刺激因素（例如向饲主爬动）。
+
+
+
+
+这个视频体现了球蟒从绿区行为到黄区行为的转变（<a href="https://www.youtube.com/watch?v=BqanipsiZHE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Special Focus: Royal Body Language. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/球蟒的绿区到黄区行为.mp4"><img src="videos/球蟒的绿区到黄区行为.jpg" width=603 /></a></p>
+
+视频中有下面的黄区行为：
+
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  头颈离地（注意与scoping的区分），脖子弯曲
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  动作不连贯，在动作之间有暂时的“冻结”或“卡顿”状态，静止状态可能持续数秒。 
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  移动变得快速。（在球蟒转头向后的时候）
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  高度警惕；在有机会时快速的逃离刺激源。 
+
+在上手之后，进一步有：
+
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  吐舌快而浅。
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  可以更明显的看到动作之间有暂时的“冻结”或“卡顿”，持续数秒。比如缠绕电话机静止的时候。
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  身体发力部位紧密的“持握”地面杂物（电话机）。
+
+
+这个视频中是球蟒在黄区和红区之间的转变（<a href="https://www.youtube.com/watch?v=BqanipsiZHE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Special Focus: Royal Body Language. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/球蟒的黄区至红区行为.mp4"><img src="videos/球蟒的黄区至红区行为.jpg" width=603 /></a></p>
+
+视频开头有：
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  紧密的蜷缩身体，体态紧张僵硬。
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  身体全身用力且很“拧巴”。（注意到被人拿起来都没有改变姿态，体现出在用尽）
+* <img src="images/Signal_Light_Yellow.png" height=15 /> |  动作不连贯，在动作之间有暂时的“冻结”或“卡顿”状态，静止状态可能持续数秒。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  冻结行为，突然变成雕像一样完全一动不动。注意蛇是僵住的，与放松状态下“一动不动的休息”不同。
+
+后来有：
+* <img src="images/Signal_Light_Red.png" height=15 /> |  防御性咬人。
+* <img src="images/Signal_Light_Red.png" height=15 /> |  用紧张的身体姿态将头部埋起来。（在吊架上时）
+
+这时不应该继续与蛇的互动。应转而通过Gradual desensitization和目标棒训练等方法逐渐使其适应新的环境。
+
+
+
+下方视频中，左侧的蟒在被拉开抽屉之前就在黄区状态，一拉开抽屉后迅速逃离原有环境，动作不连贯，吐舌快而浅；右侧的蟒也在黄区状态，有“冻结”情况，面对来自左边蟒的刺激有突然的、远离刺激源的闪避行为（<a href="https://www.youtube.com/watch?v=BqanipsiZHE">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Special Focus: Royal Body Language. 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/两只蟒的绿、黄区动作.mp4"><img src="videos/两只蟒的绿、黄区动作.jpg" width=603 /></a></p>
+
+
+
+
+下方视频中的球蟒被人刻意玩弄，从黄区动作直至展现出红区动作（<a href="https://www.youtube.com/watch?v=QagRkVYq41A">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Refesh Your Knowledge: Stress & Snake Body Language, 2022" />）<sup>III</sup>&nbsp;：
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/蟒的红区动作.mp4"><img src="videos/蟒的红区动作.jpg" width=603 /></a></p>
+
+（下方视频请静音观看）下方视频是有人用鸟“逗”蛇，蛇从绿区动作逐步向黄区、红区动作转变的过程。
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/用鸟吓蛇.mp4"><img src="videos/用鸟吓蛇.jpg" width=603 /></a></p>
+
+
+
+
+### 身体位置和躲避状态
+<img src="images/Signal_Light_Red.png" height=15 />
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/冬青-ZooZajac1-太平洋地蟒因为光热条件不合适缩在远端角落.mp4"><img src="videos/冬青-ZooZajac1-太平洋地蟒因为光热条件不合适缩在远端角落.jpg" width=603 /></a></p>
+
 * 爬高：玉米蛇有攀爬并舒展全身的需求
 * 挖土：玉米蛇有挖掘需求，可以挖掘隧道，可以全身没入土下，并且可以在土下长时间休息。
 
 除了蜕皮、刚吃饭、冬眠等特殊时期外，玉米蛇的活动量可以相当大。如果玉米蛇经常一动不动（需要装了红外摄像头判断、包括晚上关灯后的时间也长期一动不动）的话，应警惕是否出了什么问题。
 
-### 躲避状态
-<img src="images/Signal_Light_Green.png" height=15 />
-
+* 贴墙：除头以外的大部分身体延地面贴着墙
 * 躲避中完全隐蔽
 * 躲避中隐蔽但露头观察
 * 躲避中隐蔽但露出较多身体
@@ -2960,28 +3380,11 @@ T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulampru
 长时间的完全隐蔽、几乎完全不出来说明环境还是有一些问题；身体在躲避里但是露个头往外看是很常见的行为；能放心的在外面活动、晒灯是环境合适的一种表现；长时间挤在角落里是对环境有强烈不满，希望尽可能远离某种因素；如果环境合适、有足够的视觉隔障，有时能见到蛇直接在外面睡觉，这是环境较好、使蛇有安全感的体现。
 
 
-### 警戒行为
-<img src="images/Signal_Light_Green.png" height=15 />
-
-* 上半身S型警戒
-* 喷气发出声音
-* 尾部抖动拍地
-* 防御性咬人：包括闭口咬人（只做出strike的动作、但根本不张嘴）和tag（张嘴并攻击咬人，咬完马上收回恢复S型体态），但咬了人死活不撒嘴的不应视作警戒行为，咬人不撒嘴那是把你当成可以吞下去食物的捕食行为。
-* 拉屎、气味腺排液：除正常排便外，在受到压力、感到威胁、希望逃离时拉屎是一种警戒防御行为，让你觉得它恶心，不想吃它了。（玉米蛇不会通过气味腺排出臭液，王锦蛇会）
-
-下方视频同时展现了玉米蛇的S型警戒、抖尾威慑和防御性咬人（此处为张嘴攻击的tag）行为（SnakeDiscovery, 2023, https://www.youtube.com/watch?v=mDPfeyCGw7c），视频中为刚孵化的人工繁育幼蛇，刚孵化的蛇通常很凶，这条尤其凶，一般脱离孵化期的人工繁育玉米蛇不会这么凶：
-
-<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/玉米蛇的S型警戒、抖尾和Tag行为.mp4"><img src="videos/玉米蛇的S型警戒、抖尾和Tag行为.jpg" width=603 /></a></p>
-
-下图展现了一条野生玉米蛇的（加强版）S型警戒：
-
-<p align="center"><img src="images/加强版S型警戒的野生玉米蛇.jpg" width=603 /></p>
 
 
 ### 其他日常行为
 <img src="images/Signal_Light_Green.png" height=15 />
 
-* 吐舌：可以通过蛇吐舌的频率、长度和弯曲状态判定蛇处于哪种行为模式。日常探索状态时吐舌频率较低，长度不长；警戒状态时吐舌采样的频次增加；有食物时吐舌会特别长，而且有时会向有食物一侧弯曲。
 * 喝水：玉米蛇会喝水。有时在喷淋期间会喝栖地中假植、墙壁上的水珠。
 * 晒灯：在开阔地晒灯一般是一种正常行为，而且表现出对栖地状态有安全感。变温动物有体内感染时，有时会寻找更高温度的环境提高体温、促进免疫系统工作（与人的发烧原理一致），不过仅凭晒灯一个行为不应该视为疾病征兆。
 * 打哈欠：有时和人一样是刚睡醒困了，有时是进食后初始化关节的开合状态。但反复、长时间、有规律的一下一下连续打哈欠需要考虑见[呼吸道感染](#呼吸道感染和肺炎)。
@@ -2995,7 +3398,7 @@ T. Langkilde等人对不同压力因素对warm-temperate water-skink （Eulampru
 https://www.bilibili.com/video/BV1g14y1U7LS?spm_id_from=333.880.my_history.page.click
 * 摇头观星：“摇摆wobbling”和“观星stargazing”：不正常行为，大多出现在某些颜色变异（如蜘蛛）中，或随着疾病而产生（如沙状病毒Arenavirus感染）；指的是一种无方向感的震颤，身体螺旋状扭结，或仰着、靠背部爬行。这些动作往往会被外界刺激所激发，比如喂食前后。这些动作常指示神经系统受损，非常危险，马上就医（而且不一定能治好） <sup>III</sup>【】【视频？】【】
 
-## 刻板行为
+### 刻板行为
 <img src="images/Signal_Light_Yellow.png" height=15 />
 
 （<a href="https://doi.org/10.1371/journal.pone.0247082">Hollandt, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Hollandt%EF%BC%8C%E7%90%83%E8%9F%92%E4%B8%B0%E5%AE%B9%E6%B0%B4%E5%B9%B3%E5%AE%9E%E9%AA%8C.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv21916639"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="T. Hollandt, et al. Animal-appropriate housing of ball pythons (Python regius)—Behavior-based evaluation of two types of housing systems. *PLoS ONE* **2021**, *16*, e0247082." />）<sup>IV</sup>&nbsp;
@@ -3012,8 +3415,7 @@ https://www.bilibili.com/video/BV1g14y1U7LS?spm_id_from=333.880.my_history.page.
 
 动物的圈养环境应该使得动物可以表达物种特定行为，并具有自己解决可能问题的选项。同时应该提供丰容设施，以促进正面福利。
 
-
-### 蛇的典型刻板行为
+下面是几类蛇的典型刻板行为
 
 #### 顶墙、擦玻璃、清垫材
 
@@ -3101,6 +3503,8 @@ https://www.bilibili.com/video/BV1g14y1U7LS?spm_id_from=333.880.my_history.page.
 
 #### 挤墙角
 
+身体尽可能挤在某个墙角，以至于有一部分身体立了起来，沿着墙角向上排列。长时间立墙角说明蛇对当前环境**极为不适**，希望尽可能远离当前环境但无处可逃，经常是光、热等条件不合适造成的。
+
 虽然挤墙角也是对着墙角使劲，但与前述行为不同的是较长时间呈一个姿势不动，并且常有部分身体（而不是头部）沿着墙角向上摆放。这通常不只是缺乏丰容、攀爬物等“进阶问题”，而是基础环境严重不适的体现。诸如挤在远离热灯的角落即很可能是温度实在太高，蛇实在是受不了。必须立即纠正环境问题。
 
 下面的太平洋地蟒即因为光热条件不适宜而挤在远端角落（<a href="https://www.bilibili.com/video/BV1564y1276y">冬青-Cyan, 2021</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="冬青-Cyan, 【冷艳珍宝】坐镇世界最大宠物店！｜Zoo Zajac·壹, 2021" />）<sup>III</sup>&nbsp;：
@@ -3167,7 +3571,7 @@ https://www.bilibili.com/video/BV1g14y1U7LS?spm_id_from=333.880.my_history.page.
 已下未看：
 【】【HOLTZMAN*, Spatial learning of an escape task by young corn snakes, Elaphe guttata guttata】【】
 
-### 蛇可以做目标训练
+## 蛇可以做目标训练
 <img src="images/Signal_Light_Red.png" height=15 />
 
 目标训练的定义【】【】【】
@@ -3190,7 +3594,7 @@ https://www.youtube.com/watch?v=RkqjqaIJEEA&list=PLNbZzsRecQ2ZBjRjqF1bIwFnR8tPqM
 
 【】【已下未看，Clark，Kin recognition in rattlesnakes】【】
 
-### 爬行动物有社会性学习能力
+## 爬行动物有社会性学习能力
 <img src="images/Signal_Light_Yellow.png" height=15 />
 
 社会性学习指的是通过观察其他同物种个体的行为获得新知识的过程，模仿是一种重要的社会性学习能力。人们曾经认为这是人类独有的能力，有人曾经建议把智人Homo sapiens命名为Homo imitans（会模仿的人）。模仿行为在认知过程上其实非常复杂，因为观察者不仅需要获取信息，还必须对观察到的行为、情境的限制以及模型的意图或目标进行推断。
@@ -3250,10 +3654,24 @@ Wilkinson等人曾做实验发现玉米蛇可以认人；并且说明如果蛇�
 
 冬青的守宫5方面
 
+Lori Torrini的丰容：
+
+https://www.youtube.com/watch?v=UXGnah59GtQ&list=PLNbZzsRecQ2Zjf1WeyXud4mzi6cJKelL4&pp=iAQB
+
+https://www.youtube.com/watch?v=RkqjqaIJEEA&list=PLNbZzsRecQ2ac3qvbWHmR2jxsl0B0jUtx&pp=iAQB
+
+https://www.youtube.com/watch?v=RkqjqaIJEEA&list=PLNbZzsRecQ2YFk327ZD0q4yyQVlXf8uQW&pp=iAQB
+
+https://www.youtube.com/watch?v=diUX6y0zxvM&list=PLNbZzsRecQ2ZM5cFvkrLLh0uZBP8qnAKC&index=2
+
+https://www.youtube.com/watch?v=xkv5KJ_ik4c&list=PLNbZzsRecQ2ZM5cFvkrLLh0uZBP8qnAKC&index=7&pp=iAQB
+
+https://www.youtube.com/watch?v=b-qgrCT5bPI&list=PLNbZzsRecQ2ZM5cFvkrLLh0uZBP8qnAKC&index=3&pp=iAQB
+
 ## 什么是丰容
 <img src="images/Signal_Light_Red.png" height=15 />
 
-丰容是在[双向连续福利坐标](#双向连续福利坐标)模型中，对已满足基本、经达到中性状态的情况，丰容是进一步走向正面福利水平的重要一环。
+丰容是在[双向、连续的福利水平](#双向、连续的评价福利水平)评价模型中，对已满足基本、经达到中性状态的情况，丰容是进一步走向正面福利水平的重要一环。
 
 丰容应该通过增加动物做出多样行为的机会，促使动物努力认知所处环境，促使动物表现出多样的物种特定行为。
 
@@ -3461,6 +3879,33 @@ Hollandt等人用球蟒直接对比了蛇柜（抽屉）和爬箱里蛇的不同
 【】【II: 不丰容太空旷，会导致紧张】【】
 
 
+# 玉米蛇饲养的要素
+<img src="images/Signal_Light_Red.png" height=15 />
+
+
+德国动物饲养条例列举了爬行动物饲养的基本要求，这是一个极好的大纲，在后面有章节逐一讲解（<a href="https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003860">德国动物饲养条例, 2022</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E5%BE%B7%E5%9B%BD%E5%8A%A8%E7%89%A9%E9%A5%B2%E5%85%BB%E6%9D%A1%E4%BE%8B%EF%BC%8CGermany%20Animal%20Husbandry%20Ordinance%EF%BC%8Cversion%20of%2006.05.2022%EF%BC%88%E6%9C%BA%E7%BF%BB%E8%8B%B1%E8%AF%91%EF%BC%89.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Gesamte Rechtsvorschrift für 2. Tierhaltungsverordnung, Fassung vom 06.05.2022》，Elaphe guttata (Kornnatter), 2022" />）<sup>V</sup>&nbsp;：
+
+1. 【空间要求】对于饲养爬行动物，适用附件3中的最低要求（栖地尺寸是附件3的重要内容，将在[空间需求](#空间需求)一章总结）以及以下各条款。
+2. 【购买前的知识储备和物资储备】购买爬行动物前，必须获取有关该种类生物学的知识以及由此产生的饲养要求，并准备适合其种类的爬行动物箱。应研读相应的专业文献，以便对爬行动物饲养进行持续学习。
+3. 【货源选择】原则上应优先购买（人工）繁殖后代。
+4. 【光源和温度】应按照自然环境的条件，通过灯光和热源设置适合特定种类需求的环境气候，通常是在饲养系统中设定温度梯度和降低夜间环境温度。必须遵守这些最低和最高温度的范围，以及所饲养动物种类的首选温度。
+5. 【通风】应通过通风确保新鲜空气。应避免出现气流。根据生产形式，爬行动物箱的侧壁或顶部必须有网格部分。
+6. 【光源热源选择】对于无法保持恒定体温的爬行动物，应提供符合其种类特定需求的热源，最好是通过光与辐射热的结合。
+7. 【光源热源的控制】只能使用正确安装和适当的灯泡和荧光管。必须有适当的设备来测量温度和湿度。
+8. 【湿度和微环境】空气和地面底质的湿度以及环境因素必须适应原产地生物群落的自然季节条件。必须考虑原产地生物群落的宏观气候和微观气候参数，其中微观气候可能与宏观气候大不相同。
+9. 【食物】必须确保动物得到适合其种类的饮食。所使用的食物必须含有符合营养需求的维生素、矿物质、必需氨基酸和纤维素。如果需要喂食脊椎动物，应尽可能使用新鲜死亡的饲料动物。昆虫应尽可能活着喂食。必须提供适合其种类的饮水方式。
+10. 【基础设施和基础丰容】人工生活空间的设计和基础设施必须根据所饲养种类的需求，例如挖掘、翻动、攀爬、游泳或寻找不同的气候参数。禁止使用有锐边、能造成伤害或刺激皮肤的物质。对于需要或可能的种类，最重要的最低设备包括：
+  * 足够高的适合地面底质，
+  * 隐藏的可能性，
+  * 水盆，浴盆，
+  * 适当大小和尺寸的攀爬设施，如岩石、树枝或树枝，
+  * 通过种植植物创造适当微气候或作为隐藏处，
+  * 对于饲养成熟产卵雌性的特殊产卵设施，
+  * 根据需要在一个或多个围栏内设置视线阻隔设施。
+11. 【卫生】动物应得到适合其种类的护理，污物应定期清理。必须注意通常的清洁。
+12. 【合理共栖】为避免配对和群体饲养中的社会压力，必须遵守动物的自然社会结构。在将具有相同生物群落要求的不同种类混养时，动物不能互相负面影响。
+13. 【医学支持】对于隔离和治疗生病的动物，以及在模拟休息期和育雏期，允许有专业理由的不同饲养条件。
+
 
 # 玉米蛇的自然生境
 <img src="images/Signal_Light_Red.png" height=15 />
@@ -3469,7 +3914,7 @@ https://www.inaturalist.org/observations?place_id=any&taxon_id=73887
 
 
 
-# 最低空间需求
+# 空间需求
 
 ## 为什么栖地要够大
 <img src="images/Signal_Light_Yellow.png" height=15 />
@@ -3569,7 +4014,7 @@ https://www.inaturalist.org/observations?place_id=any&taxon_id=73887
 ## 栖地的合理大小
 <img src="images/Signal_Light_Green.png" height=15 />
 
-（因为玉米蛇通常[不宜多条共栖](#同类社交)，因此下面仅列出独居的数值。）
+（因为玉米蛇通常[不宜多条共栖](#共栖关系)，因此下面仅列出独居的数值。）
 
 英国两爬协会准则针对豹斑蛇属的最低要求是 （<a href="https://4ca8cce6-b649-4f5d-8bce-a3b15fb870e6.usrfiles.com/ugd/4ca8cc_8a3d7f870e5e48c68b36937403bd30bd.pdf">英国两爬协会饲养箱准则, 2022</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E8%8B%B1%E5%9B%BD%E4%B8%A4%E7%88%AC%E5%8D%8F%E4%BC%9A%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E6%9C%80%E5%B0%8F%E9%A5%B2%E5%85%BB%E7%AE%B1%E5%AE%9E%E8%B7%B5%E5%87%86%E5%88%99.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<a href="https://www.bilibili.com/read/cv24027596"><img src="images/Icon_Translation.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Federation of British Herpetologists (FBH), Code of Practice for Recommended Minimum Enclosure Size for Reptiles, **2022**." />）<sup>V</sup>&nbsp;：
   
@@ -3651,14 +4096,16 @@ https://www.inaturalist.org/observations?place_id=any&taxon_id=73887
 【】【已转录，未整理：（<a href="https://www.youtube.com/watch?v=lh5sFzQ-5y8">Sinclair, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptiles and Research, How to Transition a Ball Python From Rack to Enclosure Life,2022" />）<sup>III</sup>&nbsp;
 
 
-# 一般装修原则
+# 栖地装修注意事项
+
+搭建爬行动物的栖地经常需要有一定程度的DIY，在此简述一些注意事项。
 
 ## 粘接与固定方法
 <img src="images/Signal_Light_Red.png" height=15 />
 
-**在任何情况下，栖地里有胶尚有粘性时，不能把蛇放入栖地 <sup>IV</sup>。**
+在**任何情况**下，栖地里**有任何暴露的胶尚有粘性**时，不能把蛇放入栖地 <sup>IV</sup>。**
 
-很多胶带、双面胶、海绵胶对蛇鳞有极强的粘性，但对其他表面的粘性较弱。蛇喜欢拱各种角落、缝隙，因而很容易把胶带翘起后粘到身上。被粘住后蛇会奋力挣扎，导致胶带越缠越紧，最后团成一团无法解开的胶带和蛇混在一起的球。这对蛇产生很大体力和精神压力，且如果不正确取下，几乎一定会造成皮肤损伤 <sup>IV</sup>。
+很多胶带、双面胶、海绵胶对蛇鳞有极强的粘性，反而是对其他表面的粘性较弱。蛇喜欢拱各种角落、缝隙，因而很容易把胶带翘起后粘到身上。被粘住后蛇会奋力挣扎，导致胶带越缠越紧，最后团成一团无法解开的胶带和蛇混在一起的球。这对蛇产生很大体力和精神压力，且如果不正确取下，几乎一定会造成皮肤损伤 <sup>IV</sup>。
 
 许多人用双面海绵胶粘背板，这极其容易出问题。因为双面海绵胶有弹性，蛇会顶背板翘出缝来，然后钻到缝中，正好被胶粘住。又因为在背板后面。常常发现的很晚，粘的久了掉鳞、应激一大堆问题。
 
@@ -3710,7 +4157,8 @@ D型扣
 
 防止卡住（尤其是悬吊的用不上力的环状结构）看似卡住时先尝试固定它卡在里面的东西（如果是未完全固定的），可能可以自己爬出去，也可尝试用食用油润滑，买来的东西有和蛇的身体差不多大小的孔时，必须考虑卡住之后如何破坏相应结构。
 
-下面是一个被骷髅躲避的鼻孔卡住的王蛇：
+下面是一个被骷髅躲避的鼻孔卡住的王蛇（<a href="https://www.bilibili.com/video/BV1Az4y1v7rr/">Bilibili-嬷阴身大爆发, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="嬷阴身大爆发，一些不知道自己轻重的小蛇卡在了躲避里，2023" />）<sup>I</sup>&nbsp;：
+
 <p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/Mddisan-Bilibili-蛇卡在骷髅躲避鼻孔里-BV1Az4y1v7rr.mp4"><img src="videos/Mddisan-Bilibili-蛇卡在骷髅躲避鼻孔里-BV1Az4y1v7rr.jpg" width=303 /></a></p>
 
 下面是喜欢钻圆圈的玉米蛇（注意左下角的尼龙扎带圈，此次没有卡住，但如果圈再小一些，就有卡住的可能）：
@@ -3776,7 +4224,18 @@ D型扣
 
 <p align="center"><img src="images/从缝中逃逸的玉米蛇.jpg" width=603 /></p>
 
-这个视频中http://b23.tv/rB2ZZdz，Bilibili的up主边无年在春节假期时把王锦蛇临时带回老家，竟然决定直接把蛇放在普通抽屉里（不是蛇柜抽屉，是正常储物的、后挡板比前面板低的抽屉，不大能理解是怎么想的）。其认为王锦蛇够大，爬不出去。结果逃逸。
+孵化箱破碎的角落越狱。（<a href="https://www.youtube.com/watch?v=8e_WsWUGkXw">Snake Discovery, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Snake Discovery, Baby Milksnakes Hatching!! (Then Escaping), 2023" />）<sup>I</sup>&nbsp;：
+
+<p align="center"><img src="images/幼年奶蛇越狱.jpg" width=603 /></p>
+
+合页缝隙越狱（[链接](https://www.reddit.com/r/cornsnakes/comments/16t1idd/potentially_escaped_corn/)）：
+
+<p align="center"><img src="images/合页缝隙越狱.png" width=603 /></p>
+
+
+[这个视频中](http://b23.tv/rB2ZZdz)，Bilibili的up主边无年在春节假期时把王锦蛇临时带回老家，竟然决定直接把蛇放在普通抽屉里（不是蛇柜抽屉，是正常储物用的、后挡板比前面板低的抽屉，不大能理解是怎么想的）。其认为王锦蛇够大，爬不出去。结果逃逸。
+
+<p align="center"><img src="images/王锦蛇从抽屉里越狱.jpg" width=603 /></p>
 
 #### 原本没缝，但能顶出缝来
 
@@ -3796,6 +4255,35 @@ D型扣
 
 <sup>II</sup><p align="center"><img src="images/焊接纱窗.jpg" width=603 /></p>
 
+#### 逃跑统计
+
+总有人说养蛇逃跑不可避免。我在此收集所有我在网上看到的玉米蛇跑事件，不加筛选。每看到一个就把原因和结局收集在下面。统计结果说明绝大多数蛇跑了的事件是可以避免的：
+
+|原因类型|具体原因|结局和时间|找到的位置|链接|
+|---|---|---|---|---|
+|栖地缝隙|孵化箱缝隙|当日找到|孵化箱型材管中|（[链接](https://www.youtube.com/watch?v=8e_WsWUGkXw)）|
+|栖地缝隙|合页缝隙（疑似）|一个月后没有更新|X|（[链接](https://www.reddit.com/r/cornsnakes/comments/16t1idd/potentially_escaped_corn/)）|
+|栖地缝隙|门缝|次日找到|洗碗机缝隙|（[链接](https://www.reddit.com/r/cornsnakes/comments/16u4k2z/little_guys_escaped_last_night_found_him_this/)）|
+|栖地缝隙|门缝|当场抓获|X|（[链接](https://www.reddit.com/r/cornsnakes/comments/15perkw/chcek_the_lock/)）|
+|栖地缝隙|用普通储物柜抽屉养蛇|第二天找到|抽屉后板缝隙|（[链接](https://www.bilibili.com/video/BV1Jy4y197SN)）|
+|顶出缝隙|顶盖不够重|两周后仍未找到（231103）|X|（[链接](https://www.reddit.com/r/cornsnakes/comments/17b0un0/juvenile_corn_escaped_hoping_we_find_her/)）|
+|外部破坏|普通纱网做顶网，被猫破坏|蛇被扫地机搅烂死亡|X|（朋友圈）|
+|||||（[链接]()）|
+|||||（[链接]()）|
+|||||（[链接]()）|
+|||||（[链接]()）|
+|||||（[链接]()）|
+|||||（[链接]()）|
+
+一些找到地点的案例：
+
+孵化箱型材管（<a href="https://www.youtube.com/watch?v=8e_WsWUGkXw">Snake Discovery, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Snake Discovery, Baby Milksnakes Hatching!! (Then Escaping), 2023" />）<sup>I</sup>&nbsp;：
+
+<p align="center"><img src="images/幼年奶蛇越狱-找到.jpg" width=603 /></p>
+
+洗碗机缝隙（[链接](https://www.reddit.com/r/cornsnakes/comments/16u4k2z/little_guys_escaped_last_night_found_him_this/)）：
+
+<p align="center"><img src="images/玉米蛇越狱，洗碗机缝隙找到.jpg" width=603 /></p>
 
 ### 预防
 
@@ -4045,7 +4533,7 @@ Intensity = (2 * h * c^2) / (λ^5 * exp((h * c) / (λ * k * T)) - 1))
 
 下图是利用黑体辐射公式制作的人工红外光源（热源）的光谱（已对红外波段部分做了归一化），这张图非常重要，可以非常直观的理解各种光源优劣的原因：
 
-<p align="center"><img src="images/红外光源波长.jpg" width=303 /></p>
+<p align="center"><img src="images/红外光源波长.jpg" width=403 /></p>
 
 
                商品名                    英文名称                                     黑体辐射温度                紫外/可见                IRA                IRB                IRC                
@@ -4060,10 +4548,11 @@ Intensity = (2 * h * c^2) / (λ^5 * exp((h * c) / (λ * k * T)) - 1))
 
 【】【把各种灯集中到一起，积分各部分波长占比】【】
 
-<p align="center"><img src="images/Emission_Spectrums_Florescent_And_UVB_Self_Measured.png" width=603 /></p>
-<p align="center"><img src="images/Emission_Spectrums_LEDs_Self_Measured.png" width=603 /></p>
-<p align="center"><img src="images/Emission_Spectrums_Halogen_Self_Measured.png" width=603 /></p>
-<p align="center"><img src="images/红外光源波长.jpg" width=303 /></p>
+<p align="center"><img src="images/Emission_Spectrums_Florescent_And_UVB_Self_Measured.png" width=403 /></p>
+
+<p align="center"><img src="images/Emission_Spectrums_LEDs_Self_Measured.png" width=403 /></p>
+
+<p align="center"><img src="images/Emission_Spectrums_Halogen_Self_Measured.png" width=403 /></p>
 
 ## 可见光
 <img src="images/Signal_Light_Green.png" height=15 />
@@ -4101,7 +4590,7 @@ Liam Sinclair认为如果没有光度计，可以用一些与特定型号手机�
 ### 夜灯
 <img src="images/Signal_Light_Green.png" height=15 />
 
-有人喜欢给蛇的栖地里装有色光，比如红灯。他们的理论是蛇看不见红光，所以不干扰蛇休息。这纯粹是胡说八道，蛇完全可以看见红色光。装常亮的有色光会打乱昼夜节律，严重的还可能直接损伤视力和精神状态。不要安装任何有色可见光光源，白光灯在晚上应该定时完全熄灭。（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">Reptifiles, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;况且装了红光的栖地人看着也难受。
+有人喜欢给蛇的栖地里装有色光，比如红灯。他们的理论是蛇看不见红光，所以不干扰蛇休息。这纯粹是胡说八道，蛇完全可以看见红色光。装常亮的有色光会打乱昼夜节律，严重的还可能直接损伤视力和精神状态。不要安装任何有色可见光光源，白光灯在晚上应该定时完全熄灭。（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">Reptifiles</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;况且装了红光的栖地人看着也难受。
 
 
 
@@ -4302,7 +4791,7 @@ UVB可能可以改善蛇的拒食，一项1969年的研究发现接受UV照射�
 
 下图为我测得的不同材料在200~950 nm的吸收光谱（注意受光谱仪限制，吸光度超过2时透过光太弱，仪器无法测出具体的吸光度有多高）。可见6 mm玻璃会极为有效的吸收330 nm以下的绝大多数光；而亚克力更夸张，8 mm的亚克力板直接吸掉了380 nm以下的大部分光，所以UVB灯绝对不能隔着玻璃或者亚克力照射。（有趣的是，相机的“UV镜”比普通玻璃和亚克力的吸收截止波长还要低。）
 
-<p align="center"><img src="images/Absorption_Spectrums_Self_Measured.png" width=603 /></p>
+<p align="center"><img src="images/Absorption_Spectrums_Self_Measured.png" width=403 /></p>
 
 #### 光源距离与是否装有反射器
 
@@ -4333,7 +4822,7 @@ T几，百分比
 
 确定好紫外灯的布置方案，根据布置时晒点的位置、光源距离、光通量分布、光屏障的形状和吸收特性来系统考察动物实际能接收到的UVB计量如何，即可计算出需要把灯装在哪儿、买什么灯。
 
-Reptifiles推荐了下面两种UVB灯给玉米蛇用（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">ReptiFiles, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;，这也符合上述文献中的表格查询结果推荐（<a href="https://doi.org/10.19227/jzar.v4i1.150">Baines, 2016</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Frances Baines, Joe Chattell, James Dale, Dan Garrick, Iri Gill, Matt Goetz, Tim Skelton, Matt Swatman, How much UV-B does my reptile need? The UV-Tool, a guide to the selection of UV lighting for reptiles and amphibians in captivity. _Journal of Zoo and Aquarium Research_, **2016**, _4_, 42." />）<sup>IV</sup>&nbsp;：
+Reptifiles推荐了下面两种UVB灯给玉米蛇用（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">ReptiFiles</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;，这也符合上述文献中的表格查询结果推荐（<a href="https://doi.org/10.19227/jzar.v4i1.150">Baines, 2016</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Frances Baines, Joe Chattell, James Dale, Dan Garrick, Iri Gill, Matt Goetz, Tim Skelton, Matt Swatman, How much UV-B does my reptile need? The UV-Tool, a guide to the selection of UV lighting for reptiles and amphibians in captivity. _Journal of Zoo and Aquarium Research_, **2016**, _4_, 42." />）<sup>IV</sup>&nbsp;：
 * 60cm 18W Zoo Med Reptisun T5 HO 5.0
 * Arcadia D3 Reptile Lamp 6% UVB 60cm 18W
   灯管应该每12个月更换一次，或者如果你有紫外光度计可以定时检测，不合格时及时更管。
@@ -4489,7 +4978,7 @@ DHP不发出可见光，在这一点上算是相比卤灯/白炽灯的一个优�
 
 注意玻璃会吸收部分IRA，不应该将红外光源隔着玻璃照射（见[紫外吸收](#吸收)章节）：
 
-<p align="center"><img src="images/Absorption_Spectrums_Self_Measured.png" width=603 /></p>
+<p align="center"><img src="images/Absorption_Spectrums_Self_Measured.png" width=403 /></p>
 
 更好的选择是订购这种304不锈钢材质的消毒框，这种材料反射红外，因而不会很热，可以让卖家焊四个耳朵，用螺丝拧到栖地上即可。
 【】【注意隔离网到灯的距离】【】
@@ -4534,6 +5023,11 @@ https://youtu.be/IjYGQ2vut1Q?si=mpfgQ3y6f-AUR5D4
 和气体一样，光滑的金属也不能用红外温枪测量，详见黑体辐射(#黑体辐射)一章的表格。
 
 物体表面温度也可以用数字温度探头测量，如加热垫温控器的温控探头，但要注意必须加强固体导热（至少要有充分的固体接触，有时用热导胶固着），否则测到的一部分是周围空气的温度。
+
+一个物体表面温度过热的例子：
+
+https://www.reddit.com/r/cornsnakes/comments/17dx46t/basking_surface_too_hot/
+
 
 #### 空气温度
 <img src="images/Signal_Light_Yellow.png" height=15 />
@@ -4585,6 +5079,8 @@ https://youtu.be/IjYGQ2vut1Q?si=mpfgQ3y6f-AUR5D4
 下图是该城在玉米蛇分布统计上的位置表示（图钉位置是Tallahassee，分步频次统计于iNaturalist）
 
 <p align="center"><img src="images/iNaturalist上的玉米蛇发现位置统计，图钉位置是Tallahassee.png" width=603 /></p>
+
+不过应该注意，不能反过来机械的照搬栖息城市的大环境温度，因为不同动物所处的微环境不同，其与大环境的条件显著不同（例如住在洞穴、地下的动物，就相对于大环境向低温、高湿偏移。
 
 
 
@@ -4654,18 +5150,24 @@ https://youtu.be/IjYGQ2vut1Q?si=mpfgQ3y6f-AUR5D4
 
 光照应该有阴影区（或者暗区），应该有梯度、有遮挡。提供的选择越丰富越不容易出错。
 
-例如下图是Liam Sinclair的王蛇栖地（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />），它通过布置光源的位置和遮蔽物提供了十分丰富的、交错的、有梯度的微环境。在IRA和UVB灯下放置了木头，让动物可以选择更高照度的环境，向角落移动时光线强度逐渐衰减。灯下方有热区躲避，使得动物可以选择不接受日温性加热，转而接受岩板和躲避被晒热后提供的触温性加热。
+例如下图是Liam Sinclair的墨西哥黑王蛇栖地（<a href="https://www.reptileforums.co.uk/threads/animal-welfare-science-reptiles.1294146/#post-13412752">Sinclair, 2021</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Sinclair%EF%BC%8C%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E5%B0%8F%E5%86%8C%E5%AD%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Liam Sinclair, Reptile Keeping & Brief Introduction to Animal Welfare. 2021" />），它通过布置光源的位置和遮蔽物提供了十分丰富的、交错的、有梯度的微环境。注意到通过这样的布置，栖地有1/3是明亮温暖的，并在另外的2/3范围内逐渐过渡到昏暗凉爽。并通过环境布置让蛇可以在有无UVB，有无光照，温度冷暖，湿度高低之间做出选择。在IRA和UVB灯下放置了木头，让动物可以选择更高照度的环境，向角落移动时光线强度逐渐衰减。灯下方有热区躲避，使得动物可以选择不接受日温性加热，转而接受岩板和躲避被晒热后提供的触温性加热。同时，因为垫材够厚，蛇通过挖洞还可以在地下创建新的微环境。
 
-<p align="center"><img src="images/通过丰容提供环境梯度1_by_Liam_Sinclare.jpg" width=603 /></p>
+<p align="center"><img src="images/Liam Sinclare 栖地布置.jpg" width=603 /></p>
 
-<p align="center"><img src="images/通过丰容提供环境梯度2_by_Liam_Sinclare.jpg" width=603 /></p>
 
+图中软木树皮卷放置的位置经过设计，上方有灯，可以通过吸热后的二次辐射创造一个阴暗温暖的微环境。
+
+图中从热区到冷区都有遮蔽，可以让蛇在不觉得暴露的情况下从热区移动到冷区，不用在安全性和温度之间做妥协。否则如果只在栖地两边放冷区躲避和热区躲避，蛇就会因为要跨越中间的开阔地而感到压力，从而使蛇不倾向于直接选择适宜的环境，而是实在受不了了才换。
+
+中间的树让蛇可以爬高接收紫外线照射，也可以在较低的位置减少紫外线暴露。
+
+好的饲主不应该想“我要给XX温度，XX湿度”，而是“我要建立这样的温度和湿度梯度和微环境选项。”饲主的工作不应该是帮蛇做出决定，而是应该尽可能在大环境中提升环境复杂度，让蛇自己选择它想要的环境。蛇知道自己想要什么环境，它不傻，你提供选项，它们就会做选择。
 
 ### 季节变化
 <img src="images/Signal_Light_Red.png" height=15 />
 
 
-光照的变化是蛇感知季节变化的方式之一（除温度/冬眠之外），所以正确的提供每日光照时间的变化可能有助于调整激素水平，进而有助于繁殖。（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">Reptifiles, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;
+光照的变化是蛇感知季节变化的方式之一（除温度/冬眠之外），所以正确的提供每日光照时间的变化可能有助于调整激素水平，进而有助于繁殖。（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">Reptifiles</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;
 
 
 # 湿度
@@ -4673,13 +5175,17 @@ https://youtu.be/IjYGQ2vut1Q?si=mpfgQ3y6f-AUR5D4
 
 玉米蛇的推荐湿度 60%\~90%，始终保持1/4左右的垫材潮湿。（<a href="https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003860">德国动物饲养条例, 2022</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/%E5%BE%B7%E5%9B%BD%E5%8A%A8%E7%89%A9%E9%A5%B2%E5%85%BB%E6%9D%A1%E4%BE%8B%EF%BC%8CGermany%20Animal%20Husbandry%20Ordinance%EF%BC%8Cversion%20of%2006.05.2022%EF%BC%88%E6%9C%BA%E7%BF%BB%E8%8B%B1%E8%AF%91%EF%BC%89.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Gesamte Rechtsvorschrift für 2. Tierhaltungsverordnung, Fassung vom 06.05.2022》，Elaphe guttata (Kornnatter), 2022" />）<sup>V</sup>&nbsp;
 
-Reptifiles推荐相对湿度 65\~75%。（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">Reptifiles, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;
+Reptifiles推荐相对湿度 65\~75%。（<a href="https://reptifiles.com/corn-snake-care-guide/corn-snake-temperatures-humidity/">Reptifiles</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Temperatures, Lighting & Humidity" />）<sup>III</sup>&nbsp;
 
 有些较旧的指南指出湿度应该控制在60%以下，并认为超过60%会导致scale rot，但这一结论与自然条件不符。下图是玉米蛇原生生境中的某个城市（Tallahassee, Florida）2022年每日最低/最高湿度的周平均值（[Weather Underground](https://www.wunderground.com/history/monthly/us/fl/tallahassee/KTLH/date/2022-6)），可见自然生境中每日**最低值**就是40\~60%，最高值可超过90%。因此更新的指南中大多给出了超过60%的湿度要求。
 
 （个人观点→）注意自然生境的60-90%不是某一温度下的60\~90%，空气中的水分绝对含量不变时，温度越高、相对湿度越低。所以如果某日的湿度最低值是60%、最高值是90%，很可能是中午60%、晚上90%。所以虽然有60-90%这个区间，在栖地设计时，如果开着晒灯还有80%，那还是太湿；晚上18度的时候还只有60%，很可能还是太干。
 
 <p align="center"><img src="images/Tallahassee FL 2022年湿度.png" width=603 /></p>
+
+不过应该注意，不能反过来机械的照搬栖息城市的大环境湿度，要注意微环境。例如对于住在洞穴、地下的动物，在外界适度较低的时候仍然可以保持接近100%的湿度。
+
+
 
 为了维持合适湿度，应该用保湿性较强的垫材和辅助保湿的地面丰容物，<sup>III</sup>见[垫材](#垫材)章节。
 
@@ -4742,6 +5248,12 @@ Reptifiles推荐相对湿度 65\~75%。（<a href="https://reptifiles.com/corn-s
 # 垫材
 <img src="images/Signal_Light_Red.png" height=15 />
 
+【】【挖掘行为】【】
+
+https://www.reddit.com/r/cornsnakes/comments/14pge7y/not_a_cornsnake_but_a_closely_related_eastern/
+
+
+
 树皮垫材长期潮湿时会发霉，下图中上方是新的杉树树皮、下方是在潮湿土壤上放置数周后的杉树树皮显微图像，可见疑似霉菌菌丝生长。<sup>II</sup>
 
 <p align="center"><img src="images/垫材显微照片：杉树树皮（上放正常，下方发霉）.jpg" width=603 /></p>
@@ -4795,7 +5307,7 @@ Reptifile 建议(https://reptifiles.com/corn-snake-care-guide/corn-snake-substra
 * 自己混合：40%有机表层土（腐植土） + 40% Zoo Med ReptiSoil（成分是腐植土+泥炭藓+沙） + 20% play sand。<sup>III</sup>
 * 椰土：便宜且保湿性好。最好保持湿润（否则起尘）。英文商品名有的叫Eco earth。<sup>III</sup>
 
-（Reptiles and research对于椰土作为鬃狮蜥垫材的评价，I've heard people use it in low percentage of mixes. As a singular substrate i have never tried it. I know people worry about it expanding in their gut if eaten because it will go in dry and get wet.）
+（Reptiles and research对于椰土作为鬃狮蜥垫材的评价（https://www.youtube.com/watch?v=-0Db8Evpm6M&lc=UgwcPwMYihBGDv_Fu294AaABAg），I've heard people use it in low percentage of mixes. As a singular substrate i have never tried it. I know people worry about it expanding in their gut if eaten because it will go in dry and get wet.）
 
 一般的：
 
@@ -4889,6 +5401,21 @@ Bioactive的维护几乎不要钱，但建立比较费钱，Sinclair在英国花
 
 <p align="center"><img src="images/垫材显微照片：虫.jpg" width=603 /></p>
 
+该不该消毒 cork:
+
+https://www.youtube.com/channel/UCp9jjIgZ_PX3n4UgznGnlwg/community?lc=UgziLqoW2AvHINgjbtN4AaABAg&lb=UgkxU3HT3-BBJr4QcLGoRjbCXvP5l36Psmm6
+May I ask how should I disinfect the cork tunnels I bought in bulk? 
+
+I tried to boil it but the pot isn't nearly big enough. 
+
+I heard about something called F10SC but I don't know whether it's safe and I think it doesn't works with organic material?
+Show less
+
+@LoriTorrini
+
+Are you concerned about where they came from. I don’t disinfect mine unless they’ve been used by other reptiles before. You can wash with soap and water or soak in an accelerated hydrogen peroxide product like Accel or Rescue.
+
+
 ## 垫材的购买
 <img src="images/Signal_Light_Red.png" height=15 />
 
@@ -4897,6 +5424,10 @@ Bioactive的维护几乎不要钱，但建立比较费钱，Sinclair在英国花
 
 # 攀爬、遮挡与躲避
 <img src="images/Signal_Light_Red.png" height=15 />
+
+高处的躲避
+
+https://www.reddit.com/r/cornsnakes/comments/15i9wj8/he_got_a_new_cave_suspended_about_a_foot_off_the/
 
 【】【好的、复杂的遮挡本身就可能成为躲避，见20230803照片】【】
 
@@ -5405,7 +5936,7 @@ Vitamin B1 deficiency can result from diets containing fish with high thiaminase
 
 Deficiencies of other vitamins and minerals sometimes occur in reptiles and can be diagnosed and treated by your veterinarian.
 
-已下未读：【】【（<a href="http://www.nal.usda.gov/awic/zoo/WholePreyFinal02May29.pdf">Dierenfeld, Year?</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dierenfeld%EF%BC%8C%E5%AE%8C%E6%95%B4%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9%E4%BD%9C%E4%B8%BA%E9%A5%B2%E6%96%99%E7%9A%84%E8%90%A5%E5%85%BB%E7%BB%84%E6%88%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Ellen S. Dierenfeld, Heather L. Alcorn, Krista L. Jacobsen, Dierenfeld, 完整脊椎动物作为饲料的营养组成, National Agricultural Library Z7994.Z65, 2002" />）<sup>IV</sup>&nbsp;】【】
+已下未读：【】【（<a href="http://www.nal.usda.gov/awic/zoo/WholePreyFinal02May29.pdf">Dierenfeld</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dierenfeld%EF%BC%8C%E5%AE%8C%E6%95%B4%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9%E4%BD%9C%E4%B8%BA%E9%A5%B2%E6%96%99%E7%9A%84%E8%90%A5%E5%85%BB%E7%BB%84%E6%88%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Ellen S. Dierenfeld, Heather L. Alcorn, Krista L. Jacobsen, Dierenfeld, 完整脊椎动物作为饲料的营养组成, National Agricultural Library Z7994.Z65, 2002" />）<sup>IV</sup>&nbsp;】【】
 
 <p align="center"><img src="images/Dierenfeld 各种食物的蛋白质和脂肪含量.png" width=1003 /></p>
 
@@ -5420,6 +5951,21 @@ Deficiencies of other vitamins and minerals sometimes occur in reptiles and can 
 <p align="center"><img src="images/Arbuckle 一日龄鸡的营养与小鼠大鼠的对比.png" width=603 /></p>
 
 
+喂水煮蛋的讨论：
+
+https://www.reddit.com/r/cornsnakes/comments/165mqlq/boiled_eggs/
+
+https://www.reddit.com/r/cornsnakes/comments/169wct1/i_had_to_try_it/
+
+
+https://www.youtube.com/watch?v=tTW2nuVTMJQ&lc=Ugyi0NA_XYEb5mNC_jp4AaABAg.9vlOy3h3apE9wEMVA9nVBg
+
+Take E. coli as an example, it reproduce every 20 minutes under ideal temperature (35~40 C), it drops on both ends of the spectrum, but it drops faster on the hotter end. At 45 C, it drops to <5% of the rate. At 25 C, it drops to ~20%.
+
+By that data, I support thawing it in hot water. If you put it in 50 C water, it would thaw within 15 minutes, and you can take it out of the bath above something like 42 C. There won't be enough time to let the bacteria grow, and most of the time the temperature is not suitable (<10% peak rate).
+
+If you put it in 25 C room temperature water, you need more time for it to thaw (haven't tried, maybe an hour?). And it will have >20% peak reproductive rate during the time.
+
 
 
 整体食用，需要带毛、带骨
@@ -5430,10 +5976,14 @@ Deficiencies of other vitamins and minerals sometimes occur in reptiles and can 
 
 鹌鹑苗
 
+
+https://www.reddit.com/r/cornsnakes/comments/15wx8ql/cornsnakes_can_regularly_eat_chicken_and_quail/
+
 Reptilink
 
 喂食时间表
 
+蜕皮时应不应该喂食（见解剖章节）
 
 蛇是机会觅食者，总是非常饿
 
@@ -5446,6 +5996,14 @@ Reptilink
 在窝里喂还是拿出来喂
 
 在栖地里用盘子把盘子反过来的方法，如何让蛇上盘子
+
+不要用软的材料放食物，下面是一个尝试吃掉垫子的例子：
+
+https://www.reddit.com/r/snakes/comments/17j7mms/this_idiot_missed_the_mouse_bit_the_blanket/
+
+（<a href="https://www.bilibili.com/video/BV18h4y1g71o">Bilibili-虚空蛋黄酱_, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Bilibili-虚空蛋黄酱_, 人蛇间的顶级拉扯,2023" />）<sup>I</sup>&nbsp;:
+
+<p align="center"><a href="https://f000.backblazeb2.com/file/voldy-public/videos/王蛇咬尿垫.mp4"><img src="videos/王蛇咬尿垫.jpg" width=603 /></a></p>
 
 所谓误食垫材问题
 
@@ -5481,7 +6039,7 @@ Power feeding 问题，寿命减半
 
 圈养下玉米蛇的主要食物是小鼠（mice），注意不是大鼠（rat）。幼年至成年玉米蛇的食物正好对应幼年至成年的小鼠 <sup>III</sup>。
 
-作为丰容措施，不应该让蛇一辈子只吃一种食物，可以偶尔喂食合适大小的带毛鹌鹑苗。也可以考虑偶尔喂食大鼠，但是因为大鼠的脂肪含量比小鼠高（25~30% vs 15~20%），（<a href="http://www.nal.usda.gov/awic/zoo/WholePreyFinal02May29.pdf">Dierenfeld, Year?</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dierenfeld%EF%BC%8C%E5%AE%8C%E6%95%B4%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9%E4%BD%9C%E4%B8%BA%E9%A5%B2%E6%96%99%E7%9A%84%E8%90%A5%E5%85%BB%E7%BB%84%E6%88%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Ellen S. Dierenfeld, Heather L. Alcorn, Krista L. Jacobsen, Dierenfeld, 完整脊椎动物作为饲料的营养组成, National Agricultural Library Z7994.Z65, 2002" />）<sup>IV</sup>&nbsp; 所以大鼠“更好吃”，因此喂食大鼠有一定可能造成后续拒食小鼠<sup>I</sup>。
+作为丰容措施，不应该让蛇一辈子只吃一种食物，可以偶尔喂食合适大小的带毛鹌鹑苗。也可以考虑偶尔喂食大鼠，但是因为大鼠的脂肪含量比小鼠高（25~30% vs 15~20%），（<a href="http://www.nal.usda.gov/awic/zoo/WholePreyFinal02May29.pdf">Dierenfeld</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Dierenfeld%EF%BC%8C%E5%AE%8C%E6%95%B4%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9%E4%BD%9C%E4%B8%BA%E9%A5%B2%E6%96%99%E7%9A%84%E8%90%A5%E5%85%BB%E7%BB%84%E6%88%90.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Ellen S. Dierenfeld, Heather L. Alcorn, Krista L. Jacobsen, Dierenfeld, 完整脊椎动物作为饲料的营养组成, National Agricultural Library Z7994.Z65, 2002" />）<sup>IV</sup>&nbsp; 所以大鼠“更好吃”，因此喂食大鼠有一定可能造成后续拒食小鼠<sup>I</sup>。
 
 Reptifiles表示也可以喂食鹌鹑蛋，待考察。
 
@@ -5687,7 +6245,17 @@ It has been suggested that live prey would be enriching for carnivorous reptiles
 ## 蛇的胖瘦
 <img src="images/Signal_Light_Red.png" height=15 />
 
+好视频：Lori Torrini的视频：https://www.youtube.com/watch?v=KKetLq-T-Mk&list=PLNbZzsRecQ2aD9saEbc_vO06rxDIqeSwF，有文献
+
+
 【】【Snake Discovery Video】【】
+
+特别瘦的蛇：https://www.reddit.com/r/cornsnakes/comments/160rsjo/is_my_corn_too_thin_internet_provides_conflicting/
+
+https://www.reddit.com/r/cornsnakes/comments/164ywz8/underweight/：
+
+<p align="center"><img src="images/蛇的胖瘦.png" width=603 /></p>
+
 
 ### 过胖
 <img src="images/Signal_Light_Red.png" height=15 />
@@ -5770,6 +6338,15 @@ SnakeDiscovery 20231028的Tinly show视频提到一种解决蛇拒食的方法�
 ## 吐食
 
 吐食的处理，见[蛇病-吐食](#吐食问题)
+
+## 排便
+
+【见解剖章节的对应章节】
+
+用尿布：
+
+https://www.reddit.com/r/cornsnakes/comments/15yakim/the_art_vs_the_artist/
+
 
 ## 饲料动物的处死和人道主义问题
 <img src="images/Signal_Light_Red.png" height=15 />
@@ -6020,7 +6597,9 @@ Youtube: 第一周95F=35C，第一周之后每三天降低5F = 2.5 C
 
 自然界的（非伏击型）捕食者通常具有探索欲
 
-# 同类社交
+# 共栖关系
+
+## 同种共栖
 
 玉米蛇除交配外无社群需求，除非饲养环境超级大（如动物园那种十几平米面积、两三米高的超大栖地），都推荐独居<sup>IV</sup>。（冬眠期间除外，冬眠时的玉米蛇在完成逐步降温后可以在群居放在相对较小的盒子中”冷藏“（注意不是一般的食物冰箱温度），复苏时再分房。在野外时可也见多条玉米蛇（甚至不同物种的蛇）共享一个相对温暖的冬眠洞穴。<sup>III</sup>）
 
@@ -6037,12 +6616,21 @@ Youtube: 第一周95F=35C，第一周之后每三天降低5F = 2.5 C
 
 “网上有人共栖就没有问题”不构成应该共栖的理由，要看出过什么问题、概率多少、风险回报率如何，而不是有人没出问题就没问题。不是100%发生的风险也是风险。就算某种疾病痊愈率98%，也不是要主动得病的理由。
 
+## 种间共栖
+
+目前没有已知的符合动物福利的玉米蛇种间共栖的案例。
+
+严格避免有食蛇性的蛇与玉米蛇共栖，比如王蛇、王锦蛇、森王蛇等（这听起来是废话，然而就是有人这么干，也有因为玉米蛇越狱进入王蛇栖地被吃掉）。
+
+下图是一条200克的玉米蛇被40克的王蛇绞杀（<a href="https://www.bilibili.com/video/BV1Gm4y1F7BM">Bilibili--清晨日暮, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="-清晨日暮, 四十多克王蛇绞杀两百多克玉米，被气死,2022" />）<sup>I</sup>&nbsp;。
+
+<p align="center"><img src="images/玉米蛇被王蛇绞杀.jpg" width=603 /></p>
 
 
 # 蜕皮
 <img src="images/Signal_Finished.png" height=15 />
 
-见[解剖与生理-皮肤-蜕皮](#蜕皮)一章。
+见[解剖与生理-皮肤-蜕皮](#蛇的蜕皮)一章。
 
 ## 卡皮
 <img src="images/Signal_Light_Red.png" height=15 />
@@ -6177,17 +6765,55 @@ In 2018, the European Commission decided to ban the use of PHMB as a preservativ
 丰容物的消毒
 
 
+冯柚子的消毒剂介绍
+
+https://www.bilibili.com/video/BV1M84y1t7tB/
+
 
 
 
 # 互动与行为训练
+
+## 行为训练
+
+行为训练总列表
+
+https://www.youtube.com/watch?v=2iBNAx2QEKo&list=PLNbZzsRecQ2bHDS2MpxHoMzTwSuqAAhlP&pp=iAQB
+
+行为训练
+
+https://www.youtube.com/watch?v=Z8k5_SBwWpU&list=PLNbZzsRecQ2agf6jvvclnP4_W2fKNFlWG&pp=iAQB
+教程：https://www.youtube.com/watch?v=RWazu_4EQ-4&list=PLNbZzsRecQ2Z_kODRrOD-yBEdgAWkjO8e&pp=iAQB
+https://www.youtube.com/watch?v=V5cL0J4pK4M&list=PLNbZzsRecQ2a19Bz5v1C7894I33-Z6jjG&pp=iAQB
+https://www.youtube.com/watch?v=mtJptMksfBw&list=PLNbZzsRecQ2bnY-OwNNvgj9hb3k4yMhpY&pp=iAQB
+https://www.youtube.com/watch?v=MQxt-h6DdWw&list=PLNbZzsRecQ2aZi4CfONNKQOq_UUowACdZ&pp=iAQB
+
+新蛇、换缸
+
+https://www.youtube.com/watch?v=X6rZ1PUi7to&list=PLNbZzsRecQ2bb2YV8hNHypL4TSKHFjvjt&pp=iAQB
+https://www.youtube.com/watch?v=Dtcz0MwXG68&list=PLNbZzsRecQ2amxGwVgnsEqZmfb_jkV82S&pp=iAQB
+https://www.youtube.com/watch?v=m8rT2vuG4wo&list=PLNbZzsRecQ2Zk9r_dy5cv8b2occ3Ofreq&pp=iAQB
+https://www.youtube.com/watch?v=xBdPYXc8Agc&list=PLNbZzsRecQ2ZrOHDA9YM_cciwYI1-8sja
+https://www.youtube.com/watch?v=m8rT2vuG4wo&list=PLNbZzsRecQ2ZrOHDA9YM_cciwYI1-8sja&index=2&pp=iAQB
+
+训练蛇识别几个重要的信号会非常有助于与蛇实现良好的互动（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, RReading Your Snake's Body Language and other things that will make your life (and theirs) easier., 2022" />）<sup>III</sup>&nbsp;：
+
+* 即将进食（用以起到反向确认的作用，既“没看到这个信号，那就不是该进食了，不用把我的手指头当成食物”）。
+* 即将（非主动性的）上手、或者即将进入栖地。出示这种目标棒之后，你一定会进入栖地（no-choice cue），蛇没得选。与choice-based handing区分开。
+
+造成压力的一个主要原因是不可预知性。如果动物明确的知道一件事即将发生（而不是意外发生），那么对于同一个刺激源，造成的压力会小得多。（<a href="https://www.youtube.com/watch?v=f3HgVXQrrE0">Lori Torrini, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Lori Torrini, Reading Your Snake's Body Language and other things that will make your life (and theirs) easier. 2022" />）<sup>III</sup>&nbsp;
+
+目标物什么都可以。只需要满足：
+* 足够显眼，不要太小。
+* 容易清洁、消毒。
+* 对于喂食目标棒，最好是可以伸缩的长杆，因为未训练好时蛇可能攻击目标棒，较长的棒可以避免咬手。
+* 不同目的的目标棒最好有足够的差别，在形状、颜色、花纹等都显出差别。目标棒严禁混用。
 
 
 ## 上手
 <img src="images/Signal_Light_Red.png" height=15 />
 
 进行行为训练首先要学会阅读蛇的肢体语言。见[蛇的行为学](#蛇的行为学)章节。
-
 
 
 英文是Handling。（注意有些从英文自动翻译成中文的资料会把这词翻译成“处理”，需要甄别，比如“如何处理攻击意识很强的宠物蛇”。）
@@ -6242,11 +6868,20 @@ Reptifiles
 ### 蛇的上手脱敏
 <img src="images/Signal_Light_Red.png" height=15 />
 
+Lori Torrini- Least Intrusive Tutorial
+
+https://www.youtube.com/watch?v=X6rZ1PUi7to&list=PLNbZzsRecQ2ZCkDoPIMfNHQbgsxpBeqb7&pp=iAQB
+https://www.youtube.com/watch?v=GWQCO7bMN8s&list=PLNbZzsRecQ2bHcWp8-EG6O26T8lZbaQr6&pp=iAQB
+https://www.youtube.com/watch?v=4ljtIS4qCKw&list=PLNbZzsRecQ2bMde9oCRTKALG6N6IHKgn5&pp=iAQB
+https://www.youtube.com/watch?v=s4ME7R-bkbo&list=PLNbZzsRecQ2bfPt03xjMlisZJg6OmNTCi&pp=iAQB
+https://www.youtube.com/watch?v=c_9413XnmZc&list=PLNbZzsRecQ2ZrOHDA9YM_cciwYI1-8sja&index=5&pp=iAQB
+
+
 【】【Lori Torrini，Gradual Desensitization Series还没看】【】
 
 玉米蛇是最容易上手的蛇之一。很凶的玉米蛇并不多见。不过刚孵出来的婴儿蛇除外。刚孵出来的蛇就是非常凶，但是被咬了也没啥事。
 
-以下分割线内的内容全部作废！用Lori Torrini的choice based handling + gradual desensititzation代替
+以下分割线内的内容全部作废！用Lori Torrini的choice based handling + gradual desensititzation（https://www.youtube.com/watch?v=GWQCO7bMN8s）代替
 
 --------------------------------------------------------------
 
@@ -6279,21 +6914,39 @@ Reptifiles
 另外[那个冯柚子](http://b23.tv/kksQOcf)曾拍视频演示较凶的小蛇可以通过创造黑暗空间使其（暂时？）温顺。
 --------------------------------------------------------------
 
+choice based handling
+
+我家伏地魔学的特别快，喂食的这个也就是三、四次正强化就明确建立了关系。（不过后来和纸盘子有点目标混淆[笑哭]）
+
+这样不会咬手。只有称重之类不上手的检查项目才用食物强化，每次喂食前都一定会出示食物目标棒。这样蛇知道“跟着这个红色棒有饭吃”，又知道“没有红色棒就没饭吃”。这样分隔了捕食行为和其他互动行为，反而能解决咬人的问题。
+
+主动上手（基于蛇自主选择的上手，英文是Choice-based handling）训练是用蛇“想出来”的欲望强化。比如蛇在门口往外看的时候把门打开，拿手给它作为一个支点，让它在门周围玩。建立“伸手就是可以出去玩”的关系之后手一伸进爬箱蛇能主动爬到手上。（当然有的时候它就是不想出去玩，那就换个时间再上手。）
+
+蛇的尾巴卷住物体其实是一种紧张体态，要找到一个受力的支点好做后面的动作（攻击或者撤退）。如果蛇比较抗拒被拽出来，就会使劲找一切物体去钩住，这是蛇觉得上手是负面体验。相反如果做了主动上手，蛇不紧张，也不硬拽，尾巴是放松的，不抓东西。
+
+另外也有“必须得出来”的“信号式目标棒”。视频里这种是“行为式目标棒”，出示后期待蛇做出某种行为；“信号式目标棒”是期待蛇“知道一件事情”，但蛇什么都不需要做。出示被动上手目标棒之后，不管蛇喜不喜欢都会被拿出来。这样虽然蛇还是不乐意出来，但是有个明确的预期，至少不会被吓到，而且也知道反抗没有用。
+
+行为训练细节特别多，我还在学。后面会总结一些笔记发专栏（不过估计要很久以后，专栏还有好多东西要写）。能去外面的话“Lori Torrini”频道有一系列视频特别特别好，加起来大几个小时。
+
+
+超出主动上手训练的安全范围时，出示“no-choice cue”目标棒，表示choice-based handing结束，你会被强制上手。
+
+
 ### 行为训练：合适的信号
 
-在训练期间，行为信号和行为之间要建立数学上充要条件的关系。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）以用目标棒喂食为例。
+在训练期间，行为信号和行为之间要建立数学上充要条件的关系。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）以用目标棒喂食为例。
 
-充分性：出现目标棒，一定意味着要（尝试）喂食。不要展示了目标棒却又不喂食，或者展示了目标棒去干别的了、比如上手（即目标物不能有二义性，ambiguity）。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
+充分性：出现目标棒，一定意味着要（尝试）喂食。不要展示了目标棒却又不喂食，或者展示了目标棒去干别的了、比如上手（即目标物不能有二义性，ambiguity）。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
 
-必要性：每次喂食之前，都要展示这个目标棒；不要不展示目标棒就喂食，也不要展示其他物体（比如展示上手的信号）之后喂食。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
+必要性：每次喂食之前，都要展示这个目标棒；不要不展示目标棒就喂食，也不要展示其他物体（比如展示上手的信号）之后喂食。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
 
-各种不同目的信号要充分分隔，有明显差异。最好在形状、大小、颜色、甚至气味上都有差异。如果能采用不同维度的信号也是很好的选择，例如喂食时使用目标棒为信号，上手时使用气味或震动为信号等等。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
+各种不同目的信号要充分分隔，有明显差异。最好在形状、大小、颜色、甚至气味上都有差异。如果能采用不同维度的信号也是很好的选择，例如喂食时使用目标棒为信号，上手时使用气味或震动为信号等等。（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）
 
 提供行为训练信号的重要性在于动物都对意外的、突然发生的、预后不清的事情有很强的负面情绪（包括人在内），这在进化过程中通常意味着极度危险。所以使用信号系统可以降低事件的意外成度，对事情有预期。
 
 ### 喂食信号和目标棒训练
 
-如上面的例子所述，每次给蛇喂食前，应该给一个明确的、不变的信号表示“现在是吃饭时间了”。这对促进和谐的人蛇互动、避免错误的捕食行为非常重要。【（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）】
+如上面的例子所述，每次给蛇喂食前，应该给一个明确的、不变的信号表示“现在是吃饭时间了”。这对促进和谐的人蛇互动、避免错误的捕食行为非常重要。【（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）】
 
 
 【】【油管Lori Torrini】【】
@@ -6305,7 +6958,7 @@ Reptifiles
 
 被动上手与下面说的“自主选择上手”相对，指的是你即将在不遵从蛇的意愿的前提下侵犯蛇的栖地并上手。蛇不管愿不愿意，都得接收。
 
-之前提供一个明确的、不变的信号（注意这种信号当然要与喂食信号不同），例如展示特定的物体，【（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）】 或者更简单的可以将手置于蛇的面前（不要太近）让蛇嗅闻手的气味。
+之前提供一个明确的、不变的信号（注意这种信号当然要与喂食信号不同），例如展示特定的物体，【（<a href="https://youtu.be/f3HgVXQrrE0?si=ycDt8xzZuGJxc_Sq">【FILL_REF_AUTHOR: 】</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="" />）】 或者更简单的可以将手置于蛇的面前（不要太近）让蛇嗅闻手的气味。
 
 被动上手信号要保证强制性，即只要展示了这种信号，就必须完成上手的动作。让蛇知道只要出现了这种信号，靠躲是躲不过去的。
 
@@ -6813,7 +7466,7 @@ junction提供更大的支撑，蛇只有一个occiput，操作不当容易脱�
 ## 新蛇查体
 <img src="images/Signal_Light_Green.png" height=15 />
 
-买蛇时应该注意检查动物的下列方面（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**, _Elsevier_." />）<sup>IV</sup>&nbsp;，尽可能在买之前就检查好，当然给钱之前卖家不让上手也可以理解，但是至少在交钱之后要当场上手检查一下 （<a href="https://reptifiles.com/corn-snake-care-guide/shopping-list/">Reptifiles - M. Healey, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Buying Guide" />）<sup>III</sup>：
+买蛇时应该注意检查动物的下列方面（Mader, 2019&nbsp;<img src="images/Icon_Info.png" height=14 title="S. Divers, S. Stahl, Mader's Reptile and Amphibian Medicine and Surgery. **2019**, _Elsevier_." />）<sup>IV</sup>&nbsp;，尽可能在买之前就检查好，当然给钱之前卖家不让上手也可以理解，但是至少在交钱之后要当场上手检查一下 （<a href="https://reptifiles.com/corn-snake-care-guide/shopping-list/">Reptifiles - M. Healey</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Corn Snake Buying Guide" />）<sup>III</sup>：
 * 精神上是否警觉
 * 有无开放伤口或伤疤（野蛇大部分有伤，有伤疤时要高度怀疑是不是野蛇）
 * 口腔损伤
@@ -7059,6 +7712,12 @@ Reptifile
 
 国内有许多人（包括部分宠物医生）认为国内的蛇很少有寄生虫病，有时即使出现了特征症状，也对寄生虫病的可能不屑一顾。实际上国内宠物市场的寄生虫病并不罕见，尤其是看到售卖亚成体和成体时候一定要考虑是不是有难以医治的寄生虫病。要了解寄生虫病的症状特征，比如看到“两岁亚成体，母，吐过一次调理好了，短期内只能吃无毛乳鼠”就要高度怀疑是不是隐孢子虫感染。家里已经有爬行动物买蛇时，新蛇到家一定要隔离，非常推荐做一套常见寄生虫检查。
 
+https://www.bilibili.com/video/BV1dT411y7CP/
+
+https://www.bilibili.com/video/BV1Vg4y1575n/
+
+https://www.bilibili.com/video/BV1Gj411e7uQ/
+
 ### 滴虫感染
 <img src="images/Signal_Light_Red.png" height=15 />
 
@@ -7073,6 +7732,8 @@ http://b23.tv/UnlfP7J
 <img src="images/Signal_Light_Red.png" height=15 />
 
 隐孢子虫即Cryptosporidiosis，英文语境下常被缩写为Crypto
+
+https://www.bilibili.com/video/BV1RG411p7gf/
 
 http://b23.tv/EPi5aJp
 
@@ -7157,6 +7818,10 @@ Reptifile：
 参见上面的措施，还是传染病三原则。
 
 
+网上的图：
+
+https://www.reddit.com/r/snakes/comments/177cqb3/help_snake_is_horribly_infested_with_mites_we/
+
 ## 便秘
 
 ## 拉稀
@@ -7206,7 +7871,7 @@ Reptifile：
 * 这篇文献很好：（<a href="https://www.vetexotic.theclinics.com/article/S1094-9194(02)00020-8/pdf">Schumacher, 2003</a>&nbsp;<a href="%E9%99%84%E4%BB%B6/Schumacher%EF%BC%8C%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.pdf"><img src="images/Icon_Download.png" height=14 /></a>&nbsp;<img src="images/Icon_Info.png" height=14 title="J. Schumacher, Reptile respiratory medicine. _Vet. Clin. Exot. Anim._ **2003**, _6_, 213. " />）<sup>IV</sup>&nbsp;
 * （<a href="https://www.msdvetmanual.com/exotic-and-laboratory-animals/reptiles/bacterial-diseases-of-reptiles">默沙东手册, 2020</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="MSD Veterinary Manual, Bacterial Diseases of Reptiles, 2020" />）<sup>IV</sup>&nbsp;
 * （<a href="https://www.petmd.com/reptile/conditions/skin/c_rp_pneumonia">PetMD, 2023</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="PetMD, Respiratory Infections in Reptiles, 2023" />）<sup>III</sup>&nbsp;
-* （<a href="https://reptifiles.com/sudan-plated-lizard-care/health/respiratory-infection">Reptifiles, Year?</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Respiratory Infection of Sudan Plated Lizard" />）<sup>III</sup>&nbsp;
+* （<a href="https://reptifiles.com/sudan-plated-lizard-care/health/respiratory-infection">Reptifiles</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Reptifiles, Respiratory Infection of Sudan Plated Lizard" />）<sup>III</sup>&nbsp;
 * （<a href="https://www.youtube.com/watch?v=00o2dd47-SY">Snake Discovery, 2018</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="Snake Discovery, Identifying Upper Respiratory Infections in Snakes, 2018." />）<sup>III</sup>&nbsp;
 * （<a href="https://www.bilibili.com/video/BV1Ze411j7ed">那个冯柚子, 2022</a>&nbsp;<img src="images/Icon_Info.png" height=14 title="那个冯柚子, 玉米蛇肺炎治疗心得&雾化好物分享, 2022" />）<sup>I</sup>&nbsp;
 
@@ -7369,9 +8034,80 @@ http://b23.tv/h7LAjtM
 
 【】【附件/Mader，爬行动物用药剂量和正常血液指标.pdf】【】
 
+## 病例收集
+
+突然死亡
+
+https://www.reddit.com/r/kingsnakes/comments/17kt8g1/im_devastatedlooking_for_answers/
+
+被猫咬了
+
+https://www.reddit.com/r/cornsnakes/comments/17ib5pg/cat_attacked_snake_pls_help/
+
+<p align="center"><img src="images/玉米蛇被猫咬了3.jpg" width=603 /></p>
+
+<p align="center"><img src="images/玉米蛇被猫咬了1.jpg" width=603 /></p>
+
+<p align="center"><img src="images/玉米蛇被猫咬了2.jpg" width=603 /></p>
+
+腹部肿物
+
+https://www.reddit.com/r/cornsnakes/comments/14ua5dr/11_month_old_corn_snake_has_swollen_stomach_all/
+
+未知疾病
+
+https://www.reddit.com/r/cornsnakes/comments/1786d6n/am_i_crazy_or_does_she_look_gravid/
+
+https://www.reddit.com/r/cornsnakes/comments/17bs2xx/update_am_i_crazy_or_does_she_look_gravid/
+
+https://www.reddit.com/r/cornsnakes/comments/16a830o/i_think_my_snake_is_going_to_die_please_help/
+
+https://www.reddit.com/r/cornsnakes/comments/17mjztw/corn_snake_pupils_and_headshape_dont_look_good/
+
+https://www.reddit.com/r/cornsnakes/comments/1790xzn/what_could_that_bulge_be/
+
+https://www.reddit.com/r/cornsnakes/comments/16tqfdv/my_boy_seems_to_have_backpain/
+
+https://www.bilibili.com/video/BV1bG4y1e7au/
+
+https://www.bilibili.com/video/BV1vT41137G8/
+
+棕黑锦蛇把肠子拉出来： https://www.bilibili.com/video/BV1XN41137B6/?spm_id_from=333.999.0.0
+
+呼吸道疾病
+
+https://www.reddit.com/r/cornsnakes/comments/16zc6ve/help_sick_snake/
+
+https://www.reddit.com/r/cornsnakes/comments/17edpr9/is_he_ok/
+
+肠炎
+
+https://www.bilibili.com/video/BV1CS4y1i7od/
+
+死亡
+
+https://www.reddit.com/r/cornsnakes/comments/16wcqsi/my_boy_died_lastnight/
+
+鳞片问题
+
+https://www.reddit.com/r/cornsnakes/comments/16zutf4/is_this_scarring_on_top_of_his_head/
+
+https://www.reddit.com/r/cornsnakes/comments/14y6eoe/is_this_scale_rot_or_something_else/
+
+肿瘤
+
+https://www.reddit.com/r/cornsnakes/comments/16mtc1o/my_sweet_girl_passed_away/
+
+气味腺肿
+
+https://www.reddit.com/r/cornsnakes/comments/135051a/impacted_scent_gland/
+
 # 应急预案
 
+
 ## 逃逸
+
+
 <img src="images/Signal_Light_Red.png" height=15 />
 
 【】【这是一个很好的丢蛇、找蛇的案例视频：https://www.youtube.com/watch?v=8e_WsWUGkXw&t=1299s】【】
@@ -7403,13 +8139,13 @@ https://reptifiles.com/how-to-find-lost-snake/
 
 Reddit帖子
 
-（国内的话）一定谨慎报警。Bilibili up主边无年（http://b23.tv/rB2ZZdz）过年回家把王锦蛇放在抽屉里（不是蛇柜抽屉，是正常储物的、后挡板比前面板低的抽屉，不大能理解是怎么想的。。。），后逃逸，报警告诉警察，希望如果警察接警到发现宠物蛇的警情，能通知饲主去处理。然而警察直接通过小区微信群告诉所有人有宠物蛇逃逸，并导致部分居民意见。一定考虑到警察中非理性恐蛇的并不少，多半会站在其他居民的角度。（该例中还有另一个因素是王锦蛇属于三有动物，个人饲养有一定的法律风险，至少也要费一番事，要注意处理；玉米蛇无此问题。）
+（国内的话）一定谨慎是否要报警。Bilibili up主[边无年](http://b23.tv/rB2ZZdz)过年回家把王锦蛇放在抽屉里（不是蛇柜抽屉，是正常储物的、后挡板比前面板低的抽屉，不大能理解是怎么想的。。。），后逃逸，报警告诉警察，希望如果警察接警到发现宠物蛇的警情，能通知饲主去处理。然而警察直接通过小区微信群告诉所有人有宠物蛇逃逸，并导致部分居民意见。一定考虑到警察中非理性恐蛇的并不少，多半会站在其他居民的角度。（该例中还有另一个因素是王锦蛇属于三有动物，个人饲养有一定的法律风险，至少也要费一番事，要注意处理；玉米蛇无此问题。）
 
 
-## YQ应急预案
+## 疫情管控应急预案
 <img src="images/Signal_Light_Red.png" height=15 />
 
-按 Notion/应急预案/YQ权益争取预案 依次争取：不去 - 留一人在家 - 去但不给钥匙
+按 Notion/应急预案/疫情权益争取预案 依次争取：不去 - 留一人在家 - 去但不给钥匙
 
 判断是否带走。若不带走，按顺序执行：
 
@@ -7603,7 +8339,9 @@ Snake Discovery 视频
 * 北京荣安动物医院某医生（用视频询问[蛇腹心跳问题](#易误解问题：心跳)被其认为是食物）
 * 北京观赏动物医院某医生（为豹纹守宫开出了远远超出文献所示剂量的处方；并且不知道豹纹守宫的断尾大多数能长回来）
 
-# 版权法律问题
+# 其他问题
+
+【版权法律问题】
 
 符合国内外对版权内容 fair use 的惯例规定：
 
@@ -7631,5 +8369,20 @@ Snake Discovery 视频
 > 5. 若对原作的使用不侵害原作的营利性则更容易被判定为fair use（但对原作的恶搞（parody）有时即使影响了原作营利性，也会被判定为符合fair use）。
 > 
 
+# 词汇表
+
+* sympathetic adrenal medullary (SAM) response：交感神经-肾上腺髓质反应
+* autonomic nervous system：自主神经系统
+* catecholamine：儿茶酚胺
+* hydrocortison：皮质醇
+* cortisol：皮质醇
+* corticosterone：皮质酮
+* warm-temperate water-skink：黄腹蜓蜥*Eulamprus heatwolei*
+* corticotropin releasing factor, CRF：促-肾上腺皮质激素-释放因子
+* CRF：促-肾上腺皮质激素-释放因子
+* Common garter snake：普通束带蛇
+* stress ulcer：应激性溃疡
+* PGs：前列腺素
+* handling：上手
 
 ----------------------------------------END----------------------------------------
